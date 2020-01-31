@@ -1,6 +1,6 @@
 # Tapiosi's Logos
  
-Here you will find tv channel logos for free from around the world in high quality and suitable for dark backgrounds.
+Here you will find free tv channel logos from around the world in good quality and suitable for dark backgrounds.
  
   
 ## About the project
@@ -28,6 +28,8 @@ If you want to support me continuing the work, you can donate by clicking the do
 - All the logos come in PNG format and work perfectly on dark backgrounds.
 
 - In the beginning weeks the focus will be on US/UK channels.
+
+- To save space, most of the logos will be between 250px - 1024px in width. Please contact me if you need a specific logo in specific/larger resolution.
 
 - I also provide logos for US local networks that can be hard to find. In many cases I have to recreate them.
 
@@ -66,11 +68,7 @@ There is always a dash(-) between channel name and number.
   
   
 ## Latest updates
-```markdown
-**2020-january-30:** Project created. Added logos from UK/US.
-SEE older updates(link).
-```
-  
+[Click here to see latest updates.](updates.md)
   
   
 ## Notes
