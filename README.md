@@ -68,11 +68,7 @@ There is always a dash(-) between channel name and number.
   
   
 ## Latest updates
-```markdown
-**2020-january-30:** Project created. Added logos from UK/US.
-SEE older updates(link).
-```
-  
+[Click here to see latest updates.](updates.md)
   
   
 ## Notes
