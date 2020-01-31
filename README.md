@@ -29,6 +29,8 @@ If you want to support me continuing the work, you can donate by clicking the do
 
 - In the beginning weeks the focus will be on US/UK channels.
 
+- To save space, most of the logos will be between 250px - 1024px in width. Please contact me if you need a specific logo in specific/larger resolution.
+
 - I also provide logos for US local networks that can be hard to find. In many cases I have to recreate them.
 
 - For a small fee I can create a hard-to-find logo or skip the que for a specific country/network of your own choice and provide the logo's in high quality, pm for more info.
