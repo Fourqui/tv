@@ -1,6 +1,6 @@
 # Tapiosi's Logos
  
-Here you will find tv channel logos for free from around the world in high quality and suitable for dark backgrounds.
+Here you will find free tv channel logos from around the world in good quality and suitable for dark backgrounds.
  
   
 ## About the project
