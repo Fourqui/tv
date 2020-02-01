@@ -27,7 +27,7 @@ If you want to support me continuing the work, you can donate by clicking the do
 
 - All the logos come in PNG format and work perfectly on dark backgrounds.
 
-- In the beginning weeks the focus will be on US/UK channels.
+- In the beginning weeks the focus will be on english speaking channels.
 
 - To save space, most of the logos will be between 250px - 1024px in width. Please contact me if you need a specific logo in specific/larger resolution.
 
