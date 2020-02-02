@@ -1,3 +1,5 @@
+<img src="https://github.com/Tapiosinn/tv-logos/blob/master/misc/github-header1.jpg?raw=true" width="100%">
+
 # Tapiosi's Logos
  
 Here you will find free tv channel logos from around the world in good quality and suitable for dark backgrounds.
@@ -78,3 +80,5 @@ This project is possible thanks to Creative Commons ShareAlike licenses, CC BY-S
 
 For more info on the project or information please PM me or send me email at tapio.sinnertwin(at)gmail.com
 I will try my best to reply within 24hr. Thank you.
+
+<img src="https://github.com/Tapiosinn/tv-logos/blob/master/misc/repository-open-graph-template.jpg?raw=true" width="100%">
