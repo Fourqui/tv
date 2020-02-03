@@ -3,6 +3,8 @@
 # Tapiosi's Logos
  
 Here you will find free tv channel logos from around the world in good quality and suitable for dark backgrounds.
+
+Ipmortant note: I have over 500 logos for US Local channels from all around the US(ABC,NBC,FOX,CBS, and more) Major cities and hillbilly places. Just give me a week or two to upload all them here as I need to filter some ut and redo. Of the 500 collected, I've recreated about 20-30(that does not include when I have to flip black/white colors) so allot of work ahead. And again, my logos only work on dark background! There are plenty of weirdos doing logos for white background. Thank you.
  
   
 ## About the project
@@ -64,6 +66,9 @@ Examples: *abc-7-koat-us.png  discovery-channel-us.png  syfy-br.png  fox-crime-i
 Plus channels are identified with "plus", example: *challenge-plus-uk.png*
 
 If ampersand(&) is present in channel name then it will be replaced by "and", example: *a-and-e-us.png*
+
+For channels that dont authenticate with a major broadcaster then I will use the city/county/state,
+Example: *7-news-miami-wsvn-us.png  7-news-boston-whdh-us*
 
 Be aware of the dash when searching for a logo in a long list of channels, include it in your search to be more precise, example: *channel-4* instead of ~~channel 4~~.
 There is always a dash(-) between channel name and number.
