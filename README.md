@@ -68,7 +68,7 @@ Plus channels are identified with "plus", example: *challenge-plus-uk.png*
 If ampersand(&) is present in channel name then it will be replaced by "and", example: *a-and-e-us.png*
 
 For channels that dont authenticate with a major broadcaster then I will use the city/county/state,
-Example: *7-news-miami-wsvn-us.png  7-news-boston-whdh-us*
+Example: *7-news-miami-wsvn-us.png  7-news-boston-whdh-us.png*
 
 Be aware of the dash when searching for a logo in a long list of channels, include it in your search to be more precise, example: *channel-4* instead of ~~channel 4~~.
 There is always a dash(-) between channel name and number.
