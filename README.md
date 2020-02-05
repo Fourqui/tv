@@ -4,7 +4,7 @@
  
 Here you will find free tv channel logos from around the world in good quality and suitable for dark backgrounds.
 
-Ipmortant note: I have over 500 logos for US Local channels from all around the US(ABC,NBC,FOX,CBS, and more) Major cities and hillbilly places. Just give me a week or two to upload all them here as I need to filter some ut and redo. Of the 500 collected, I've recreated about 20-30(that does not include when I have to flip black/white colors) so allot of work ahead. And again, my logos only work on dark background! There are plenty of weirdos doing logos for white background. Thank you.
+Ipmortant note: I have over 500 logos for US Local channels from all around the US(ABC,NBC,FOX,CBS, and more) Major cities and hillbilly places. Just give me a week or two to upload all them here as I need to filter some out and redraw. Of the 500 collected, I've recreated about 40-50(that does not include when I have to flip black/white colors) so allot of work ahead. And again, most of my logos only work on dark background! There are plenty of ~~weirdos~~ awesome people doing logos for white background, but a BIG majority of TV programs and guides have dark interface. Thank you.
  
   
 ## About the project
