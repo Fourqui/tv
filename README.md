@@ -1,6 +1,8 @@
 <img src="https://github.com/Tapiosinn/tv-logos/blob/master/misc/github-header1.jpg?raw=true" width="100%">
 
 # Tapiosi's Logos
+
+After 2 weeks of hard work I'm really close to 1000 logos! The first milestone! I will add a milestone uppdates here at this page. Click watch to follow the progress.
  
 Here you will find free tv channel logos from around the world in good quality and suitable for dark backgrounds.
 
@@ -23,7 +25,12 @@ Here's a preview of some of the logos on a dark background:
 
 If you want to support me continuing the work, you can donate by clicking the donate button:
 
-<a href="https://www.paypal.me/9000hobbs"><img src="https://i.imgur.com/bxVikSY.png" width="150px"></a>
+<a href="https://www.paypal.me/9000hobbs"><img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/paypal-donate.png" width="150px"></a>
+
+Or support me by clicking the sponsor button here on Github.
+
+<a href="https://flattr.com/@Tapiosi"><img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/sponsor-button.png" width="75px"></a>
+
 
 - The goal of this project is to give people better access to logos in good quality and to meet the design requirements of the designers/owners of the logos and supply the increasing demand for better quality experience.
 
