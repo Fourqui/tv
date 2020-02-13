@@ -1,6 +1,10 @@
+<img src="https://github.com/Tapiosinn/tv-logos/blob/master/misc/github-header1.jpg?raw=true" width="100%">
+
 # Tapiosi's Logos
  
 Here you will find free tv channel logos from around the world in good quality and suitable for dark backgrounds.
+
+Ipmortant note: I have over 500 logos for US Local channels from all around the US(ABC,NBC,FOX,CBS, and more) Major cities and hillbilly places. Just give me a week or two to upload all them here as I need to filter some out and redraw. Of the 500 collected, I've recreated about 40-50(that does not include when I have to flip black/white colors) so allot of work ahead. And again, most of my logos only work on dark background! There are plenty of ~~weirdos~~ awesome people doing logos for white background, but a BIG majority of TV programs and guides have dark interface. Thank you.
  
   
 ## About the project
@@ -27,7 +31,7 @@ If you want to support me continuing the work, you can donate by clicking the do
 
 - All the logos come in PNG format and work perfectly on dark backgrounds.
 
-- In the beginning weeks the focus will be on US/UK channels.
+- In the beginning weeks the focus will be on english speaking channels.
 
 - To save space, most of the logos will be between 250px - 1024px in width. Please contact me if you need a specific logo in specific/larger resolution.
 
@@ -63,6 +67,9 @@ Plus channels are identified with "plus", example: *challenge-plus-uk.png*
 
 If ampersand(&) is present in channel name then it will be replaced by "and", example: *a-and-e-us.png*
 
+For channels that dont authenticate with a major broadcaster then I will use the city/county/state,
+Example: *7-news-miami-wsvn-us.png  7-news-boston-whdh-us.png*
+
 Be aware of the dash when searching for a logo in a long list of channels, include it in your search to be more precise, example: *channel-4* instead of ~~channel 4~~.
 There is always a dash(-) between channel name and number.
   
@@ -78,3 +85,5 @@ This project is possible thanks to Creative Commons ShareAlike licenses, CC BY-S
 
 For more info on the project or information please PM me or send me email at tapio.sinnertwin(at)gmail.com
 I will try my best to reply within 24hr. Thank you.
+
+<img src="https://github.com/Tapiosinn/tv-logos/blob/master/misc/repository-open-graph-template.jpg?raw=true" width="100%">
