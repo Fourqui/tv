@@ -9,11 +9,11 @@ I will try my best to log all major updates to this document.
 
 ## February
 ```
-2020-02-14: Added all Cinemax US and Starz US logos, HBO is a WIP, HBO will take some time
-            cause there are many versions and different between countries, I have
+2020-02-14: Added all Cinemax US and Starz US logos, HBO is a WIP, HBO will take
+            some time cause there are many versions of the logo, I have
             to be 100% in the HBO US version. Plus I added some other random logos.
             I'm getting close to first milestone, 1000 logos! But HBO and more is
-            My main goal today. Lots of work 💪🏻
+            My main goal today. Lots of work 💪🏻 Thanks to ryc3c00ker for the support!
 2020-02-13: I created an International category, for all those channels that are
             not broadcasting in a specific area but instead most of the world. In
             there you'll find BBC international logos. International logos have the
