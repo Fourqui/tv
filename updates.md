@@ -9,8 +9,8 @@ I will try my best to log all major updates to this document.
 
 ## February
 ```
-2020-02-16: Past to days added many logos. Finished updating all the HBO US logos
-            To their latest look, international and many countries are sill using
+2020-02-16: Past two days added many logos. Finished updating all the HBO US logos
+            to their newest look, international and many countries are sill using
             previous version of HBO. Added lots of US local logos, 80% are in low
             quality and thats not good enough. I will try to find 1-2 hours a day
             to work on those icons as most of them need to be re-drawn from scratch.
