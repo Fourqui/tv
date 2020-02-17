@@ -11,12 +11,13 @@ I will try my best to log all major updates to this document.
 ```
 2020-02-16: Past to days added many logos. Finished updating all the HBO US logos
             To their latest look, international and many countries are sill using
-            preous version of HBO. Added lots of US local logos, 80% are in low
+            previous version of HBO. Added lots of US local logos, 80% are in low
             quality and thats not good enough. I will try to find 1-2 hours a day
             to work on those icons as most of them need to be re-drawn from scratch.
             You can now become a sponsor, I'm not sure how it works but just click
             the heart sponsor button at the top, or find my donation link. I'm
-            unemployed so every little thing helps.
+            unemployed so every little thing helps. Gona try my best of adding
+            more sports channels and feeds. 
 2020-02-14: Added all Cinemax US and Starz US logos, HBO is a WIP, HBO will take
             some time cause there are many versions of the logo, I have
             to be 100% in the HBO US version. Plus I added some other random logos.
