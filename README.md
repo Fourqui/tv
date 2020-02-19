@@ -1,4 +1,4 @@
-<img src="https://github.com/Tapiosinn/tv-logos/blob/master/misc/github-header1.jpg?raw=true" width="100%">
+<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/github-header2.jpg" width="100%">
 
 # Tapiosi's Logos
 
