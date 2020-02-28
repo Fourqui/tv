@@ -9,6 +9,8 @@ I will try my best to log all major updates to this document.
 
 ## February
 ```
+2020-02-28: Ok I don't have time writing about updates, and I forget :D
+            Anyways...bunch of logo's added in the last days.
 2020-02-16: Past two days added many logos. Finished updating all the HBO US logos
             to their newest look, international and many countries are sill using
             previous version of HBO. Added lots of US local logos, 80% are in low
