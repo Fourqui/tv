@@ -1,18 +1,16 @@
 <img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/github-header2.jpg" width="100%">
 
-# Tapiosi's Logos
+# Tapiosi's high quality TV Logos for dark backgrounds
 
-After 2 weeks of hard work I'm really close to 1000 logos! The first milestone! I will add milestone uppdates here at this page. Click watch to follow the progress.
+I'm back baby!
  
 Here you will find free tv channel logos from around the world in good quality and suitable for dark backgrounds.
 
-Ipmortant note: I have over 500 logos for US Local channels from all around the US(ABC,NBC,FOX,CBS, and more) Major cities and hillbilly places. Just give me a week or two to upload all them here as I need to filter some out and redraw. Of the 500 collected, I've recreated about 40-50(that does not include when I have to flip black/white colors) so allot of work ahead. And again, most of my logos only work on dark background! BIG majority of TV programs and tv-guides have a dark interface.
+Ipmortant note: I have over 500 logos for US Local channels from all around the US(ABC,NBC,FOX,CBS, and more) Major cities and hillbilly places. Just give me ~~a week or two~~ forever to upload all them here as I need to filter some out and redraw. Of the 500 collected, I've recreated about 40-50(that does not include when I have to flip black/white colors) so allot of work ahead. And again, most of my logos only work on dark background! BIG majority of TV apps and tv-guides have a dark interface.
  
   
 ## About the project
-I started the project on January 30th 2020, it will take a few days/weeks to upload all of the logos I have gathered throughout the years. Some logos have changed during that time and some need to be refreshed. Update log is at the bottom of the page (I will also add a link here to the main update log file).
-
-The logos are adjusted to work on a dark background. Some of them are not suitable for ligth backgrounds.
+The logos are adjusted to work on a dark background. Some of them are not suitable for ligth backgrounds. Since the Git interface is white you might think the logo is not loading but it is, just copy the RAW link. See help-guide.
 
 I've spent well over 100 hours searching for the correct logos and in many cases I've needed to recreate a logo from scratch, and invert black colors to white. I've collected logos for 2 years for private use and now I feel like there's demand for a service like this one. As an educated graphic designer I will be as professional as I can and incorporate good work ethics and give the logos the care they almost never get.
 
