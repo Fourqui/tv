@@ -44,7 +44,7 @@ Or support me by clicking the sponsor button here on Github.
 
 - For a small fee I can create a hard-to-find logo or skip the que for a specific country/network of your own choice and provide the logo's in high quality, pm for more info.
 
-- Donators get a channel logo request. I also take requests for custom logos or logos for a light background.*
+- Donators can request a channel logo. How many logos and type varies on the donation. I also take requests for custom logos or logos for a light background. I can do about 5-10 logos for 10$ donation, depends on complexity.
 
 - The list is free for personal use. Please refference my work for any re-distribution. It's forbidden to sell the logos to 3rd party or use them in any illegitimate way. I do not take responsibility for what you do with the logos.
 
@@ -86,7 +86,6 @@ example: bbc-world-news-hz-uk.png.
   
   
 ## Notes
-* Custom logos for donators will be added to a special Donators folder with their name, unless the donator asks not to be shared with others. Logo sourcing/creation can take small amount of time to a few hours, all depending on how complex the logo is. If you donate and would like to send a logo request please contact me afterwards.
 
 This project is possible thanks to Creative Commons ShareAlike licenses, CC BY-SA and CC BY-NC-SA.
 
