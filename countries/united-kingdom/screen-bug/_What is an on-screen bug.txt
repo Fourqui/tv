@@ -1,2 +1,9 @@
 
-A digital on-screen graphic (originally known as digitally originated graphic, and known in the UK and New Zealand by the acronym DOG; in the US, Canada, Ireland and Australia as a bug[1] or network bug) is a watermark-like station logo that most television broadcasters overlay over a portion of the screen area of their programs to identify the channel. They are thus a form of permanent visual station identification, increasing brand recognition and asserting ownership of the video signal. In some cases, the graphic also shows the name of the current program.
+A digital on-screen graphic (originally known as digitally originated graphic,
+and known in the UK and New Zealand by the acronym DOG; in the US, Canada,
+Ireland and Australia as a bug[1] or network bug) is a watermark-like station
+logo that most television broadcasters overlay over a portion of the screen
+area of their programs to identify the channel. They are thus a form of permanent
+visual station identification, increasing brand recognition and asserting
+ownership of the video signal. In some cases, the graphic also shows the name
+of the current program. 
