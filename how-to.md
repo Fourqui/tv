@@ -1,8 +1,8 @@
-# How to get the logos image URL.
+# How to get the correct logo image URL.
 
-When you need to get the image URL for a logo, make sure that you have the correct URL. All logos are transparent PNG files. If you are not in dark mode in Github then you might sometimes not see the logo as it's white. Trust me its there, you can right click on it.
+When you need to get the image URL for a logo, make sure that you have the correct URL, the one with 'raw' in the string. All logos are transparent PNG files. If you are not in dark mode in Github then you might sometimes not see the logo as it's white. Trust me its there, you can right click on it.
 
-Follow these steps for an easy way of getting the working .png url.
+Follow these steps for an easy way of getting the working .png 'raw' url.
 
 <img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/how-to-logo-url-step-1.png" width="100%">
 
