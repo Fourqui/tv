@@ -2,7 +2,10 @@
 
 # Tapiosi's high quality TV Logos for dark backgrounds
 
-I'm back baby!
+Contact: tapio.sinnertwin(at)gmail.com
+I will try my best to reply within 24hr.
+
+
  
 Here you will find free tv channel logos from around the world in good quality and suitable for dark backgrounds.
 
@@ -22,6 +25,7 @@ Here's a preview of some of the logos on a dark background(not a real software):
 ## I will regularly add new logos, you can also message me and request logos.
 
 If you want to support me continuing the work, you can donate by clicking the donate button:
+Donaters can jump in line and request missing logos for me to do as soon as I can.
 
 <a href="https://www.paypal.me/9000hobbs"><img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/paypal-donate.png" width="150px"></a>
 
@@ -29,22 +33,19 @@ Or support me by clicking the sponsor button here on Github.
 
 <a href="https://flattr.com/@Tapiosi"><img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/sponsor-button.png" width="75px"></a>
 
+- Donators get a channel logo request. I also take requests for custom logos or logos for a light background.*
 
 - The goal of this project is to give people better access to logos in good quality and to meet the design requirements of the designers/owners of the logos and supply the increasing demand for better quality experience.
 
-- The long term goal of this projects is to have as many tv logos available as possible, from all over the world. 
-
 - All the logos come in PNG format and work perfectly on dark backgrounds.
 
-- In the beginning weeks the focus will be on english speaking channels.
+- In the beginning the focus will be on english speaking channels.
 
-- To save space, most of the logos will be between 250px - 1024px in width. Please contact me if you need a specific logo in specific/larger resolution.
+- Most of the logos will be between 512px - 1024px in width. Please contact me if you need a specific logo in specific/larger resolution.
 
 - I also provide logos for US local networks that can be hard to find. In many cases I have to recreate them.
 
 - For a small fee I can create a hard-to-find logo or skip the que for a specific country/network of your own choice and provide the logo's in high quality, pm for more info.
-
-- Donators can request a channel logo. How many logos and type varies on the donation. I also take requests for custom logos or logos for a light background. I can do about 5-10 logos for 10$ donation, depends on complexity.
 
 - The list is free for personal use. Please refference my work for any re-distribution. It's forbidden to sell the logos to 3rd party or use them in any illegitimate way. I do not take responsibility for what you do with the logos.
 
@@ -79,17 +80,9 @@ Be aware of the dash when searching for a logo in a long list of channels, inclu
 There is always a dash(-) between channel name and number.
 A horizontal version of a logo will have hz in its name if there's a regular version also,
 example: bbc-world-news-hz-uk.png.
-  
-  
-## Latest updates
-[Click here to see latest updates.](updates.md)
-  
-  
-## Notes
 
 This project is possible thanks to Creative Commons ShareAlike licenses, CC BY-SA and CC BY-NC-SA.
 
 For more info on the project or information please PM me or send me email at tapio.sinnertwin(at)gmail.com
 I will try my best to reply within 24hr. Thank you.
 
-<img src="https://github.com/Tapiosinn/tv-logos/blob/master/misc/repository-open-graph-template.jpg?raw=true" width="100%">
