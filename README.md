@@ -18,7 +18,7 @@ The logos are adjusted to work on a dark background. Some of them are not suitab
 I've spent well over 100 hours searching for the correct logos and in many cases I've needed to recreate a logo from scratch, and invert black colors to white. I've collected logos for 2 years for private use and now I feel like there's demand for a service like this one. As an educated graphic designer I will be as professional as I can and incorporate good work ethics and give the logos the care they almost never get.
 
 Here's a preview of some of the logos on a dark background(not a real software):
-<img src="https://i.imgur.com/LGqLLYA.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/contrastDemo2.jpg" width="100%">
  
  
  
@@ -84,3 +84,4 @@ By using the logos you have to agree with the following: The logo you are about 
 For more info on the project or information please PM me or send me email at tapio.sinnertwin(at)gmail.com
 I will try my best to reply within 24hr. Thank you.
 
+<img src="https://i.imgur.com/LGqLLYA.jpg" width="100%">
