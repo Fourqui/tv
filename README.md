@@ -33,13 +33,11 @@ Or support me by clicking the sponsor button here on Github.
 
 <a href="https://flattr.com/@Tapiosi"><img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/sponsor-button.png" width="75px"></a>
 
-- Donators get a channel logo request. I also take requests for custom logos or logos for a light background.*
+- Donators get a channel logo request. I also take requests for custom logos or logos for a light background.
 
 - The goal of this project is to give people better access to logos in good quality and to meet the design requirements of the designers/owners of the logos and supply the increasing demand for better quality experience.
 
 - All the logos come in PNG format and work perfectly on dark backgrounds.
-
-- In the beginning the focus will be on english speaking channels.
 
 - Most of the logos will be between 512px - 1024px in width. Please contact me if you need a specific logo in specific/larger resolution.
 
@@ -55,7 +53,7 @@ Or support me by clicking the sponsor button here on Github.
 
 - You can link directly to the URL of any logo but I do not take any responsibility if links are broken. If you are having issues with the logos url's then send me PM.
 
-- If a channel changes its logo or rebrands, I will replace the original logo, if you are using direct link then the logo will update for you automatically. When a logo becomes defunct it will be moved to a special defunct folder and get a new url.
+- If a channel changes its logo or rebrands, I will replace the original logo, if you are using direct link then the logo will update for you automatically.
 
 - If you would like to be able to link the logos to a service you provide, for example a website/service/app then please contact me first.
 
@@ -67,21 +65,21 @@ Or support me by clicking the sponsor button here on Github.
 
 Filenames are all lowercase and start with channel name and then number if applicable and country code at the end. Dashes are used to replace spaces. Call signs for local networks are also lowercase and appear before country.
 
-Examples: *abc-7-koat-us.png  discovery-channel-us.png  syfy-br.png  fox-crime-it.png  kanal-5-se.png*
+Examples: *abc-7-koat-us.png | discovery-channel-us.png | syfy-br.png | fox-crime-it.png | kanal-5-se.png*
 
 Plus channels are identified with "plus", example: *challenge-plus-uk.png*
 
-If ampersand(&) is present in channel name then it will be replaced by "and", example: *a-and-e-us.png*
+If ampersand(&) is present in channel name then it will be replaced "and", example: *a-and-e-us.png*
 
 For channels that dont authenticate with a major broadcaster then I will use the city/county/state,
 Example: *7-news-miami-wsvn-us.png  7-news-boston-whdh-us.png*
 
 Be aware of the dash when searching for a logo in a long list of channels, include it in your search to be more precise, example: *channel-4* instead of ~~channel 4~~.
-There is always a dash(-) between channel name and number.
 A horizontal version of a logo will have hz in its name if there's a regular version also,
 example: bbc-world-news-hz-uk.png.
 
 This project is possible thanks to Creative Commons ShareAlike licenses, CC BY-SA and CC BY-NC-SA.
+By using the logos you have to agree with the following: The logo you are about to use is the intellectual property of the copyright, trademark holder and is offered to you as a convenience for lawful use.
 
 For more info on the project or information please PM me or send me email at tapio.sinnertwin(at)gmail.com
 I will try my best to reply within 24hr. Thank you.
