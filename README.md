@@ -20,8 +20,8 @@ I've spent well over 100 hours searching for the correct logos and in many cases
 Here's a preview of some of the logos on a dark background(not a real software):
 <img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/contrastDemo2.jpg" width="100%">
  
- 
- 
+<a href="https://github.com/Tapiosinn/tv-logos/blob/master/how-to.md">CLICK HERE for guide on how to use the logos</a>
+
 ## I will regularly add new logos, you can also message me and request logos.
 
 If you want to support me continuing the work, you can donate by clicking the donate button:
