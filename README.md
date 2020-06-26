@@ -13,12 +13,12 @@ Ipmortant note: Most of my logos only work on dark background! BIG majority of a
  
   
 ## About the project
-The logos are adjusted to work on a dark background. Some of them are not suitable for ligth backgrounds. Since the Git interface is white you might think the logo is not loading but it is, just copy the RAW link. See help-guide. I recommend getting a browser extension that changes Git to dark.
+The logos are adjusted to work on a dark background. Some of them are not suitable for ligth backgrounds. Since the Git interface is white you might think the logo is not loading but it is, just copy the **RAW** link. <a href="https://github.com/Tapiosinn/tv-logos/blob/master/how-to.md">CLICK HERE for logo url help-guide.</a> I recommend getting a browser extension that changes Git to dark.
 
 Get GitHub Dark Theme for <a href="https://chrome.google.com/webstore/detail/github-dark-theme/odkdlljoangmamjilkamahebpkgpeacp">CHROME</a> or <a href="https://addons.mozilla.org/en-US/firefox/addon/github-dark-theme/">FIREFOX</a>
 
-
-I'm close to 3000 logos!
+*Update, june 26th 2020.*
+I'm close to 3000 logos! I've started adding logos from non-english speaking countries.
 
 Here's a preview of some of the logos on a dark background(not a real software):
 <img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/contrastDemo2.jpg" width="100%">
@@ -68,18 +68,20 @@ Or support me by clicking the sponsor button here on Github.
 
 Filenames are all lowercase and start with channel name and then number if applicable and country code at the end. Dashes are used to replace spaces. Call signs for local networks are also lowercase and appear before country.
 
-Examples: *abc-7-koat-us.png | discovery-channel-us.png | syfy-br.png | fox-crime-it.png | kanal-5-se.png*
+Examples: **abc-7-koat-us.png | discovery-channel-us.png | syfy-br.png | fox-crime-it.png | kanal-5-se.png**
 
-Plus channels are identified with "plus", example: *challenge-plus-uk.png*
-For Australia the +2 channels are *fox-hits-plus-2-au.png*
+Plus channels are identified with "plus", example: **challenge-plus-uk.png**
+For Australia the +2 channels are **fox-hits-plus-2-au.png**
 
-If ampersand(&) is present in channel name then it will be replaced with "and", example: *a-and-e-us.png*
+If ampersand(&) is present in channel name then it will be replaced with "and", example: **a-and-e-us.png**
 
-For channels that dont authenticate with a network affiliate or Owned-and-operated station then I will use the city/county/state,
-Example: *7-news-miami-wsvn-us.png | 7-news-boston-whdh-us.png*
+For channels that dont authenticate with a network affiliate or Owned-and-operated station then I will use the city/county/state.
 
-Be aware of the dash when searching for a logo in a long list of channels, include it in your search to be more precise. 
-Example: *channel-4* instead of ~~channel 4~~.
+Example: **7-news-miami-wsvn-us.png | 7-news-boston-whdh-us.png**
+
+**Be aware of the dash when searching for a logo in a long list of channels, include it in your search.** 
+
+Example: **channel-4** instead of **channel 4**.
 
 A horizontal version of a logo will have hz in its name if there's a regular version also. 
 Example: bbc-world-news-hz-uk.png.
