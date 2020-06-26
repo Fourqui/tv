@@ -46,7 +46,7 @@ Or support me by clicking the sponsor button here on Github.
 
 - I also provide logos for US local networks that can be hard to find. In many cases I have to recreate them.
 
-- For a donation I can create a hard-to-find logo or skip the que for a specific country/network of your own choice and provide the logo's in high quality, pm for more info.
+- For a donation I can create a hard-to-find logo or skip the queue for a specific country/network of your own choice and provide the logo's in high quality, pm for more info.
 
 - The list is free for personal use. Please refference my work for any re-distribution. It's forbidden to sell the logos to 3rd party or use them in any illegitimate way. I do not take responsibility for what you do with the logos.
 
