@@ -78,9 +78,11 @@ If ampersand(&) is present in channel name then it will be replaced with "and", 
 For channels that dont authenticate with a network affiliate or Owned-and-operated station then I will use the city/county/state,
 Example: *7-news-miami-wsvn-us.png | 7-news-boston-whdh-us.png*
 
-Be aware of the dash when searching for a logo in a long list of channels, include it in your search to be more precise, example: *channel-4* instead of ~~channel 4~~.
-A horizontal version of a logo will have hz in its name if there's a regular version also,
-example: bbc-world-news-hz-uk.png.
+Be aware of the dash when searching for a logo in a long list of channels, include it in your search to be more precise. 
+Example: *channel-4* instead of ~~channel 4~~.
+
+A horizontal version of a logo will have hz in its name if there's a regular version also. 
+Example: bbc-world-news-hz-uk.png.
 
 This project is possible thanks to Creative Commons ShareAlike licenses, CC BY-SA and CC BY-NC-SA.
 By using the logos you have to agree with the following: The logo you are about to use is the intellectual property of the copyright, trademark holder and is offered to you as a convenience for lawful use.
