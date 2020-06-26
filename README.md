@@ -9,13 +9,16 @@ I will try my best to reply within 24hr.
  
 Here you will find free tv channel logos from around the world in good quality and suitable for dark backgrounds.
 
-Ipmortant note: I have over 500 logos for US Local channels from all around the US(ABC,NBC,FOX,CBS, and more) Major cities and hillbilly places. Just give me ~~a week or two~~ forever to upload all them here as I need to filter some out and redraw. Of the 500 collected, I've recreated about 40-50(that does not include when I have to flip black/white colors) so allot of work ahead. And again, most of my logos only work on dark background! BIG majority of TV apps and tv-guides have a dark interface.
+Ipmortant note: Most of my logos only work on dark background! BIG majority of apps and tv-guides have a dark user interface.
  
   
 ## About the project
-The logos are adjusted to work on a dark background. Some of them are not suitable for ligth backgrounds. Since the Git interface is white you might think the logo is not loading but it is, just copy the RAW link. See help-guide.
+The logos are adjusted to work on a dark background. Some of them are not suitable for ligth backgrounds. Since the Git interface is white you might think the logo is not loading but it is, just copy the RAW link. See help-guide. I recommend getting a browser extension that changes Git to dark.
 
-I've spent well over 100 hours searching for the correct logos and in many cases I've needed to recreate a logo from scratch, and invert black colors to white. I've collected logos for 2 years for private use and now I feel like there's demand for a service like this one. As an educated graphic designer I will be as professional as I can and incorporate good work ethics and give the logos the care they almost never get.
+Get GitHub Dark Theme for <a href="https://chrome.google.com/webstore/detail/github-dark-theme/odkdlljoangmamjilkamahebpkgpeacp">CHROME</a> or <a href="https://addons.mozilla.org/en-US/firefox/addon/github-dark-theme/">FIREFOX</a>
+
+
+I'm close to 3000 logos!
 
 Here's a preview of some of the logos on a dark background(not a real software):
 <img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/contrastDemo2.jpg" width="100%">
@@ -43,7 +46,7 @@ Or support me by clicking the sponsor button here on Github.
 
 - I also provide logos for US local networks that can be hard to find. In many cases I have to recreate them.
 
-- For a small fee I can create a hard-to-find logo or skip the que for a specific country/network of your own choice and provide the logo's in high quality, pm for more info.
+- For a donation I can create a hard-to-find logo or skip the que for a specific country/network of your own choice and provide the logo's in high quality, pm for more info.
 
 - The list is free for personal use. Please refference my work for any re-distribution. It's forbidden to sell the logos to 3rd party or use them in any illegitimate way. I do not take responsibility for what you do with the logos.
 
@@ -68,11 +71,12 @@ Filenames are all lowercase and start with channel name and then number if appli
 Examples: *abc-7-koat-us.png | discovery-channel-us.png | syfy-br.png | fox-crime-it.png | kanal-5-se.png*
 
 Plus channels are identified with "plus", example: *challenge-plus-uk.png*
+For Australia the +2 channels are *fox-hits-plus-2-au.png*
 
-If ampersand(&) is present in channel name then it will be replaced "and", example: *a-and-e-us.png*
+If ampersand(&) is present in channel name then it will be replaced with "and", example: *a-and-e-us.png*
 
-For channels that dont authenticate with a major broadcaster then I will use the city/county/state,
-Example: *7-news-miami-wsvn-us.png  7-news-boston-whdh-us.png*
+For channels that dont authenticate with a network affiliate or Owned-and-operated station then I will use the city/county/state,
+Example: *7-news-miami-wsvn-us.png | 7-news-boston-whdh-us.png*
 
 Be aware of the dash when searching for a logo in a long list of channels, include it in your search to be more precise, example: *channel-4* instead of ~~channel 4~~.
 A horizontal version of a logo will have hz in its name if there's a regular version also,
