@@ -7,7 +7,7 @@ I will try my best to reply within 24hr.
 
 
  
-Here you will find free tv channel logos from around the world in good quality and suitable for dark backgrounds.
+Here you will find free tv channel logos from around the world in good high-res quality and suitable for dark backgrounds.
 
 Ipmortant note: Most of my logos only work on dark background! BIG majority of apps and tv-guides have a dark user interface.
  
