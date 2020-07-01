@@ -93,3 +93,7 @@ For more info on the project or information please PM me or send me email at tap
 I will try my best to reply within 24hr. Thank you.
 
 <img src="https://i.imgur.com/LGqLLYA.jpg" width="100%">
+
+|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-thriller-uk.png" width="100%">|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-select-uk.png" width="100%">|
+|---|---|
+|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-uk.png" width="100%">|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-cinema-hd-uk.png" width="100%">|
