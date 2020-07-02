@@ -4,14 +4,18 @@
 
 Contact: tapio.sinnertwin(at)gmail.com
 I will try my best to reply within 24hr.
-
-
  
+  
+  
 Here you will find free tv channel logos from around the world in good high-res quality and suitable for dark backgrounds.
 
 Ipmortant note: Most of my logos only work on dark background! BIG majority of apps and tv-guides have a dark user interface.
  
-  
+## I've started work on updating Sky Cinema logos with their new designs.
+|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-uk.png" width="100%">|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-cinema-hd-uk.png" width="100%">|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-thriller-uk.png" width="100%">|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-select-uk.png" width="100%">|
+|---|---|---|---|
+
+
 ## About the project
 The logos are adjusted to work on a dark background. Some of them are not suitable for ligth backgrounds. Since the Git interface is white you might think the logo is not loading but it is, just copy the **RAW** link. <a href="https://github.com/Tapiosinn/tv-logos/blob/master/how-to.md">CLICK HERE for logo url help-guide.</a> I recommend getting a browser extension that changes Git to dark.
 
@@ -93,7 +97,3 @@ For more info on the project or information please PM me or send me email at tap
 I will try my best to reply within 24hr. Thank you.
 
 <img src="https://i.imgur.com/LGqLLYA.jpg" width="100%">
-
-
-|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-uk.png" width="100%">|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-cinema-hd-uk.png" width="100%">|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-thriller-uk.png" width="100%">|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-select-uk.png" width="100%">|
-|---|---|---|---|
