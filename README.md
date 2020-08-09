@@ -11,7 +11,7 @@ Here you will find free tv channel logos from around the world in good high-res 
 
 Ipmortant note: Most of my logos only work on dark background! BIG majority of apps and tv-guides have a dark user interface.
  
-## New logos for Germany.
+## New logos for Germany(For dark background).
 |<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/sky-sport/sky-sport-news-de.png" width="100%">|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/sky-atlantic-de.png" width="100%">|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/sky-krimi-de.png" width="100%">|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/sky-one-de.png" width="100%">|
 ---|---|---|---|
 
