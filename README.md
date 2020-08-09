@@ -14,8 +14,12 @@ Ipmortant note: Most of my logos only work on dark background! BIG majority of a
 ## New logos for Germany.
 |<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/sky-sport/sky-sport-news-de.png" width="100%">|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/sky-atlantic-de.png" width="100%">|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/sky-krimi-de.png" width="100%">|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/sky-one-de.png" width="100%">|
 ---|---|---|---|
-<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/sky-sport/sky-sport-news-alt-de.png" width="100%">|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/sky-atlantic-alt-de.png" width="100%">|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/sky-krimi-alt-de.png" width="100%">|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/sky-one-alt-de.png" width="100%">|
-<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/sky-sport/sky-sport-news-alt-de.png" width="100%">|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/hd/sky-atlantic-alt-hd-de.png" width="100%">|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/hd/sky-krimi-alt-hd-de.png" width="100%">|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/hd/sky-one-alt-hd-de.png" width="100%">|
+
+|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/sky-sport/sky-sport-news-alt-de.png" width="100%">|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/sky-atlantic-alt-de.png" width="100%">|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/sky-krimi-alt-de.png" width="100%">|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/sky-one-alt-de.png" width="100%">|
+---|---|---|---|
+
+|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/sky-sport/sky-sport-news-alt-de.png" width="100%">|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/hd/sky-atlantic-alt-hd-de.png" width="100%">|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/hd/sky-krimi-alt-hd-de.png" width="100%">|<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/hd/sky-one-alt-hd-de.png" width="100%">|
+---|---|---|---|
 
 
 
