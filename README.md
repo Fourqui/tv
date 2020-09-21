@@ -12,6 +12,7 @@ Here you will find free tv channel logos from around the world in good high-res 
 Ipmortant note: Most of my logos only work on dark background! BIG majority of apps and tv-guides have a dark user interface.
  
 ## New Sky Sports UK 2020 logos
+I have also updated the Sky Sport Germany/Austria to the new logos. Working on Sky Sport Italy logos.
 <img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/new-sky-sports-logos2020.jpg" width="100%">
 
 
