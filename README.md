@@ -9,15 +9,14 @@ I will try my best to reply within 24hr.
   
 Here you will find free tv channel logos from around the world in good high-res quality and suitable for dark backgrounds.
 
-Ipmortant note: Most of my logos only work on dark background! BIG majority of apps and tv-guides have a dark user interface.
+Important note: Most of my logos only work on dark background! BIG majority of apps and tv-guides have a dark user interface.
  
-## New Sky Sports UK 2020 logos
-I have also updated the Sky Sport Germany/Austria to the new logos. Working on Sky Sport Italy logos.
-<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/new-sky-sports-logos2020.jpg" width="100%">
-
+## VOD logos moved
+I have moved the VOD logos to <a href="https://github.com/Tapiosinn/tv-logos/tree/master/misc">/misc</a>
+If you were directly linking to them, all you have to do is replace this string -> '.../countries/united-states/vod/' with this one -> '.../misc/vod/'
 
 ## About the project
-The logos are adjusted to work on a dark background. Some of them are not suitable for ligth backgrounds. Since the Git interface is white you might think the logo is not loading but it is, just copy the **RAW** link. <a href="https://github.com/Tapiosinn/tv-logos/blob/master/how-to.md">CLICK HERE for logo url help-guide.</a> I recommend getting a browser extension that changes Git to dark.
+The logos are adjusted to work on a dark background. Some of them are not suitable for light backgrounds. Since the Git interface is white you might think the logo is not loading but it is, just copy the **RAW** link by clicking the download button and use that URL <a href="https://github.com/Tapiosinn/tv-logos/blob/master/how-to.md">CLICK HERE for logo url help-guide.</a> I recommend getting a browser extension that changes Git to dark.
 
 Get GitHub Dark Theme for <a href="https://chrome.google.com/webstore/detail/github-dark-theme/odkdlljoangmamjilkamahebpkgpeacp">CHROME</a> or <a href="https://addons.mozilla.org/en-US/firefox/addon/github-dark-theme/">FIREFOX</a>
 
@@ -52,9 +51,9 @@ Or support me by clicking the sponsor button here on Github.
 
 - For a donation I can create a hard-to-find logo or skip the queue for a specific country/network of your own choice and provide the logo's in high quality, pm for more info.
 
-- The list is free for personal use. Please refference my work for any re-distribution. It's forbidden to sell the logos to 3rd party or use them in any illegitimate way. I do not take responsibility for what you do with the logos.
+- The list is free for personal use. Please reference my work for any re-distribution. It's forbidden to sell the logos to 3rd party or use them in any illegitimate way. I do not take responsibility for what you do with the logos.
 
-- I do not own the logos. All the logos in the project do not have copyright on them but instead they are trademarked and with Creative Commons ShareAlike licenses. PM me if you wish to remove/change a logo you own or submitt your logo.
+- I do not own the logos. All the logos in the project do not have copyright on them but instead they are trademarked and with Creative Commons ShareAlike licenses. PM me if you wish to remove/change a logo you own or submit your logo.
 
 - At some point in the future I plan to upload logos in SVG. This is not high priority right now.
 
