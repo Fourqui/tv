@@ -5,15 +5,14 @@
 Contact: tapio.sinnertwin(at)gmail.com
 I will try my best to reply within 24hr.
  
-  
-  
-Here you will find free tv channel logos from around the world in good high-res quality and suitable for dark backgrounds.
-
-Important note: Most of my logos only work on dark background! BIG majority of apps and tv-guides have a dark user interface.
- 
 ## VOD logos moved
 I have moved the VOD logos to <a href="https://github.com/Tapiosinn/tv-logos/tree/master/misc">/misc</a>
 If you were directly linking to them, all you have to do is replace this string -> '.../countries/united-states/vod/' with this one -> '.../misc/vod/'
+  
+Here you will find free tv channel logos from around the world in good high-res quality and suitable for dark backgrounds.
+
+Important note: Most of my logos only work on dark background! Most tv apps and guides have a dark user interface.
+<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/logoset_demo-2.jpg" width="100%">
 
 ## About the project
 The logos are adjusted to work on a dark background. Some of them are not suitable for light backgrounds. Since the Git interface is white you might think the logo is not loading but it is, just copy the **RAW** link by clicking the download button and use that URL <a href="https://github.com/Tapiosinn/tv-logos/blob/master/how-to.md">CLICK HERE for logo url help-guide.</a> I recommend getting a browser extension that changes Git to dark.
