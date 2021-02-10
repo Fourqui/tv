@@ -39,7 +39,7 @@ The logo links will update automatically when I update a logo, unless the name h
 | ![discovery-shed-uk] | ![discovery-turbo-plus-uk] | ![discovery-turbo-uk] | ![disney-channel-bug-uk] | ![disney-channel-plus-uk] | ![disney-channel-uk] |
 | ![disney-junior-plus-uk] | ![disney-junior-uk] | ![disney-plus-uk] | ![disney-xd-plus-uk] | ![disney-xd-uk] | ![dmax-plus-uk] |
 | ![dmax-uk] | ![drama-plus-uk] | ![drama-uk] | ![e-4-hd-uk] | ![e-4-plus-uk] | ![e-4-uk] |
-| ![e-entertainment-hd-uk] | <img src=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/e-entertainment-uk.png height="130px"> | ![eden-hd-uk] | ![eden-plus-uk] | ![eden-uk] | ![-sport-1-hd-uk] |
+| ![e-entertainment-hd-uk] | <img src=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/e-entertainment-uk.png height="130px"> | ![eden-hd-uk] | ![eden-plus-uk] | ![eden-uk] | ![eir-sport-1-hd-uk] |
 | ![eir-sport-1-uk] | ![eir-sport-2-hd-uk] | ![eir-sport-2-uk] | ![eurosport-1-uk] | ![eurosport-2-uk] | ![eva-uk] |
 | ![extreme-sports-channel-uk] | ![faith-uk-uk] | ![fight-network-uk] | ![film-4-hd-uk] | ![film-4-plus-uk] | ![film-4-uk] |
 | ![food-network-plus-uk] | ![food-network-uk] | ![forces-tv-uk] | ![fox-hd-uk] | ![fox-plus-uk] | ![fox-uk] |
