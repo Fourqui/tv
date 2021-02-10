@@ -5,7 +5,10 @@ Right-click each logo to get the direct url or click to open
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | ![sky-sport-austria-at] | <img src=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/arte-fr.png height="120px"> | ![ZZZ] | ![ZZZ] | ![ZZZ] | ![ZZZ] |
 
+## HD
 
+| ![hd/servus-tv-hd-at] | ![hd/sky-sport-austria-1-hd-at] | ![hd/sky-sport-austria-2-hd-at] | ![hd/sky-sport-austria-3-hd-at] | ![hd/sky-sport-austria-4-hd-at] | ![hd/sky-sport-austria-hd-at] |
+|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
 [nick-austria-at]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/austria/nick-austria-at.png
@@ -16,3 +19,9 @@ Right-click each logo to get the direct url or click to open
 [sky-sport-austria-4-at]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/austria/sky-sport-austria-4-at.png
 [sky-sport-austria-at]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/austria/sky-sport-austria-at.png
 
+[hd/servus-tv-hd-at]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/austria/hd/servus-tv-hd-at.png
+[hd/sky-sport-austria-1-hd-at]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/austria/hd/sky-sport-austria-1-hd-at.png
+[hd/sky-sport-austria-2-hd-at]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/austria/hd/sky-sport-austria-2-hd-at.png
+[hd/sky-sport-austria-3-hd-at]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/austria/hd/sky-sport-austria-3-hd-at.png
+[hd/sky-sport-austria-4-hd-at]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/austria/hd/sky-sport-austria-4-hd-at.png
+[hd/sky-sport-austria-hd-at]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/austria/hd/sky-sport-austria-hd-at.png
