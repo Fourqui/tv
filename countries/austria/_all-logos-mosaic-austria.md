@@ -1,6 +1,7 @@
 ## Austria 🇦🇹
 Right-click on a logo and copy the image address to get the direct url or click to open.
-The logo links will update automatically when I update a logo, unless the name has changed. You might need to refresh your app/device or clear cache to force in an update.
+The logo links will update automatically when I update a logo, unless the name has changed. You might need to refresh your app/device or clear cache to force in an update. All the logos have a width of 512px and optimized for smallest filesize. The logos are made to work for dark backgrounds.
+__Combined file size = 0,2mb__ 💾
 
 | ![nick-austria-at] | ![servus-tv-at] | ![sky-sport-austria-1-at] | ![sky-sport-austria-2-at] | ![sky-sport-austria-3-at] | ![sky-sport-austria-4-at] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
