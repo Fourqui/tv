@@ -2,14 +2,19 @@
 
 # Tapiosi's high quality TV Logos for dark backgrounds
 
-Contact: tapio.sinnertwin(at)gmail.com
-I will try my best to reply within 24hr.
+Contact: tapio.sinnertwin(at)gmail.com - I will try my best to reply within 24hr.
+
+Here you will find free tv channel logos from around the world in good high-res quality and suitable for dark backgrounds.
+
  
 ## VOD logos moved
 I have moved the VOD logos to <a href="https://github.com/Tapiosinn/tv-logos/tree/master/misc">/misc</a>
+
 If you were directly linking to them, all you have to do is replace this string -> '.../countries/united-states/vod/' with this one -> '.../misc/vod/'
+
+## Resize and optimize
+I've started the work on resizing all the logos down to 512px and optimizing them. This will make them quicker to load and has a smaller filesize. All new logos I upload will be 512px. You can find the older bigger version of each logo in its history or contact me if you prefer a specific logo to be larger.
   
-Here you will find free tv channel logos from around the world in good high-res quality and suitable for dark backgrounds.
 
 Important note: Most of my logos only work on dark background! Most tv apps and guides have a dark user interface.
 <img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/logoset_demo-2.jpg" width="100%">
