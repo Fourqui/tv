@@ -1,5 +1,8 @@
+## Austria 🇦🇹
+Right-click each logo to get the direct url or click to open
+
 | ![nick-austria-at] | ![servus-tv-at] | ![sky-sport-austria-1-at] | ![sky-sport-austria-2-at] | ![sky-sport-austria-3-at] | ![sky-sport-austria-4-at] |
-|-|-|-|-|-|-|
+|:-:|:-:|:-:|:-:|:-:|:-:|
 | ![sky-sport-austria-at] | <img src=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/arte-fr.png height="120px"> | ![ZZZ] | ![ZZZ] | ![ZZZ] | ![ZZZ] |
 
 
