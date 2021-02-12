@@ -898,4 +898,4 @@
 [yanga]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/yanga-uk.png
 [yesterday-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/yesterday-plus-uk.png
 [yesterday]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/yesterday-uk.png
-[space]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/flow-sports-hz-car.png
+[space]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/%CE%A9/space-1500.png
