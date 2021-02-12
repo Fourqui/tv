@@ -1,5 +1,5 @@
 ## Austria 🇦🇹
-Right-click on a logo and copy the image address to get the direct url or click to open.
+🛠 Right-click on a logo and copy the image address to get the direct url or click to open.
 
 🔗 The links will update automatically when I update a logo, unless the name has changed.
 
@@ -9,7 +9,7 @@ Right-click on a logo and copy the image address to get the direct url or click 
 
 🖤 The logos are created specifically to work on dark backgrounds.
 
-🎨 __13 Logos__ | 💎 __6 HD logos__ | 💾 __Combined file size = 0,2mb__
+🎨 __13 Logos__  |  💎 __6 HD logos__  |  💾 __Combined file size = 0,2mb__
 
 | ![nick-austria-at] | ![servus-tv-at] | ![servus-tv-hd-at] | ![sky-sport-austria-1-at] | ![sky-sport-austria-1-hd-at] | ![sky-sport-austria-2-at] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
