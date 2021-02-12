@@ -11,8 +11,9 @@
 
 🎨 __756 Logos__  |  💎 __167 HD Logos__  |  💾 __Combined file size = 18,4mb__  |  📅 __Last update: 12/feb'21__
 
-| ![4-more-hd] | ![4-more-plus] | ![4-more] | ![4-music] | ![4-seven-hd] | ![4-seven] |
+| ![4-more-hd] | ![4-more-hd] | ![4-more-hd] | ![4-more-hd] | ![4-more-hd] | ![4-more-hd] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
+| ![4-more-hd] | ![4-more-plus] | ![4-more] | ![4-music] | ![4-seven-hd] | ![4-seven] |
 | ![5-select] | ![5-star-plus] | ![5-star] | ![5-usa-plus] | ![5-usa] | ![92-news] |
 | ![aka] | ![alibi-plus] | ![alibi] | ![aljazeera] | ![all-4] | ![amc] |
 | ![animal-planet-plus] | ![animal-planet] | ![arise-news] | ![ary-digital] | ![ary-family] | ![b4u-movies] |
