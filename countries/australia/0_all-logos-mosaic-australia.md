@@ -1,7 +1,15 @@
 ## Australia 🇦🇺
-Right-click on a logo and copy the image address to get the direct url or click to open.
-The logo links will update automatically when I update a logo, unless the name has changed. You might need to refresh your app/device or clear cache to force in an update. All the logos have a width of 512px and optimized for smallest filesize. The logos are made to work for dark backgrounds.
-__Combined file size = 4,5mb__ 💾
+🛠 Right-click on a logo and copy the image address to get the direct url or click to open.
+
+🔗 The links will update automatically when I update a logo, unless the name has changed.
+
+♻️ You might need to refresh your app/device or clear cache to force in an update.
+
+📐 The logos have a max-width of 512px and have been optimized for smallest filesize.
+
+🖤 The logos are created specifically to work on dark backgrounds.
+
+🎨 __274 Logos__  |  💎 __79 HD Logos__  |  💾 __Combined file size = 4,5mb__  |  📅 __Last update: 12/feb'21__
 
 | ![10-bold-au] | ![10-peach-au] | ![10-shake-au] | ![10-sport-au] | ![7flix-au] | ![7mate-au] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
