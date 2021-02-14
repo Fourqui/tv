@@ -21,7 +21,7 @@
 | ![polsat-sport-premium-5-ppv] | ![polsat-sport-premium-6-ppv] | ![teletoonus] | ![tvp-abc] | ![tvp-dokument] | ![tvp-hd] |
 | ![tvp-historia] | ![tvp-info] | ![tvp-kultura] | ![tvp-parlament] | ![tvp-polonia] | ![tvp-rozrywka] |
 | ![tvp-info] | ![tvp-sport] | ![tvp-sport-hd] | ![tvp-wilno] | ![tvp1] | ![tvp1-hd] |
-| ![tvp2] | ![tvp2-hd] | ![tvp3] | ![z-00058] | ![z-00059] | ![z-00060] |
+| ![tvp2] | ![tvp2-hd] | ![tvp3] |  |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [4fun-dance]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/poland/4fun-dance-pl.png
