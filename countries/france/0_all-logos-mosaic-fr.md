@@ -12,16 +12,16 @@
 
 💾 __Combined file size = 0,4mb__  |  📅 __Last update: February 15 2021__
 
-🎨 __39 Logos total__  |  💎 __2 HD Logos__
+## 🎨 __39 Logos total__  |  💎 __2 HD Logos__
 
-| ![6ter] | ![ab1] | ![action] | ![animaux] | ![arte] | ![automoto-la-chaine] |
+| ![6ter] | ![ab1] | ![action] | ![animaux] | <img src=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/arte-fr.png height="130px"> | ![automoto-la-chaine] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | ![bfm-business] | ![bfm-grand-lille] | ![bfm-grand-littoral] | ![bfm-lyon] | ![bfm-paris] | ![bfm-tv] |
 | ![c8] | ![chasse-et-peche] | ![france-2] | ![france-24] | ![france-3] | ![france-4] |
 | ![france-5] | ![gulli] | ![histoire-tv] | ![lci] | ![m6] | ![rmc-decouverte] |
 | ![rmc-story] | ![rtl9] | ![rtl9-hd] | ![serie-club] | ![tcm-cinema] | ![tf1] |
 | ![tf1-hd] | ![tf1-plus] | ![tf1-series-films] | ![tfx] | ![tmc] | ![tmc-plus] |
-| ![tv-breizh] | ![ushuaia-tv] | ![w9] | ![z-00040] | ![z-00041] | ![z-00042] |
+| ![tv-breizh] | ![ushuaia-tv] | ![w9] |  |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [6ter]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/6ter-fr.png
