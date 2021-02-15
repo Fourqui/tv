@@ -12,7 +12,7 @@
 
 💾 __Combined file size = 2,9mb__  |  📅 __Last update: February 15 2021__
 
-🎨 __168 Logos total__
+🎨 __168 Logos total__
 
 | ![70s-cinema-vod-us] | ![80s-rewind-vod-us] | ![90s-throwback-vod-us] | ![absolute-reality-we-tv-vod-us] | ![amc-plus-vod-us] | ![amc-presents-vod-us] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
