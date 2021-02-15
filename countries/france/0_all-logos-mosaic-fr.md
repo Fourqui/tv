@@ -1,4 +1,4 @@
-## France 🇫🇷
+# France 🇫🇷
 
 🛠 Right-click on a logo and copy the image address to get the direct url or click to open.
 
@@ -12,7 +12,9 @@
 
 💾 __Combined file size = 0,4mb__  |  📅 __Last update: February 15 2021__
 
-## 🎨 __39 Logos total__  |  💎 __2 HD Logos__
+### 🎨 __39 Logos total__  |  💎 __2 HD Logos__
+ 
+
 
 | ![6ter] | ![ab1] | ![action] | ![animaux] | <img src=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/arte-fr.png height="130px"> | ![automoto-la-chaine] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
