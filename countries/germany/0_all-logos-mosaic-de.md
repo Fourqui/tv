@@ -87,7 +87,8 @@
 | ![tlc] | ![tlc-hd] | ![tnt-comedy] | ![tnt-comedy-hd] | ![tnt-film] | ![tnt-film-hd] |
 | ![tnt-serie] | ![tnt-serie-hd] | ![toggo-plus] | ![toggo-plus-hd] | ![universal-tv] | ![universal-tv-hd] |
 | ![vox] | ![vox-hd] | ![vox-up] | ![vox-up-hd] | ![wdr] | ![wdr-hd] |
-| ![welt] | ![welt-hd] | ![weltr-wunder] | ![xite] |  |  |
+| ![welt] | ![welt-hd] | ![weltr-wunder] | ![xite] | ![zdf] | ![zdf-hd] |
+| ![zdf-info] | ![zdf-info-hd] | ![zdf-neo] | ![zdf-neo-hd] |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [13th-street]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/13th-street-de.png
@@ -526,5 +527,11 @@
 [welt-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/hd/welt-hd-de.png
 [weltr-wunder]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/welt-der-wunder-de.png
 [xite]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/xite-de.png
+[zdf]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/zdf-de.png
+[zdf-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/hd/zdf-hd-de.png
+[zdf-info]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/zdf-info-de.png
+[zdf-info-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/hd/zdf-info-hd-de.png
+[zdf-neo]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/zdf-neo-de.png
+[zdf-neo-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/hd/zdf-neo-hd-de.png
 
 [space]:https://github.com/Tapiosinn/tv-logos/blob/master/misc/%CE%A9/space-1500.png
