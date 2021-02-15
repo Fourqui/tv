@@ -1,7 +1,5 @@
 # Germany 🇩🇪
 
-### 🎨 __442 Logos total__  |  💎 __180 HD Logos__
-
 🛠 Right-click on a logo and copy the image address to get the direct url or click to open.
 
 🔗 The links will update automatically when I update a logo, unless the name has changed.
@@ -14,7 +12,8 @@
 
 💾 __Combined file size = 8,2mb__  |  📅 __Last update: February 15 2021__
 
- 
+🎨 __442 Logos total__  |  💎 __180 HD Logos__
+
 | ![13th-street] | ![13th-street-hd] | ![3sat] | ![3sat-hd] | ![animal-planet] | ![animal-planet-hd] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | ![anixe] | ![anixe-hd] | ![anixe-hd-serie] | ![anixe-plus] | ![ard] | ![ard-alpha] |
