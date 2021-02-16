@@ -9,7 +9,7 @@
 
 🖤 The logos are created specifically to work on dark backgrounds.
 
-🎨 __52 Logos total__  |  💎 __5 HD Logos__  |  💾 __Combined file size = 1,7mb__  |  📅 __Last update: February 14 2021__
+🎨 __52 Logos total__  |  💎 __5 HD Logos__  |  💾 __Combined file size = 1,7mb__  |  📅 __Last update: February 16 2021__
 
 | ![a-haber] | ![a2] | ![atv] | ![bein-sports-haber] | ![bein-sports-haber-hz] | ![beyaz-tv] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
