@@ -25,7 +25,7 @@
 | ![abc-white] | ![acc-network] | ![acc-network-extra] | ![accuweather] | ![action-channel] | ![adult-swim] |
 | ![africa-channel] | ![afro] | ![akc-tv] | ![altitude-sports] | ![amc] | ![amc-hd] |
 | ![american-heroes-channel] | ![animal-planet] | ![animal-planet-hd] | ![antenna] | ![aspire-tv] | ![at-and-t-sportsnet] |
-| ![animal-planet] | ![at-and-t-sportsnet-pittsburgh-custom] | ![at-and-t-sportsnet-rocky-mountain-custom] | ![at-and-t-sportsnet-southwest-custom] | ![awe] | ![axs-tv] |
+| ![at-and-t-sportsnet-hd-custom] | ![at-and-t-sportsnet-pittsburgh-custom] | ![at-and-t-sportsnet-rocky-mountain-custom] | ![at-and-t-sportsnet-southwest-custom] | ![awe] | ![axs-tv] |
 | ![azteca-america] | ![baby-first-tv] | ![baby-tv] | ![bangu] | ![bbc-america] | ![bbc-america-hd] |
 | ![bbc-america-hz] | ![beauty-channel] | ![bek-sports] | ![bek-sports-plus] | ![bet] | ![bet-gospel] |
 | ![bet-her] | ![bet-jams] | ![bet-plus] | ![bet-soul] | ![black-news-channel] | ![blaze-tv] |
