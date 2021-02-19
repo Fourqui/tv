@@ -1,4 +1,5 @@
-# Germany 🇩🇪
+🇩🇪 Germany
+===============
 
 🛠 Right-click on a logo and copy the image address to get the direct url or click to open.
 
@@ -10,9 +11,11 @@
 
 🖤 The logos are created specifically to work on dark backgrounds.
 
-💾 __Combined file size = 8,2mb__  |  📅 __Last update: February 15 2021__
+💾 __Combined file size = 8,2mb__  |  📅 __Last update: February 19 2021__  
 
-🎨 __442 Logos total__  |  💎 __180 HD Logos__
+### 🎨 __442 Logos total__  |  💎 __180 HD Logos__  
+
+ 
 
 | ![13th-street] | ![13th-street-hd] | ![3sat] | ![3sat-hd] | ![animal-planet] | ![animal-planet-hd] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
