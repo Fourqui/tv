@@ -1,5 +1,5 @@
-# 🇨🇦 Canada
- 
+🇨🇦 Canada
+===============
 
 🛠 Right-click on a logo and copy the image address to get the direct url or click to open.
 
@@ -11,13 +11,9 @@
 
 🖤 The logos are created specifically to work on dark backgrounds.
 
- 
+💾 __Combined file size = 6,0mb__  |  📅 __Last update: February 19 2021__  
 
-### 🎨 __273 Logos total__  |  💎 __32 HD Logos__
-
-### 💾 __Combined file size = 6,0mb__  |  📅 __Last update: February 19 2021__
- 
-
+### 🎨 __273 Logos total__  |  💎 __32 HD Logos__  
 
 | ![a-side] | ![abc-spark] | ![abc-spark-hd] | ![abu-dhabi-tv] | ![addik-tv] | ![addik-tv-hd] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
