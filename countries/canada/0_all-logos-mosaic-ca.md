@@ -1,4 +1,5 @@
-## Canada 🇨🇦
+# 🇨🇦 Canada
+ 
 
 🛠 Right-click on a logo and copy the image address to get the direct url or click to open.
 
@@ -10,7 +11,13 @@
 
 🖤 The logos are created specifically to work on dark backgrounds.
 
-🎨 __272 Logos total__  |  💎 __32 HD Logo__  |  💾 __Combined file size = 6,0mb__  |  📅 __Last update: February 15 2021__
+ 
+
+### 🎨 __273 Logos total__  |  💎 __32 HD Logos__
+
+### 💾 __Combined file size = 6,0mb__  |  📅 __Last update: February 19 2021__
+ 
+
 
 | ![a-side] | ![abc-spark] | ![abc-spark-hd] | ![abu-dhabi-tv] | ![addik-tv] | ![addik-tv-hd] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -21,7 +28,7 @@
 | ![cine-pop] | ![city-tv] | ![cottage-life] | ![cp24] | ![cpac] | ![crave] |
 | ![crave-1] | ![crave-2] | ![crave-3] | ![crave-4] | ![crime-and-investigation] | ![ctv] |
 | ![ctv-2] | ![ctv-comedy-channel] | ![ctv-drama-channel] | ![ctv-hd] | ![ctv-life-channel] | ![ctv-news] |
-| ![ctv-comedy-channel] | ![ctv-sci-fi-channel] | ![cult-movie-network] | ![cw] | ![dazn] | ![dejaview] |
+| ![ctv-news-horizontal] | ![ctv-sci-fi-channel] | ![cult-movie-network] | ![cw] | ![dazn] | ![dejaview] |
 | ![discovery-science] | ![discovery-science-hd] | ![discovery-velocity] | ![disney-channel] | ![disney-la-chaine] | ![disney-xd] |
 | ![disney-xd-hd] | ![diy-network] | ![documentary-channel] | ![documentary-channel-hd] | ![dorcel-xxx] | ![dtour] |
 | ![espn-classic] | ![evasion] | ![exxxtasy] | ![family] | ![family-chrgd] | ![family-jr] |
@@ -58,7 +65,7 @@
 | ![tsn-5-hd] | ![tsn-hockey] | ![tv-5] | ![tva] | ![tva-sports] | ![tva-sports-2] |
 | ![tva-sports-2-hz] | ![tva-sports-3] | ![tva-sports-3-hz] | ![tva-sports-hz] | ![tvo] | ![unis-tv] |
 | ![v] | ![vie] | ![vrak] | ![w-network] | ![wild-tv] | ![yoopa] |
-| ![ytv] | ![z] |  |  |  |  |
+| ![ytv] | ![z] | ![zeste] |  |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [a-side]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/a-side-ca.png
@@ -333,5 +340,6 @@
 [yoopa]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/yoopa-ca.png
 [ytv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/ytv-ca.png
 [z]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/z-ca.png
+[zeste]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/zeste-ca.png
 
 [space]:https://github.com/Tapiosinn/tv-logos/blob/master/misc/%CE%A9/space-1500.png
