@@ -1,4 +1,5 @@
-## South Africa 🇿🇦
+🇿🇦 South Africa
+===============
 
 🛠 Right-click on a logo and copy the image address to get the direct url or click to open.
 
@@ -10,7 +11,11 @@
 
 🖤 The logos are created specifically to work on dark backgrounds.
 
-🎨 __58 Logos total__  |  💎 __1 HD Logo__  |  💾 __Combined file size = 2,3mb__  |  📅 __Last update: February 14 2021__
+💾 __Combined file size = 2,3mb__  |  📅 __Last update: February 19 2021__  
+
+### 🎨 __58 Logos total__  |  💎 __1 HD Logo__  
+
+ 
 
 | ![boing] | ![fix-and-foxi] | ![itv-choice] | ![m-net] | ![m-net-city] | ![m-net-hd] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -21,7 +26,7 @@
 | ![supersport-maximo1] | ![supersport-maximo1-bug] | ![supersport-maximo2] | ![supersport-maximo2-bug] | ![supersport-motorsport] | ![supersport-motorsport-bug] |
 | ![supersport-play] | ![supersport-play-bug] | ![supersport-premier-league] | ![supersport-premier-league-bug] | ![supersport-psl] | ![supersport-psl-bug] |
 | ![supersport-rugby] | ![supersport-rugby-bug] | ![supersport-tennis] | ![supersport-tennis-bug] | ![supersport-variety1] | ![supersport-variety1-bug] |
-| ![supersport-rugby-bug] | ![supersport-variety2-bug] | ![supersport-variety3] | ![supersport-variety3-bug] | ![supersport-variety4] | ![supersport-variety4-bug] |
+| ![supersport-variety2] | ![supersport-variety2-bug] | ![supersport-variety3] | ![supersport-variety3-bug] | ![supersport-variety4] | ![supersport-variety4-bug] |
 | ![supersport-wwe] | ![supersport-wwe-bug] | ![tnt] | ![universal-tv] |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
