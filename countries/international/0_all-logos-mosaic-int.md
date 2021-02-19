@@ -1,4 +1,5 @@
-# International 🌏
+🌏 International
+===============
 
 🛠 Right-click on a logo and copy the image address to get the direct url or click to open.
 
@@ -10,11 +11,11 @@
 
 🖤 The logos are created specifically to work on dark backgrounds.
 
----
+💾 __Combined file size = 6,2mb__  |  📅 __Last update: February 19 2021__  
 
-### 🎨 __254 Logos total__  |  💎 __76 HD Logos__
+### 🎨 __254 Logos total__  |  💎 __76 HD Logos__  
 
-### 💾 __Combined file size = 6,2mb__  |  📅 __Last update: February 17 2021__
+ 
 
 | ![animal-planet] | ![arirang] | ![bbc-arabic-hz] | ![bbc-arabic] | ![bbc-news-arabic-hz] | ![bbc-news-arabic] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
