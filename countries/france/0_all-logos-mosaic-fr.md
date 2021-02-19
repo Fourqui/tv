@@ -1,4 +1,5 @@
-# 🇫🇷 France
+🇫🇷 France
+===============
 
 🛠 Right-click on a logo and copy the image address to get the direct url or click to open.
 
@@ -9,7 +10,9 @@
 📐 The logos have a max-width of 512px and have been optimized for smallest filesize.
 
 🖤 The logos are created specifically to work on dark backgrounds.
+
  
+---------------
 
 ### 🎨 __39 Logos total__  |  💎 __2 HD Logos__
 
