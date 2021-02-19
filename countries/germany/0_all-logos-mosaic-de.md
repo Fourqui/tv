@@ -26,7 +26,7 @@
 | ![channel-21-hd] | ![comedy-central] | ![comedy-central-hd] | ![crime-and-investigation] | ![crime-and-investigation-hd] | ![das-erste] |
 | ![das-erste-hd] | ![dazn] | ![dazn1] | ![dazn2] | ![deluxe-music] | ![deluxe-music-hd] |
 | ![discovery-channel] | ![discovery-channel-hd] | ![discovery-channel-hd-hz] | ![discovery-channel-hz] | ![disney-channel] | ![disney-channel-hd] |
-| ![discovery-channel-hd] | ![dmax] | ![dmax-hd] | ![dresden-fernsehen] | ![dw] | <img src=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/e-entertainment-de.png height="130px"> |
+| ![disney-plus] | ![dmax] | ![dmax-hd] | ![dresden-fernsehen] | ![dw] | <img src=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/e-entertainment-de.png height="130px"> |
 | ![e-entertainment-hd] | ![earth-tv] | ![eo-tv] | ![eo-tv-hd] | ![esports1] | ![esports1-hd] |
 | ![eurosport-1] | ![eurosport-1-hd] | ![eurosport-2] | ![eurosport-2-hd] | ![eurosport-2-hd-xtra] | ![fix-and-foxi] |
 | ![fox] | ![geo] | ![geo-hd] | ![goldstar-tv] | ![health-tv] | ![heimatkanal] |
