@@ -11,11 +11,12 @@
 
 🖤 The logos are created specifically to work on dark backgrounds.  
 
- 
 
-### 🎨 __39 Logos total__  |  💎 __2 HD Logos__
+### 💾 __Combined file size = 0,4mb__  |  📅 __Last update: February 19 2021__  
 
-### 💾 __Combined file size = 0,4mb__  |  📅 __Last update: February 19 2021__
+### 🎨 __39 Logos total__  |  💎 __2 HD Logos__  
+
+
  
 
 
