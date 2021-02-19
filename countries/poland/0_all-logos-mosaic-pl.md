@@ -1,4 +1,6 @@
-## Poland 🇵🇱
+🇵🇱 Poland
+===============
+
 🛠 Right-click on a logo and copy the image address to get the direct url or click to open.
 
 🔗 The links will update automatically when I update a logo, unless the name has changed.
@@ -9,7 +11,11 @@
 
 🖤 The logos are created specifically to work on dark backgrounds.
 
-🎨 __57 Logos total__  |  💎 __11 HD Logos__  |  💾 __Combined file size = 0,9mb__  |  📅 __Last update: February 14 2021__
+💾 __Combined file size = 0,9mb__  |  📅 __Last update: February 19 2021__  
+
+### 🎨 __57 Logos total__  |  💎 __11 HD Logos__  
+
+ 
 
 | ![4fun-dance] | ![4fun-kids] | ![4fun-tv] | ![ale-kinous] | ![belsat-tv] | ![canalus-1] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -20,7 +26,7 @@
 | ![polsat-sport-premium-1] | ![polsat-sport-premium-1-super-hd] | ![polsat-sport-premium-2] | ![polsat-sport-premium-2-super-hd] | ![polsat-sport-premium-3-ppv] | ![polsat-sport-premium-4-ppv] |
 | ![polsat-sport-premium-5-ppv] | ![polsat-sport-premium-6-ppv] | ![teletoonus] | ![tvp-abc] | ![tvp-dokument] | ![tvp-hd] |
 | ![tvp-historia] | ![tvp-info] | ![tvp-kultura] | ![tvp-parlament] | ![tvp-polonia] | ![tvp-rozrywka] |
-| ![tvp-info] | ![tvp-sport] | ![tvp-sport-hd] | ![tvp-wilno] | ![tvp1] | ![tvp1-hd] |
+| ![tvp-seriale] | ![tvp-sport] | ![tvp-sport-hd] | ![tvp-wilno] | ![tvp1] | ![tvp1-hd] |
 | ![tvp2] | ![tvp2-hd] | ![tvp3] |  |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
