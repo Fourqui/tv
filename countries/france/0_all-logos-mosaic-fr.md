@@ -1,5 +1,5 @@
 # 🇫🇷 France
- 
+
 🛠 Right-click on a logo and copy the image address to get the direct url or click to open.
 
 🔗 The links will update automatically when I update a logo, unless the name has changed.
