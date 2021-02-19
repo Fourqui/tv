@@ -1,4 +1,6 @@
-## Turkey 🇹🇷
+🇹🇷 Turkey
+===============
+
 🛠 Right-click on a logo and copy the image address to get the direct url or click to open.
 
 🔗 The links will update automatically when I update a logo, unless the name has changed.
@@ -9,7 +11,11 @@
 
 🖤 The logos are created specifically to work on dark backgrounds.
 
-🎨 __52 Logos total__  |  💎 __5 HD Logos__  |  💾 __Combined file size = 1,7mb__  |  📅 __Last update: February 16 2021__
+💾 __Combined file size = 1,7mb__  |  📅 __Last update: February 19 2021__  
+
+### 🎨 __52 Logos total__  |  💎 __5 HD Logos__  
+
+ 
 
 | ![a-haber] | ![a2] | ![atv] | ![bein-sports-haber] | ![bein-sports-haber-hz] | ![beyaz-tv] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -20,7 +26,7 @@
 | ![trt-2] | ![trt-3] | ![trt-3-spor] | ![trt-4k] | ![trt-arabi] | ![trt-avaz] |
 | ![trt-belgesel] | ![trt-cocuk] | ![trt-haber] | ![trt-haber-hd] | ![trt-kurdi] | ![trt-muzik] |
 | ![trt-spor] | ![trt-spor-2] | ![trt-spor-hd] | ![trt-turk] | ![trt-world] | ![trt-world-hd] |
-| ![trt-spor-2] | ![tv8] | ![tv85] | ![ulke-tv] |  |  |
+| ![tv100] | ![tv8] | ![tv85] | ![ulke-tv] |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [a-haber]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/a-haber-tr.png
