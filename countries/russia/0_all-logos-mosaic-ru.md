@@ -1,4 +1,5 @@
-# Russia 🇷🇺
+🇷🇺 Russia
+===============
 
 🛠 Right-click on a logo and copy the image address to get the direct url or click to open.
 
@@ -10,9 +11,11 @@
 
 🖤 The logos are created specifically to work on dark backgrounds.
 
-💾 __Combined file size = 2,5mb__  |  📅 __Last update: February 15 2021__
+💾 __Combined file size = 2,5mb__  |  📅 __Last update: February 19 2021__  
 
-🎨 __15 Logos total__
+### 🎨 __15 Logos total__
+
+ 
 
 | ![kanal-disney] | ![ntv-pravo] | ![ntv-serial] | ![ntv-stil] | ![sony-channel-blue] | ![sony-channel-icon] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
