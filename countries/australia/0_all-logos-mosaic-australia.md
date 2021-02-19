@@ -1,5 +1,5 @@
-# 🇦🇺 Australia
- 
+🇦🇺 Australia
+===============
 
 🛠 Right-click on a logo and copy the image address to get the direct url or click to open.
 
@@ -11,13 +11,11 @@
 
 🖤 The logos are created specifically to work on dark backgrounds.
 
+💾 __Combined file size = 4,5mb__  |  📅 __Last update: February 19 2021__  
+
+### 🎨 __274 Logos total__  |  💎 __81 HD Logos__  
+
  
-
-### 🎨 __274 Logos total__  |  💎 __81 HD Logos__
-
-### 💾 __Combined file size = 4,5mb__  |  📅 __Last update: February 19 2021__
- 
-
 
 | ![10-bold] | ![10-peach] | ![10-shake] | ![10-sport] | ![7flix] | ![7mate] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
