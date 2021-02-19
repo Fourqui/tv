@@ -1,4 +1,5 @@
-# VOD 📼
+📼 VOD
+===============
 
 🛠 Right-click on a logo and copy the image address to get the direct url or click to open.
 
@@ -10,9 +11,11 @@
 
 🖤 The logos are created specifically to work on dark backgrounds.
 
-💾 __Combined file size = 2,9mb__  |  📅 __Last update: February 15 2021__
+💾 __Combined file size = 2,9mb__  |  📅 __Last update: February 19 2021__  
 
-🎨 __168 Logos total__
+### 🎨 __168 Logos total__
+
+ 
 
 | ![70s-cinema-vod-us] | ![80s-rewind-vod-us] | ![90s-throwback-vod-us] | ![absolute-reality-we-tv-vod-us] | ![amc-plus-vod-us] | ![amc-presents-vod-us] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -23,7 +26,7 @@
 | ![csi-vod-us] | ![cult-films-vod-us] | ![curiosity-vod-us] | ![deal-or-no-deal-vod-us] | ![degrassi-vod-us] | ![doctor-who-classic-vod-us] |
 | ![documentaries-4u-vod-us] | ![docurama-vod-us] | ![dog-the-bounty-hunter-vod-us] | ![dogs-24-7-vod-us] | ![duck-tv-vod-us] | ![espn-ondemand-vod-us] |
 | ![estv-vod-us] | ![failarmy-vod-us] | ![fight-vod-us] | ![fireplace-vod-us] | ![flicks-of-fury-vod-us] | ![flixfling-vod-us] |
-| ![failarmy-vod-us] | ![forensic-files-vod-us] | ![free-crime-tv-vod-us] | ![free-speech-fstv-vod-us] | ![frontdoor-vod-us] | ![funny-af-vod-us] |
+| ![food-tv-vod-us] | ![forensic-files-vod-us] | ![free-crime-tv-vod-us] | ![free-speech-fstv-vod-us] | ![frontdoor-vod-us] | ![funny-af-vod-us] |
 | ![game-show-central-vod-us] | ![gordon-ramsays-hells-kitchen-vod-us] | ![gravitas-movies-vod-us] | ![grvty-vod-us] | ![gusto-tv-vod-us] | ![happy-days-vod-us] |
 | ![here-tv-vod-us] | ![holiday-lights-vod-us] | ![hollywire-vod-us] | ![hopster-vod-us] | ![impact-wrestling-vod-us] | ![johnny-carson-tv-vod-us] |
 | ![judge-nosey-vod-us] | ![kartoon-channel-vod-us] | ![laugh-out-loud-vod-us] | ![law-and-crime-rewind-vod-us] | ![le-gourmet-tv-vod-us] | ![leverage-vod-us] |
