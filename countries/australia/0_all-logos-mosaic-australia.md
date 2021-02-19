@@ -40,7 +40,7 @@
 | ![fox-sleuth-hz] | ![fox-sleuth-plus-2] | ![fox-sleuth-plus-2-hz] | ![fox-sports-503] | ![fox-sports-503-hd] | ![fox-sports-503-hd-hz] |
 | ![fox-sports-505] | ![fox-sports-505-hd] | ![fox-sports-505-hd-hz] | ![fox-sports-506] | ![fox-sports-506-hd] | ![fox-sports-506-hd-hz] |
 | ![fox-sports-507] | ![fox-sports-507-hd] | ![fox-sports-507-hd-hz] | ![fox-sports-508] | ![fox-sports-508-uhd] | ![fox-sports-508-uhd-hz] |
-| ![fox-sports-cricket-501] | ![fox-sports-cricket-501-hd] | ![fox-sports-cricket-501-hd-hz] | ![fox-sports-cricket-hd-hz] | ![fox-sports-footy-504] | ![fox-sports-footy-504-hd] |
+| <img src=https://github.com/Tapiosinn/tv-logos/blob/master/countries/australia/fox-sports-cricket-501-au.png height="250px"> | ![fox-sports-cricket-501-hd] | ![fox-sports-cricket-501-hd-hz] | ![fox-sports-cricket-hd-hz] | ![fox-sports-footy-504] | ![fox-sports-footy-504-hd] |
 | ![fox-sports-footy-504-hd-hz] | ![fox-sports-footy-hd-hz] | ![fox-sports-hd-hz] | ![fox-sports-league-502] | ![fox-sports-league-502-hd] | ![fox-sports-league-502-hd-hz] |
 | ![fox-sports-league-hd-hz] | ![fox-sports-more-plus] | ![fox-sports-more-plus-hd] | ![fox-sports-news] | ![fox-sports-news-hd] | ![fox-sports-regular] |
 | ![fox-sports-theme-afl] | ![fox-sports-theme-basketball] | ![fox-sports-theme-cricket] | ![fox-sports-theme-football] | ![fox-sports-theme-golf] | ![fox-sports-theme-motorsport] |
