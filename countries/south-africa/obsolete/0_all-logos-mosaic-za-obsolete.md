@@ -1,6 +1,7 @@
-## South Africa obsolete logos 🇿🇦
+🇿🇦 South Africa obsolete logos
+===============
 
-🚚 These logos are not in use anymore and therefor were moved here from the south-africa directory.
+🚚 These logos are not in use anymore and were therefore moved here from the south-africa directory.
 
 🛠 Right-click on a logo and copy the image address to get the direct url or click to open.
 
@@ -12,7 +13,11 @@
 
 🖤 The logos are created specifically to work on dark backgrounds.
 
-🎨 __31 Logos total__  |  💎 __12 HD Logos__  |  💾 __Combined file size = 1,6mb__  |  📅 __Last update: February 14 2021__
+💾 __Combined file size = 1,6mb__  |  📅 __Last update: February 19 2021__  
+
+### 🎨 __31 Logos total__  |  💎 __12 HD Logos__  
+
+ 
 
 | ![supersport-1-maximo-obsolete] | ![supersport-1-obsolete] | ![supersport-1-select-obsolete] | ![supersport-10-hd-obsolete] | ![supersport-10-obsolete] | ![supersport-11-hd-obsolete] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
