@@ -9,9 +9,9 @@
 
 📐 The logos have a max-width of 512px and have been optimized for smallest filesize.
 
-🖤 The logos are created specifically to work on dark backgrounds.
+🖤 The logos are created specifically to work on dark backgrounds.<br>
 
- 
+  
 ---------------
 
 ### 🎨 __39 Logos total__  |  💎 __2 HD Logos__
