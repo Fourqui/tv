@@ -1,4 +1,6 @@
-## New Zealand 🇳🇿
+🇳🇿 New Zealand
+===============
+
 🛠 Right-click on a logo and copy the image address to get the direct url or click to open.
 
 🔗 The links will update automatically when I update a logo, unless the name has changed.
@@ -9,18 +11,22 @@
 
 🖤 The logos are created specifically to work on dark backgrounds.
 
-🎨 __101 Logos total__  |  💾 __Combined file size = 1,9mb__  |  📅 __Last update: February 17 2021__
+💾 __Combined file size = 1,9mb__  |  📅 __Last update: February 19 2021__  
+
+### 🎨 __101 Logos total__
+
+ 
 
 | ![adult-swim] | ![arts] | ![bbc-earth] | ![bbc-uktv] | ![box-sets] | ![bravo] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | ![bravo-plus] | ![cartoon-network] | ![choice-tv] | ![country-tv] | ![edge] | ![edge-slogan] |
 | ![face-tv] | ![hgtv] | ![hope-channel] | ![jones] | ![jones-too] | ![maori-television] |
 | ![nickelodeon] | ![out-tv] | ![parliament-tv] | ![prime] | ![prime-color] | ![prime-plus-color] |
-| ![rialto] | ![shine] | ![sky-5] | ![sky-box-office] | ![sky-movies-action] | ![sky-movies-classics] |
+| ![rialto] | ![shine] | <img src=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/new-zealand/sky-5-nz.png height="120px"> | ![sky-box-office] | ![sky-movies-action] | ![sky-movies-classics] |
 | ![sky-movies-extra] | ![sky-movies-family] | ![sky-movies-greats] | ![sky-movies-pop-up] | ![sky-movies-premiere] | ![sky-movies-vintage] |
 | ![sky-news] | ![sky-sport] | ![sky-sport-1] | ![sky-sport-1-hz] | ![sky-sport-2] | ![sky-sport-2-hz] |
 | ![sky-sport-3] | ![sky-sport-3-hz] | ![sky-sport-4] | ![sky-sport-4-hz] | ![sky-sport-5] | ![sky-sport-5-hz] |
-| ![sky-sport-3-hz] | ![sky-sport-6-hz] | ![sky-sport-7] | ![sky-sport-7-hz] | ![sky-sport-8] | ![sky-sport-8-hz] |
+| ![sky-sport-6] | ![sky-sport-6-hz] | ![sky-sport-7] | ![sky-sport-7-hz] | ![sky-sport-8] | ![sky-sport-8-hz] |
 | ![sky-sport-9] | ![sky-sport-9-hz] | ![sky-sport-hz] | ![sky-sport-now] | ![sky-sport-now-hz] | ![sky-sport-pop-up-1] |
 | ![sky-sport-pop-up-1-hz] | ![sky-sport-pop-up-2] | ![sky-sport-pop-up-2-hz] | ![sky-sport-pop-up-3] | ![sky-sport-pop-up-3-hz] | ![sky-sport-select] |
 | ![sky-sport-select-hz] | ![soho] | ![soho-2] | ![tab-trackside-1] | ![tab-trackside-2] | ![te-reo] |
