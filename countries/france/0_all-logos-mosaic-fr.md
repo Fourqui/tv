@@ -15,10 +15,6 @@
 
 ### 🎨 __39 Logos total__  |  💎 __2 HD Logos__  
 
-
- 
-
-
 | ![6ter] | ![ab1] | ![action] | ![animaux] | <img src=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/arte-fr.png height="130px"> | ![automoto-la-chaine] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | ![bfm-business] | ![bfm-grand-lille] | ![bfm-grand-littoral] | ![bfm-lyon] | ![bfm-paris] | ![bfm-tv] |
