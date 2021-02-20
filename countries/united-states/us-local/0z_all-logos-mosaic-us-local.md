@@ -1,6 +1,8 @@
 🇺🇸 United States Local Networks
 ===============
 
+⭐️ [Click here to go to the main US logo mosaic page][]
+
 🛠 Right-click on a logo and copy the image address to get the direct url or click to open.
 
 🔗 The links will update automatically when I update a logo, unless the name has changed.
@@ -468,5 +470,7 @@
 [univision-us]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/us-local/univision/univision-us.png
 [wgn-9-chicago-us]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/us-local/wgn-9-chicago-us.png
 [wthi-10-news-us]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/us-local/wthi-10-news-us.png
+
+[Click here to go to the main US logo mosaic page]: https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/0_all-logos-mosaic-us.md "Click here to go to the main US logo mosaic page"
 
 [space]:https://github.com/Tapiosinn/tv-logos/blob/master/misc/%CE%A9/space-1500.png
