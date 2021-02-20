@@ -1,6 +1,8 @@
 🇺🇸 United States
 ===============
 
+📡 [Click here to go to the US local networks mosaic page][]
+
 🛠 Right-click on a logo and copy the image address to get the direct url or click to open.
 
 🔗 The links will update automatically when I update a logo, unless the name has changed.
@@ -15,7 +17,6 @@
 
 ### 🎨 __723 Logos total__  |  💎 __42 HD Logos__  
 
-🔗 [Click here to go to the US local networks mosaic page][]
 
 
 
