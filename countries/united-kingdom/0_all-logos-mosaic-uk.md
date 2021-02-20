@@ -11,9 +11,9 @@
 
 🖤 The logos are created specifically to work on dark backgrounds.
 
-💾 __Combined file size = 18,4mb__  |  📅 __Last update: February 19 2021__  
+💾 __Combined file size = 18,4mb__  |  📅 __Last update: February 20 2021__  
 
-### 🎨 __756 Logos total__  |  💎 __167 HD Logos__  
+### 🎨 __757 Logos total__  |  💎 __164 HD Logos__  
 
  
 
@@ -40,111 +40,115 @@
 | ![bt-sport-extra-3-hz] | ![bt-sport-extra-4] | ![bt-sport-extra-4-hd] | ![bt-sport-extra-4-hd-hz] | ![bt-sport-extra-4-hz] | ![bt-sport-extra-5] |
 | ![bt-sport-extra-5-hd] | ![bt-sport-extra-5-hd-hz] | ![bt-sport-extra-5-hz] | ![bt-sport-extra-6] | ![bt-sport-extra-6-hd] | ![bt-sport-extra-6-hd-hz] |
 | ![bt-sport-extra-6-hz] | ![bt-sport-extra-x7-uhd] | ![bt-sport-extra-x7-uhd-hz] | ![bt-sport-mosaic] | ![bt-sport-mosaic-hz] | ![bt-sport-ultimate] |
-| ![bt-sport-ultimate-hz] | ![bt-tv] | ![c-itv] | ![cartoon-network] | ![cartoon-network-plus] | ![cartoonito] |
-| ![cbs-drama] | ![cbs-justice] | ![cbs-justice-plus] | ![cbs-reality] | ![cbs-reality-plus] | ![ccx-tv] |
-| ![challenge] | ![challenge-plus] | ![channel-4] | ![channel-4-hd] | ![channel-4-plus] | ![channel-4-plus-hd] |
-| ![channel-5] | ![channel-5-plus] | ![channel7] | ![chelsea-tv] | ![chelsea-tv-badge] | ![chelsea-tv-badge-hz] |
-| ![christmas-24] | ![christmas-24-plus] | ![clubland] | ![colors] | ![colors-cineplex] | ![colors-rishtey] |
-| ![comedy-central] | ![comedy-central-extra] | ![comedy-central-extra-hz] | ![comedy-central-extra-plus] | ![comedy-central-extra-plus-hz] | ![comedy-central-hd] |
-| ![comedy-central-icon] | ![comedy-central-icon-hd] | ![comedy-central-plus] | ![comedy-central-plus-icon] | ![court-tv] | ![create-and-craft] |
-| ![cricket-365] | ![crime-and-investigation] | ![crime-and-investigation-plus] | ![cula-4] | ![dave] | ![dave-ja-vu] |
-| ![discovery-channel] | ![discovery-channel-icon] | ![discovery-channel-icon-2] | ![discovery-channel-icon-2-plus] | ![discovery-channel-icon-3] | ![discovery-channel-icon-3-plus] |
-| ![discovery-channel-icon-plus] | ![discovery-channel-plus] | ![discovery-history] | ![discovery-history-plus] | ![discovery-home-and-health] | ![discovery-home-and-health-icon] |
-| ![discovery-home-and-health-plus] | ![discovery-home-and-health-plus-icon] | ![discovery-science] | ![discovery-science-icon] | ![discovery-science-plus] | ![discovery-science-plus-icon] |
-| ![discovery-shed] | ![discovery-turbo] | ![discovery-turbo-plus] | ![disney-channel] | ![disney-channel-bug] | ![disney-channel-plus] |
-| ![disney-junior] | ![disney-junior-plus] | ![disney-plus] | ![disney-xd] | ![disney-xd-plus] | ![dmax] |
-| ![dmax-plus] | ![drama] | ![drama-plus] | ![e-4] | ![e-4-hd] | ![e-4-plus] |
-| <img src=https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/e-entertainment-uk.png height="130px"> | ![e-entertainment-hd] | ![eden] | ![eden-hd] | ![eden-plus] | ![eir-sport-1] |
-| ![eir-sport-1-hd] | ![eir-sport-2] | ![eir-sport-2-hd] | ![eurosport-1] | ![eurosport-2] | ![eva] |
-| ![extreme-sports-channel] | ![faith] | ![fight-network] | ![film-4] | ![film-4-hd] | ![film-4-plus] |
-| ![food-network] | ![food-network-plus] | ![forces-tv] | ![fox] | ![fox-hd] | ![fox-plus] |
-| ![free-sports] | ![free-sports-hd] | ![gaa-go] | ![gb-news] | ![gold] | ![gold-plus] |
-| ![good-news-tv] | ![hgtv] | ![hgtv-plus] | ![hi-impact-tv] | ![history-channel] | ![history-channel-2] |
-| ![history-channel-plus] | ![horror-channel] | ![horror-channel-plus] | ![horse-and-country] | ![ideal-world] | ![investigation-discovery] |
-| ![investigation-discovery-hd] | ![investigation-discovery-plus] | ![islam-tv] | ![itv] | ![itv-2] | ![itv-2-hd] |
-| ![itv-2-plus] | ![itv-3] | ![itv-3-hd] | ![itv-3-plus] | ![itv-4] | ![itv-4-hd] |
-| ![itv-4-plus] | ![itv-be] | ![itv-be-hd] | ![itv-be-plus] | ![itv-encore] | ![itv-encore-plus] |
-| ![itv-hd] | ![itv-plus] | ![jml] | ![kerrang-tv] | ![ketchup-tv] | ![kiss-tv] |
-| ![laliga-tv] | ![lfctv] | ![lfctv-hd] | ![lifetime] | ![live-360] | ![london-live] |
-| ![love-nature] | ![love-nature-4k] | ![love-nature-4k-white] | ![love-nature-white] | ![loveworld] | ![magic-tv] |
-| ![movies-24] | ![movies-24-plus] | ![mtv] | ![mtv-00s] | ![mtv-80s] | ![mtv-90s] |
-| ![mtv-base] | ![mtv-classic] | ![mtv-club] | ![mtv-hits] | ![mtv-live-hd] | ![mtv-love] |
-| ![mtv-music] | ![mtv-music-plus] | ![mtv-omg] | ![mtv-omg-hz] | ![mtv-plus] | ![mtv-pride] |
-| ![mtv-rocks] | ![mtv-summer] | ![mtv-xmas] | ![mutv] | ![mutv-hd] | ![my-5] |
-| ![mytv] | ![ndtv-24x7] | ![nick] | ![nick-2] | ![nick-jr-paw-patrol] | ![nick-jr-peppa] |
-| ![nick-jr-plus] | ![nick-jr-too] | ![nick-toons] | ![nickelodeon] | ![nickelodeon-plus] | ![now-70s] |
-| ![now-80s] | ![now-90s] | ![now-christmas] | ![oireachtas-tv] | ![oireachtas-tv-icon] | ![paramount-network] |
-| ![paramount-network-hd] | ![paramount-network-icon] | ![paramount-network-icon-hd] | ![paramount-network-icon-light] | ![paramount-network-icon-light-hd] | ![paramount-network-light] |
-| ![paramount-network-light-hd] | ![paramount-network-plus] | ![paramount-network-plus-light] | ![pbs-america] | ![pbs-america-plus] | ![pick] |
-| ![pick-hd] | ![pick-plus] | ![pop] | ![pop-max] | ![pop-max-plus] | ![pop-plus] |
-| ![premier-sports] | ![premier-sports-1] | ![premier-sports-1-hd] | ![premier-sports-2] | ![premier-sports-2-hd] | ![quest] |
-| ![quest-hd] | ![quest-plus] | ![quest-red] | ![quest-red-hz] | ![quest-red-plus] | ![quest-red-plus-hz] |
-| ![qvc] | ![qvc-beauty] | ![qvc-beauty-hd] | ![qvc-extra] | ![qvc-hd] | ![qvc-style] |
-| ![really] | ![revelation-tv] | ![rok] | ![rte] | ![rte-2] | ![rte-2-plus] |
-| ![rte-jr] | ![rte-news-now] | ![rte-news-now-hz] | ![rte-one] | ![rte-one-plus] | ![s4c] |
-| ![s4c-dau-two] | ![s4c-hd] | ![showcase] | ![sky-arts] | ![sky-arts-hd] | ![sky-atlantic] |
-| ![sky-atlantic-hd] | ![sky-atlantic-plus] | ![sky-cinema] | ![sky-cinema-action] | ![sky-cinema-action-hd] | ![sky-cinema-action-hd-hz] |
-| ![sky-cinema-action-hz] | ![sky-cinema-adventure] | ![sky-cinema-adventure-hd] | ![sky-cinema-animation] | ![sky-cinema-animation-hd] | ![sky-cinema-animation-hd-hz] |
-| ![sky-cinema-animation-hz] | ![sky-cinema-best-of-2020] | ![sky-cinema-best-of-2020-hd] | ![sky-cinema-blockbusters] | ![sky-cinema-blockbusters-hd] | ![sky-cinema-christmas] |
-| ![sky-cinema-christmas-alt] | ![sky-cinema-christmas-alt-hd] | ![sky-cinema-christmas-hd] | ![sky-cinema-comedy] | ![sky-cinema-comedy-hd] | ![sky-cinema-comedy-hd-hz] |
-| ![sky-cinema-comedy-hz] | ![sky-cinema-cops-and-robbers] | ![sky-cinema-cops-and-robbers-hd] | ![sky-cinema-disney] | ![sky-cinema-disney-alt] | ![sky-cinema-disney-alt-hd] |
-| ![sky-cinema-disney-hd] | ![sky-cinema-disney-hd-hz] | ![sky-cinema-disney-hz] | ![sky-cinema-drama] | ![sky-cinema-drama-hd] | ![sky-cinema-drama-hd-hz] |
-| ![sky-cinema-drama-hz] | ![sky-cinema-family] | ![sky-cinema-family-hd] | ![sky-cinema-family-hd-hz] | ![sky-cinema-family-hz] | ![sky-cinema-feel-good] |
-| ![sky-cinema-feel-good-hd] | ![sky-cinema-five-star-movies] | ![sky-cinema-five-star-movies-hd] | ![sky-cinema-greats] | ![sky-cinema-greats-hd] | ![sky-cinema-greats-hd-hz] |
-| ![sky-cinema-greats-hz] | ![sky-cinema-halloween] | ![sky-cinema-halloween-hd] | ![sky-cinema-harry-potter] | ![sky-cinema-harry-potter-alt] | ![sky-cinema-harry-potter-alt-hd] |
-| ![sky-cinema-harry-potter-hd] | ![sky-cinema-harry-potter-hd-hz] | ![sky-cinema-harry-potter-hz] | ![sky-cinema-hd] | ![sky-cinema-hits] | ![sky-cinema-hits-hd] |
-| ![sky-cinema-hits-hd-hz] | ![sky-cinema-hits-hz] | ![sky-cinema-icon] | ![sky-cinema-lord-of-the-rings] | ![sky-cinema-lord-of-the-rings-alt] | ![sky-cinema-lord-of-the-rings-alt-hd] |
-| ![sky-cinema-lord-of-the-rings-hd] | ![sky-cinema-lord-of-the-rings-hd-hz] | ![sky-cinema-lord-of-the-rings-hz] | ![sky-cinema-musicals] | ![sky-cinema-musicals-hd] | ![sky-cinema-must-see-movies] |
-| ![sky-cinema-must-see-movies-hd] | ![sky-cinema-premiere] | ![sky-cinema-premiere-hd] | ![sky-cinema-premiere-hd-hz] | ![sky-cinema-premiere-hz] | ![sky-cinema-premiere-plus] |
-| ![sky-cinema-premiere-plus-hz] | ![sky-cinema-sci-fi-and-horror] | ![sky-cinema-sci-fi-and-horror-hd] | ![sky-cinema-sci-fi-and-horror-hd-hz] | ![sky-cinema-sci-fi-and-horror-hz] | ![sky-cinema-select] |
-| ![sky-cinema-select-hd] | ![sky-cinema-select-hd-hz] | ![sky-cinema-select-hz] | ![sky-cinema-spooky] | ![sky-cinema-spooky-hd] | ![sky-cinema-star-wars] |
-| ![sky-cinema-star-wars-alt] | ![sky-cinema-star-wars-alt-hd] | ![sky-cinema-star-wars-hd] | ![sky-cinema-star-wars-hd-hz] | ![sky-cinema-star-wars-hz] | ![sky-cinema-superheroes] |
-| ![sky-cinema-superheroes-alt] | ![sky-cinema-superheroes-alt-hd] | ![sky-cinema-superheroes-hd] | ![sky-cinema-superheroes-hd-hz] | ![sky-cinema-superheroes-hz] | ![sky-cinema-thriller] |
-| ![sky-cinema-thriller-hd] | ![sky-cinema-thriller-hd-hz] | ![sky-cinema-thriller-hz] | ![sky-cinema-transformers] | ![sky-cinema-transformers-alt] | ![sky-cinema-transformers-alt-hd] |
-| ![sky-cinema-transformers-alt2] | ![sky-cinema-transformers-alt2-hd-hz] | ![sky-cinema-transformers-hd] | ![sky-cinema-transformers-hd-hz] | ![sky-cinema-transformers-hz] | ![sky-cinema-villains] |
-| ![sky-cinema-villains-hd] | ![sky-cinema-wizarding-world] | ![sky-cinema-wizarding-world-hd] | ![sky-comedy] | ![sky-comedy-hd] | ![sky-comedy-plus] |
-| ![sky-crime] | ![sky-crime-hd] | ![sky-crime-plus] | ![sky-docs] | ![sky-docs-hd] | ![sky-docs-light] |
-| ![sky-docs-light-hd] | ![sky-documentaries] | ![sky-documentaries-hd] | ![sky-documentaries-light] | ![sky-documentaries-light-hd] | ![sky-history] |
-| ![sky-history-2] | ![sky-history-2-hd] | ![sky-history-2-light] | ![sky-history-2-light-hd] | ![sky-history-2-mono] | ![sky-history-bug] |
-| ![sky-history-hd] | ![sky-history-light] | ![sky-history-light-hd] | ![sky-history-mono] | ![sky-history-plus] | ![sky-history-plus-light] |
-| ![sky-nature] | ![sky-nature-hd] | ![sky-nature-light] | ![sky-nature-light-hd] | ![sky-news] | ![sky-news-hd] |
-| ![sky-news-icon] | ![sky-news-temp] | ![sky-one] | ![sky-one-hd] | ![sky-one-plus] | ![sky-replay] |
-| ![sky-sports] | ![sky-sports-action] | ![sky-sports-action-bug] | ![sky-sports-action-bug-hz] | ![sky-sports-action-hd] | ![sky-sports-action-hd-hz] |
-| ![sky-sports-action-hz] | ![sky-sports-action-icon] | ![sky-sports-action-icon-alt] | ![sky-sports-arena] | ![sky-sports-arena-bug] | ![sky-sports-arena-bug-hz] |
-| ![sky-sports-arena-hd] | ![sky-sports-arena-hd-hz] | ![sky-sports-arena-hz] | ![sky-sports-arena-icon] | ![sky-sports-arena-icon-alt] | ![sky-sports-box-office] |
-| ![sky-sports-box-office-bug] | ![sky-sports-box-office-bug-hz] | ![sky-sports-box-office-hd] | ![sky-sports-box-office-hd-hz] | ![sky-sports-box-office-hz] | ![sky-sports-box-office-icon] |
-| ![sky-sports-box-office-icon-alt] | ![sky-sports-bug] | ![sky-sports-cricket] | ![sky-sports-cricket-bug] | ![sky-sports-cricket-bug-hz] | ![sky-sports-cricket-hd] |
-| ![sky-sports-cricket-hd-hz] | ![sky-sports-cricket-hz] | ![sky-sports-cricket-icon] | ![sky-sports-cricket-icon-alt] | ![sky-sports-darts] | ![sky-sports-darts-bug] |
-| ![sky-sports-darts-bug-hz] | ![sky-sports-darts-hd] | ![sky-sports-darts-hd-hz] | ![sky-sports-darts-hz] | ![sky-sports-darts-icon] | ![sky-sports-darts-icon-alt] |
-| ![sky-sports-f1] | ![sky-sports-f1-bug] | ![sky-sports-f1-bug-hz] | ![sky-sports-f1-hd] | ![sky-sports-f1-hd-hz] | ![sky-sports-f1-hz] |
-| ![sky-sports-f1-icon] | ![sky-sports-f1-icon-alt] | ![sky-sports-football] | ![sky-sports-football-bug] | ![sky-sports-football-bug-hz] | ![sky-sports-football-hd] |
-| ![sky-sports-football-hd-hz] | ![sky-sports-football-hz] | ![sky-sports-football-icon] | ![sky-sports-football-icon-alt] | ![sky-sports-golf] | ![sky-sports-golf-bug] |
-| ![sky-sports-golf-bug-hz] | ![sky-sports-golf-hd] | ![sky-sports-golf-hd-hz] | ![sky-sports-golf-hz] | ![sky-sports-golf-icon] | ![sky-sports-golf-icon-alt] |
-| ![sky-sports-hd-hz] | ![sky-sports-hz] | ![sky-sports-icon] | ![sky-sports-icon-alt] | ![sky-sports-main-event] | ![sky-sports-main-event-bug] |
-| ![sky-sports-main-event-bug-hz] | ![sky-sports-main-event-hd] | ![sky-sports-main-event-hd-hz] | ![sky-sports-main-event-hz] | ![sky-sports-main-event-icon] | ![sky-sports-main-event-icon-alt] |
-| ![sky-sports-mix] | ![sky-sports-mix-bug] | ![sky-sports-mix-bug-hz] | ![sky-sports-mix-hd] | ![sky-sports-mix-hd-hz] | ![sky-sports-mix-hz] |
-| ![sky-sports-mix-icon] | ![sky-sports-mix-icon-alt] | ![sky-sports-news] | ![sky-sports-news-bug] | ![sky-sports-news-bug-hz] | ![sky-sports-news-hd] |
-| ![sky-sports-news-hd-hz] | ![sky-sports-news-hz] | ![sky-sports-news-icon] | ![sky-sports-news-icon-alt] | ![sky-sports-nfl] | ![sky-sports-nfl-bug] |
-| ![sky-sports-nfl-bug-hz] | ![sky-sports-nfl-hd] | ![sky-sports-nfl-hd-hz] | ![sky-sports-nfl-hz] | ![sky-sports-nfl-icon] | ![sky-sports-nfl-icon-alt] |
-| ![sky-sports-premier-league] | ![sky-sports-premier-league-bug] | ![sky-sports-premier-league-bug-hz] | ![sky-sports-premier-league-hd] | ![sky-sports-premier-league-hd-hz] | ![sky-sports-premier-league-hz] |
-| ![sky-sports-premier-league-icon] | ![sky-sports-premier-league-icon-alt] | ![sky-sports-racing] | ![sky-sports-racing-bug] | ![sky-sports-racing-bug-hz] | ![sky-sports-racing-hd] |
-| ![sky-sports-racing-hd-hz] | ![sky-sports-racing-hz] | ![sky-sports-racing-icon] | ![sky-sports-racing-icon-alt] | ![sky-store] | ![sky-two] |
-| ![sky-two-plus] | ![sky-witness] | ![sky-witness-hd] | ![sky-witness-plus] | ![smithsonian-channel] | ![smithsonian-channel-hd] |
-| ![sony-channel] | ![sony-channel-hz] | ![sony-channel-light-hz] | ![sony-channel-plus] | ![sony-channel-plus-light-hz] | ![sony-entertainment-television] |
-| ![sony-movies] | ![sony-movies-action] | ![sony-movies-action-light-hz] | ![sony-movies-action-plus] | ![sony-movies-action-plus-light-hz] | ![sony-movies-christmas] |
-| ![sony-movies-christmas-plus] | ![sony-movies-classic] | ![sony-movies-classic-light-hz] | ![sony-movies-classic-plus] | ![sony-movies-classic-plus-light-hz] | ![sony-movies-light-hz] |
-| ![sony-movies-plus] | ![sony-movies-plus-light-hz] | ![sporty-stuff-tv] | ![spotlight] | ![starz] | ![stv] |
-| ![stv-hd] | ![stv-plus] | ![stv-white] | ![syfy] | ![syfy-hd] | ![syfy-hd-hz] |
-| ![syfy-hz] | ![syfy-plus] | ![syfy-plus-hz] | ![talking-pictures-tv] | ![tbn] | ![tcm-movies] |
-| ![tcm-movies-plus] | ![tg-4] | ![the-box] | ![tiny-pop] | ![tiny-pop-plus] | ![tjc-the-jewellery-channel] |
-| ![tlc] | ![tlc-plus] | ![together-tv] | ![together-tv-plus] | ![trace-hits] | ![trace-latina] |
-| ![trace-urban] | ![trace-vault] | ![trace-xmas] | ![travel-channel] | ![tru-tv] | ![true-movies] |
-| ![true-movies-2] | ![true-movies-plus] | ![tv-warehouse] | ![u-tv] | ![u-tv-plus] | ![universal] |
-| ![utsav-bharat] | ![utsav-gold] | ![utsav-gold-hd] | ![utsav-plus] | ![utsav-plus-hd] | ![vh1] |
-| ![viceland] | ![virgin-media-kids] | ![virgin-media-news] | ![virgin-media-one] | ![virgin-media-one-plus] | ![virgin-media-player] |
-| ![virgin-media-sport] | ![virgin-media-television] | ![virgin-media-three] | ![virgin-media-tv] | ![virgin-media-two] | ![vivid-red-hd] |
-| ![voxafrica] | ![w-network] | ![w-network-plus] | ![yanga] | ![yesterday] | ![yesterday-plus] |
+| ![bt-sport-ultimate-hz] | ![bt-tv] | ![c-itv] | ![cartoon-network] | ![cartoon-network-hd-uk] | ![cartoon-network-plus] |
+| ![cartoonito] | ![cbs-drama] | ![cbs-justice] | ![cbs-justice-plus] | ![cbs-reality] | ![cbs-reality-plus] |
+| ![ccx-tv] | ![challenge] | ![challenge-plus] | ![channel-4] | ![channel-4-hd] | ![channel-4-plus] |
+| ![channel-4-plus-hd] | ![channel-5] | ![channel-5-plus] | ![channel7] | ![chelsea-tv] | ![chelsea-tv-badge] |
+| ![chelsea-tv-badge-hz] | ![christmas-24] | ![christmas-24-plus] | ![clubland] | ![colors] | ![colors-cineplex] |
+| ![colors-rishtey] | ![comedy-central] | ![comedy-central-extra] | ![comedy-central-extra-hz] | ![comedy-central-extra-plus] | ![comedy-central-extra-plus-hz] |
+| ![comedy-central-hd] | ![comedy-central-icon] | ![comedy-central-icon-hd] | ![comedy-central-plus] | ![comedy-central-plus-icon] | ![court-tv] |
+| ![create-and-craft] | ![cricket-365] | ![crime-and-investigation] | ![crime-and-investigation-plus] | ![cula-4] | ![dave] |
+| ![dave-ja-vu] | ![discovery-channel] | ![discovery-channel-icon] | ![discovery-channel-icon-2] | ![discovery-channel-icon-2-plus] | ![discovery-channel-icon-3] |
+| ![discovery-channel-icon-3-plus] | ![discovery-channel-icon-plus] | ![discovery-channel-plus] | ![discovery-history] | ![discovery-history-plus] | ![discovery-home-and-health] |
+| ![discovery-home-and-health-icon] | ![discovery-home-and-health-plus] | ![discovery-home-and-health-plus-icon] | ![discovery-science] | ![discovery-science-icon] | ![discovery-science-plus] |
+| ![discovery-science-plus-icon] | ![discovery-shed] | ![discovery-turbo] | ![discovery-turbo-plus] | ![disney-channel] | ![disney-channel-bug] |
+| ![disney-channel-plus] | ![disney-junior] | ![disney-junior-plus] | ![disney-plus] | ![disney-xd] | ![disney-xd-plus] |
+| ![dmax] | ![dmax-plus] | ![drama] | ![drama-plus] | ![e-4] | ![e-4-hd] |
+| ![e-4-plus] | <img src=https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/e-entertainment-uk.png height="130px"> | ![e-entertainment-hd] | ![eden] | ![eden-hd] | ![eden-plus] |
+| ![eir-sport-1] | ![eir-sport-1-hd] | ![eir-sport-2] | ![eir-sport-2-hd] | ![eurosport-1] | ![eurosport-2] |
+| ![eva] | ![extreme-sports-channel] | ![faith] | ![fight-network] | ![film-4] | ![film-4-hd] |
+| ![film-4-plus] | ![food-network] | ![food-network-plus] | ![forces-tv] | ![fox] | ![fox-hd] |
+| ![fox-plus] | ![free-sports] | ![free-sports-hd] | ![gaa-go] | ![gb-news] | ![gold] |
+| ![gold-plus] | ![good-news-tv] | ![hgtv] | ![hgtv-plus] | ![hi-impact-tv] | ![history-channel] |
+| ![history-channel-2] | ![history-channel-plus] | ![horror-channel] | ![horror-channel-plus] | ![horse-and-country] | ![ideal-world] |
+| ![investigation-discovery] | ![investigation-discovery-hd] | ![investigation-discovery-plus] | ![islam-tv] | ![itv] | ![itv-2] |
+| ![itv-2-hd] | ![itv-2-plus] | ![itv-3] | ![itv-3-hd] | ![itv-3-plus] | ![itv-4] |
+| ![itv-4-hd] | ![itv-4-plus] | ![itv-be] | ![itv-be-hd] | ![itv-be-plus] | ![itv-encore] |
+| ![itv-encore-plus] | ![itv-hd] | ![itv-plus] | ![jml] | ![kerrang-tv] | ![ketchup-tv] |
+| ![kiss-tv] | ![laliga-tv] | ![lfctv] | ![lfctv-hd] | ![lifetime] | ![live-360] |
+| ![london-live] | ![love-nature] | ![love-nature-4k] | ![love-nature-4k-white] | ![love-nature-white] | ![loveworld] |
+| ![magic-tv] | ![movies-24] | ![movies-24-plus] | ![mtv] | ![mtv-00s] | ![mtv-80s] |
+| ![mtv-90s] | ![mtv-base] | ![mtv-classic] | ![mtv-club] | ![mtv-hits] | ![mtv-live-hd] |
+| ![mtv-love] | ![mtv-music] | ![mtv-music-plus] | ![mtv-omg] | ![mtv-omg-hz] | ![mtv-plus] |
+| ![mtv-pride] | ![mtv-rocks] | ![mtv-summer] | ![mtv-xmas] | ![mutv] | ![mutv-hd] |
+| ![my-5] | ![mytv] | ![ndtv-24x7] | ![nick] | ![nick-2] | ![nick-jr-paw-patrol] |
+| ![nick-jr-peppa] | ![nick-jr-plus] | ![nick-jr-too] | ![nick-toons] | ![nickelodeon] | ![nickelodeon-plus] |
+| ![now-70s] | ![now-80s] | ![now-90s] | ![now-christmas] | ![oireachtas-tv] | ![oireachtas-tv-icon] |
+| ![paramount-network] | ![paramount-network-hd] | ![paramount-network-icon] | ![paramount-network-icon-hd] | ![paramount-network-icon-light] | ![paramount-network-icon-light-hd] |
+| ![paramount-network-light] | ![paramount-network-light-hd] | ![paramount-network-plus] | ![paramount-network-plus-light] | ![pbs-america] | ![pbs-america-plus] |
+| ![pick] | ![pick-hd] | ![pick-plus] | ![pop] | ![pop-max] | ![pop-max-plus] |
+| ![pop-plus] | ![premier-sports] | ![premier-sports-1] | ![premier-sports-1-hd] | ![premier-sports-2] | ![premier-sports-2-hd] |
+| ![quest] | ![quest-hd] | ![quest-plus] | ![quest-red] | ![quest-red-hz] | ![quest-red-plus] |
+| ![quest-red-plus-hz] | ![qvc] | ![qvc-beauty] | ![qvc-beauty-hd] | ![qvc-extra] | ![qvc-hd] |
+| ![qvc-style] | ![really] | ![revelation-tv] | ![rok] | ![rte] | ![rte-2] |
+| ![rte-2-plus] | ![rte-jr] | ![rte-news-now] | ![rte-news-now-hz] | ![rte-one] | ![rte-one-plus] |
+| ![s4c] | ![s4c-dau-two] | ![s4c-hd] | ![showcase] | ![sky-arts] | ![sky-arts-hd] |
+| ![sky-atlantic] | ![sky-atlantic-hd] | ![sky-atlantic-plus] | ![sky-cinema] | ![sky-cinema-action] | ![sky-cinema-action-hd] |
+| ![sky-cinema-action-hd-hz] | ![sky-cinema-action-hz] | ![sky-cinema-adventure] | ![sky-cinema-adventure-hd] | ![sky-cinema-animation] | ![sky-cinema-animation-hd] |
+| ![sky-cinema-animation-hd-hz] | ![sky-cinema-animation-hz] | ![sky-cinema-best-of-2020] | ![sky-cinema-best-of-2020-hd] | ![sky-cinema-blockbusters] | ![sky-cinema-blockbusters-hd] |
+| ![sky-cinema-christmas] | ![sky-cinema-christmas-alt] | ![sky-cinema-christmas-alt-hd] | ![sky-cinema-christmas-hd] | ![sky-cinema-comedy] | ![sky-cinema-comedy-hd] |
+| ![sky-cinema-comedy-hd-hz] | ![sky-cinema-comedy-hz] | ![sky-cinema-cops-and-robbers] | ![sky-cinema-cops-and-robbers-hd] | ![sky-cinema-disney] | ![sky-cinema-disney-alt] |
+| ![sky-cinema-disney-alt-hd] | ![sky-cinema-disney-hd] | ![sky-cinema-disney-hd-hz] | ![sky-cinema-disney-hz] | ![sky-cinema-drama] | ![sky-cinema-drama-hd] |
+| ![sky-cinema-drama-hd-hz] | ![sky-cinema-drama-hz] | ![sky-cinema-family] | ![sky-cinema-family-hd] | ![sky-cinema-family-hd-hz] | ![sky-cinema-family-hz] |
+| ![sky-cinema-feel-good] | ![sky-cinema-feel-good-hd] | ![sky-cinema-five-star-movies] | ![sky-cinema-five-star-movies-hd] | ![sky-cinema-greats] | ![sky-cinema-greats-hd] |
+| ![sky-cinema-greats-hd-hz] | ![sky-cinema-greats-hz] | ![sky-cinema-halloween] | ![sky-cinema-halloween-hd] | ![sky-cinema-harry-potter] | ![sky-cinema-harry-potter-alt] |
+| ![sky-cinema-harry-potter-alt-hd] | ![sky-cinema-harry-potter-hd] | ![sky-cinema-harry-potter-hd-hz] | ![sky-cinema-harry-potter-hz] | ![sky-cinema-hd] | ![sky-cinema-hits] |
+| ![sky-cinema-hits-hd] | ![sky-cinema-hits-hd-hz] | ![sky-cinema-hits-hz] | ![sky-cinema-icon] | ![sky-cinema-lord-of-the-rings] | ![sky-cinema-lord-of-the-rings-alt] |
+| ![sky-cinema-lord-of-the-rings-alt-hd] | ![sky-cinema-lord-of-the-rings-hd] | ![sky-cinema-lord-of-the-rings-hd-hz] | ![sky-cinema-lord-of-the-rings-hz] | ![sky-cinema-musicals] | ![sky-cinema-musicals-hd] |
+| ![sky-cinema-must-see-movies] | ![sky-cinema-must-see-movies-hd] | ![sky-cinema-premiere] | ![sky-cinema-premiere-hd] | ![sky-cinema-premiere-hd-hz] | ![sky-cinema-premiere-hz] |
+| ![sky-cinema-premiere-plus] | ![sky-cinema-premiere-plus-hz] | ![sky-cinema-sci-fi-and-horror] | ![sky-cinema-sci-fi-and-horror-hd] | ![sky-cinema-sci-fi-and-horror-hd-hz] | ![sky-cinema-sci-fi-and-horror-hz] |
+| ![sky-cinema-select] | ![sky-cinema-select-hd] | ![sky-cinema-select-hd-hz] | ![sky-cinema-select-hz] | ![sky-cinema-spooky] | ![sky-cinema-spooky-hd] |
+| ![sky-cinema-star-wars] | ![sky-cinema-star-wars-alt] | ![sky-cinema-star-wars-alt-hd] | ![sky-cinema-star-wars-hd] | ![sky-cinema-star-wars-hd-hz] | ![sky-cinema-star-wars-hz] |
+| ![sky-cinema-superheroes] | ![sky-cinema-superheroes-alt] | ![sky-cinema-superheroes-alt-hd] | ![sky-cinema-superheroes-hd] | ![sky-cinema-superheroes-hd-hz] | ![sky-cinema-superheroes-hz] |
+| ![sky-cinema-thriller] | ![sky-cinema-thriller-hd] | ![sky-cinema-thriller-hd-hz] | ![sky-cinema-thriller-hz] | ![sky-cinema-transformers] | ![sky-cinema-transformers-alt] |
+| ![sky-cinema-transformers-alt-hd] | ![sky-cinema-transformers-alt2] | ![sky-cinema-transformers-alt2-hd-hz] | ![sky-cinema-transformers-hd] | ![sky-cinema-transformers-hd-hz] | ![sky-cinema-transformers-hz] |
+| ![sky-cinema-villains] | ![sky-cinema-villains-hd] | ![sky-cinema-wizarding-world] | ![sky-cinema-wizarding-world-hd] | ![sky-comedy] | ![sky-comedy-hd] |
+| ![sky-comedy-plus] | ![sky-crime] | ![sky-crime-hd] | ![sky-crime-plus] | ![sky-docs] | ![sky-docs-hd] |
+| ![sky-docs-light] | ![sky-docs-light-hd] | ![sky-documentaries] | ![sky-documentaries-hd] | ![sky-documentaries-light] | ![sky-documentaries-light-hd] |
+| ![sky-history] | ![sky-history-2] | ![sky-history-2-hd] | ![sky-history-2-light] | ![sky-history-2-light-hd] | ![sky-history-2-mono] |
+| ![sky-history-bug] | ![sky-history-hd] | ![sky-history-light] | ![sky-history-light-hd] | ![sky-history-mono] | ![sky-history-plus] |
+| ![sky-history-plus-light] | ![sky-nature] | ![sky-nature-hd] | ![sky-nature-light] | ![sky-nature-light-hd] | ![sky-news] |
+| ![sky-news-hd] | ![sky-news-icon] | ![sky-news-temp] | ![sky-one] | ![sky-one-hd] | ![sky-one-plus] |
+| ![sky-replay] | ![sky-sports] | ![sky-sports-action] | ![sky-sports-action-bug] | ![sky-sports-action-bug-hz] | ![sky-sports-action-hd] |
+| ![sky-sports-action-hd-hz] | ![sky-sports-action-hz] | ![sky-sports-action-icon] | ![sky-sports-action-icon-alt] | ![sky-sports-arena] | ![sky-sports-arena-bug] |
+| ![sky-sports-arena-bug-hz] | ![sky-sports-arena-hd] | ![sky-sports-arena-hd-hz] | ![sky-sports-arena-hz] | ![sky-sports-arena-icon] | ![sky-sports-arena-icon-alt] |
+| ![sky-sports-box-office] | ![sky-sports-box-office-bug] | ![sky-sports-box-office-bug-hz] | ![sky-sports-box-office-hd] | ![sky-sports-box-office-hd-hz] | ![sky-sports-box-office-hz] |
+| ![sky-sports-box-office-icon] | ![sky-sports-box-office-icon-alt] | ![sky-sports-bug] | ![sky-sports-cricket] | ![sky-sports-cricket-bug] | ![sky-sports-cricket-bug-hz] |
+| ![sky-sports-cricket-hd] | ![sky-sports-cricket-hd-hz] | ![sky-sports-cricket-hz] | ![sky-sports-cricket-icon] | ![sky-sports-cricket-icon-alt] | ![sky-sports-darts] |
+| ![sky-sports-darts-bug] | ![sky-sports-darts-bug-hz] | ![sky-sports-darts-hd] | ![sky-sports-darts-hd-hz] | ![sky-sports-darts-hz] | ![sky-sports-darts-icon] |
+| ![sky-sports-darts-icon-alt] | ![sky-sports-f1] | ![sky-sports-f1-bug] | ![sky-sports-f1-bug-hz] | ![sky-sports-f1-hd] | ![sky-sports-f1-hd-hz] |
+| ![sky-sports-f1-hz] | ![sky-sports-f1-icon] | ![sky-sports-f1-icon-alt] | ![sky-sports-football] | ![sky-sports-football-bug] | ![sky-sports-football-bug-hz] |
+| ![sky-sports-football-hd] | ![sky-sports-football-hd-hz] | ![sky-sports-football-hz] | ![sky-sports-football-icon] | ![sky-sports-football-icon-alt] | ![sky-sports-golf] |
+| ![sky-sports-golf-bug] | ![sky-sports-golf-bug-hz] | ![sky-sports-golf-hd] | ![sky-sports-golf-hd-hz] | ![sky-sports-golf-hz] | ![sky-sports-golf-icon] |
+| ![sky-sports-golf-icon-alt] | ![sky-sports-hd-hz] | ![sky-sports-hz] | ![sky-sports-icon] | ![sky-sports-icon-alt] | ![sky-sports-main-event] |
+| ![sky-sports-main-event-bug] | ![sky-sports-main-event-bug-hz] | ![sky-sports-main-event-hd] | ![sky-sports-main-event-hd-hz] | ![sky-sports-main-event-hz] | ![sky-sports-main-event-icon] |
+| ![sky-sports-main-event-icon-alt] | ![sky-sports-mix] | ![sky-sports-mix-bug] | ![sky-sports-mix-bug-hz] | ![sky-sports-mix-hd] | ![sky-sports-mix-hd-hz] |
+| ![sky-sports-mix-hz] | ![sky-sports-mix-icon] | ![sky-sports-mix-icon-alt] | ![sky-sports-news] | ![sky-sports-news-bug] | ![sky-sports-news-bug-hz] |
+| ![sky-sports-news-hd] | ![sky-sports-news-hd-hz] | ![sky-sports-news-hz] | ![sky-sports-news-icon] | ![sky-sports-news-icon-alt] | ![sky-sports-nfl] |
+| ![sky-sports-nfl-bug] | ![sky-sports-nfl-bug-hz] | ![sky-sports-nfl-hd] | ![sky-sports-nfl-hd-hz] | ![sky-sports-nfl-hz] | ![sky-sports-nfl-icon] |
+| ![sky-sports-nfl-icon-alt] | ![sky-sports-premier-league] | ![sky-sports-premier-league-bug] | ![sky-sports-premier-league-bug-hz] | ![sky-sports-premier-league-hd] | ![sky-sports-premier-league-hd-hz] |
+| ![sky-sports-premier-league-hz] | ![sky-sports-premier-league-icon] | ![sky-sports-premier-league-icon-alt] | ![sky-sports-racing] | ![sky-sports-racing-bug] | ![sky-sports-racing-bug-hz] |
+| ![sky-sports-racing-hd] | ![sky-sports-racing-hd-hz] | ![sky-sports-racing-hz] | ![sky-sports-racing-icon] | ![sky-sports-racing-icon-alt] | ![sky-store] |
+| ![sky-two] | ![sky-two-plus] | ![sky-witness] | ![sky-witness-hd] | ![sky-witness-plus] | ![smithsonian-channel] |
+| ![smithsonian-channel-hd] | ![sony-channel] | ![sony-channel-hz] | ![sony-channel-light-hz] | ![sony-channel-plus] | ![sony-channel-plus-light-hz] |
+| ![sony-entertainment-television] | ![sony-movies] | ![sony-movies-action] | ![sony-movies-action-light-hz] | ![sony-movies-action-plus] | ![sony-movies-action-plus-light-hz] |
+| ![sony-movies-christmas] | ![sony-movies-christmas-plus] | ![sony-movies-classic] | ![sony-movies-classic-light-hz] | ![sony-movies-classic-plus] | ![sony-movies-classic-plus-light-hz] |
+| ![sony-movies-light-hz] | ![sony-movies-plus] | ![sony-movies-plus-light-hz] | ![sporty-stuff-tv] | ![spotlight] | ![starz] |
+| ![stv] | ![stv-hd] | ![stv-plus] | ![stv-white] | ![syfy] | ![syfy-hd] |
+| ![syfy-hd-hz] | ![syfy-hz] | ![syfy-plus] | ![syfy-plus-hz] | ![talking-pictures-tv] | ![tbn] |
+| ![tcm-movies] | ![tcm-movies-plus] | ![tg-4] | ![the-box] | ![tiny-pop] | ![tiny-pop-plus] |
+| ![tjc-the-jewellery-channel] | ![tlc] | ![tlc-plus] | ![together-tv] | ![together-tv-plus] | ![trace-hits] |
+| ![trace-latina] | ![trace-urban] | ![trace-vault] | ![trace-xmas] | ![travel-channel] | ![tru-tv] |
+| ![true-movies] | ![true-movies-2] | ![true-movies-plus] | ![tv-warehouse] | ![u-tv] | ![u-tv-plus] |
+| ![universal] | ![utsav-bharat] | ![utsav-gold] | ![utsav-gold-hd] | ![utsav-plus] | ![utsav-plus-hd] |
+| ![vh1] | ![viceland] | ![virgin-media-kids] | ![virgin-media-news] | ![virgin-media-one] | ![virgin-media-one-plus] |
+| ![virgin-media-player] | ![virgin-media-sport] | ![virgin-media-television] | ![virgin-media-three] | ![virgin-media-tv] | ![virgin-media-two] |
+| ![vivid-red-hd] | ![voxafrica] | ![w-network] | ![w-network-plus] | ![yanga] | ![yesterday] |
+| ![yesterday-plus] |  |  |  |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
+
+
+
 
 
 [4-more]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/4-more-uk.png
@@ -283,6 +287,7 @@
 [bt-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-tv-uk.png
 [c-itv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/c-itv-uk.png
 [cartoon-network]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/cartoon-network-uk.png
+[cartoon-network-hd-uk]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/cartoon-network-hd-uk.png
 [cartoon-network-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/cartoon-network-plus-uk.png
 [cartoonito]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/cartoonito-uk.png
 [cbs-drama]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/cbs-drama-uk.png
