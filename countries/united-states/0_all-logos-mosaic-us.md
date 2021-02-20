@@ -15,7 +15,9 @@
 
 ### 🎨 __723 Logos total__  |  💎 __42 HD Logos__  
 
- 
+🔗 [Click here to go to the US local networks mosaic page][]
+
+
 
 | ![3abn] | ![3abn-dare-to-dream-network] | ![3abn-kids-network] | ![3abn-latino-network] | ![3abn-praise-him-music-network] | ![3abn-proclaim-network] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -864,5 +866,7 @@
 [you-too-america]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/you-too-america-us.png
 [you-too-america-icon]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/you-too-america-icon-us.png
 [z-living]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/z-living-us.png
+
+[Click here to go to the US local networks mosaic page]: https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/us-local/0z_all-logos-mosaic-us-local.md "Click here to go to the US local networks mosaic page"
 
 [space]:https://github.com/Tapiosinn/tv-logos/blob/master/misc/%CE%A9/space-1500.png
