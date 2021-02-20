@@ -54,7 +54,7 @@
 | ![discovery-science-plus-icon] | ![discovery-shed] | ![discovery-turbo] | ![discovery-turbo-plus] | ![disney-channel] | ![disney-channel-bug] |
 | ![disney-channel-plus] | ![disney-junior] | ![disney-junior-plus] | ![disney-plus] | ![disney-xd] | ![disney-xd-plus] |
 | ![dmax] | ![dmax-plus] | ![drama] | ![drama-plus] | ![e-4] | ![e-4-hd] |
-| ![e-4-plus] | <img src=https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/e-entertainment-uk.png height="130px"> | ![e-entertainment-hd] | ![eden] | ![eden-hd] | ![eden-plus] |
+| ![e-4-plus] | <img src=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/e-entertainment-uk.png height="130px"> | ![e-entertainment-hd] | ![eden] | ![eden-hd] | ![eden-plus] |
 | ![eir-sport-1] | ![eir-sport-1-hd] | ![eir-sport-2] | ![eir-sport-2-hd] | ![eurosport-1] | ![eurosport-2] |
 | ![eva] | ![extreme-sports-channel] | ![faith] | ![fight-network] | ![film-4] | ![film-4-hd] |
 | ![film-4-plus] | ![food-network] | ![food-network-plus] | ![forces-tv] | ![fox] | ![fox-hd] |
