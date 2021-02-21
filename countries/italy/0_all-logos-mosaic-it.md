@@ -15,7 +15,7 @@
 
 ### 🎨 __187 Logos total__  |  💎 __80 HD Logos__  
 
- 
+
 This mosaic view is only updated periodically.
 | ![20] | ![20-hd] | ![7gold] | ![alice] | ![blaze] | ![blaze-hd] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
