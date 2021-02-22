@@ -9,6 +9,7 @@
 💾 Combined file size = 0,7mb  |  📅 Last update: February 22 2021  
 🎨 __15 Logos total__ 
    
+   
 *This mosaic view is only updated periodically.*
 | ![astro-arena] | ![astro-arena-bug] | ![astro-box-office-sport] | ![astro-cricket] | ![astro-cricket-bug] | ![astro-supersport] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
