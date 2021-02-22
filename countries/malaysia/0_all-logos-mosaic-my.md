@@ -1,22 +1,19 @@
 🇲🇾 Malaysia
 ===============
+🛠 Right-click on a logo and copy the image address to get the direct url or click to open  
+🔗 The links will update automatically when I update a logo, unless the name has changed  
+♻️ You might need to refresh your app/device or clear cache to force in an update  
+📐 The logos have a max-width of 512px and have been optimized for smallest file size  
+🖤 The logos are created specifically to work on dark backgrounds  
 
-🛠 Right-click on a logo and copy the image address to get the direct url or click to open.
+ 
 
-🔗 The links will update automatically when I update a logo, unless the name has changed.
+💾 Combined file size = 0,7mb  |  📅 Last update: February 22 2021  
+🎨 __15 Logos total__ 
 
-♻️ You might need to refresh your app/device or clear cache to force in an update.
+ 
 
-📐 The logos have a max-width of 512px and have been optimized for smallest filesize.
-
-🖤 The logos are created specifically to work on dark backgrounds.
-
-💾 __Combined file size = 0,7mb__  |  📅 __Last update: February 22 2021__  
-
-### 🎨 __15 Logos total__ 
-
-
-This mosaic view is only updated periodically.
+*This mosaic view is only updated periodically.*
 | ![astro-arena] | ![astro-arena-bug] | ![astro-box-office-sport] | ![astro-cricket] | ![astro-cricket-bug] | ![astro-supersport] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | ![astro-supersport-2] | ![astro-supersport-2-bug] | ![astro-supersport-3] | ![astro-supersport-3-bug] | ![astro-supersport-4] | ![astro-supersport-4-bug] |
