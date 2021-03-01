@@ -52,7 +52,7 @@
 | ![espn-sec] | ![espn-sec-hz] | ![espn-sec-plus-hz] | ![espn-u] | ![espnews] | ![et-live] |
 | ![et-live-icon-blue] | ![evil-angel-hd] | ![fetv] | ![fight-network] | ![film-detective] | ![filmrise-classics] |
 | ![filmrise-crime] | ![filmrise-family] | ![filmrise-movies] | ![fite-tv] | ![flix] | ![fm] |
-| ![fntsy-sports-network] | ![food-network] | ![fox] | ![fox-29-wtxf] | ![fox-business] | ![fox-business-hz] |
+| ![fntsy-sports-network] | ![food-network] | ![fox] | ![space] | ![fox-business] | ![fox-business-hz] |
 | ![fox-college-sports] | ![fox-news] | ![fox-news-framed] | ![fox-nfl] | ![fox-nfl-hz] | ![fox-soccer-plus] |
 | ![fox-soccer-plus-hz] | ![fox-sports] | ![fox-sports-1] | ![fox-sports-2] | ![fox-sports-arizona] | ![fox-sports-carolinas] |
 | ![fox-sports-deportes] | ![fox-sports-deportes-flat] | ![fox-sports-detroid] | ![fox-sports-florida] | ![fox-sports-go] | ![fox-sports-indiana] |
@@ -131,7 +131,7 @@
 | ![vice] | ![viceland] | ![viendo-movies] | ![viendo-movies-light] | ![vme-kids] | ![vsin] |
 | ![we-tv] | ![weather-channel] | ![weathernation] | ![wgn-america] | ![willow] | ![willow-xtra] |
 | ![world-fishing-network] | ![world-pbs] | ![wwe] | ![xcorps-tv] | ![yes-network] | ![you-too-america] |
-| ![you-too-america-icon] | ![z-living] | ![zzz-00711] | ![zzz-00712] | ![zzz-00713] | ![zzz-00714] |
+| ![you-too-america-icon] | ![z-living] |  |  |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [3abn]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/3abn-us.png
