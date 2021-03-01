@@ -1,24 +1,17 @@
 🇺🇸 United States Local Networks
 ===============
-
-⭐️ [Click here to go to the main US logo mosaic page][]
-
-🛠 Right-click on a logo and copy the image address to get the direct url or click to open.
-
-🔗 The links will update automatically when I update a logo, unless the name has changed.
-
-♻️ You might need to refresh your app/device or clear cache to force in an update.
-
-📐 The logos have a max-width of 512px and have been optimized for smallest filesize.
-
-🖤 The logos are created specifically to work on dark backgrounds.
-
-💾 __Combined file size = 21,2mb__  |  📅 __Last update: March 1 2021__  
-
-### 🎨 __384 Logos total__  
-
- 
-
+⭐️ [Click here to go to the main US logo mosaic page][]  
+🛠 Right-click on a logo and copy the image address to get the direct url or click to open  
+🔗 The links will update automatically when I update a logo, unless the name has changed  
+♻️ You might need to refresh your app/device or clear cache to force in an update  
+📐 The logos have a max-width of 512px and have been optimized for smallest file size  
+🖤 The logos are created specifically to work on dark backgrounds  
+   
+💾 Combined file size = 21,2mb  |  📅 Last update: March 1 2021  
+🎨 __384 Logos total__
+   
+   
+*This mosaic view is only updated periodically.*  
 | ![7-news-boston-whdh-us] | ![7-news-miami-wsvn-us] | ![abc-10-kgtv-us] | ![abc-10-kxtv-us] | ![abc-10-wplg-us] | ![abc-10-wten-us] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | ![abc-11-wtok-us] | ![abc-11-wtvd-us] | ![abc-12-kdrv-us] | ![abc-12-ktxs-us] | ![abc-12-wcti-us] | ![abc-12-wisn-us] |
