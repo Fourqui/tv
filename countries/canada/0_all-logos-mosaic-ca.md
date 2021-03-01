@@ -55,8 +55,8 @@
 | ![sportsnet-world] | ![sportsnet-world-hd] | ![sportsnetnucks] | ![sportsnetnucks-hd] | ![starz-1] | ![starz-2] |
 | ![stingray-classica] | ![stingray-cmusic] | ![stingray-country] | ![stingray-hits] | ![stingray-lite-tv] | ![stingray-loud] |
 | ![stingray-music] | ![stingray-now-4k] | ![stingray-palmares-adisq] | ![stingray-retro] | ![stingray-vibe] | ![super-channel] |
-| ![super-channel-fuse-tv] | ![super-channel-heart-and-home] | ![super-channel-the-vault] | ![super-ectran-1] | ![super-ectran-2] | ![super-ectran-3] |
-| ![super-ectran-4] | ![t-plus-e] | ![tcm-movies] | ![telemagino] | ![teletoon] | ![tfo] |
+| ![super-channel-fuse-tv] | ![super-channel-heart-and-home] | ![super-channel-the-vault] | ![super-ecran-1] | ![super-ecran-2] | ![super-ecran-3] |
+| ![super-ecran-4] | ![t-plus-e] | ![tcm-movies] | ![telemagino] | ![teletoon] | ![tfo] |
 | ![the-weather-network] | ![tlc] | ![toon-a-vision] | ![travel-and-escape] | ![treehouse] | ![tsc] |
 | ![tsn] | ![tsn-1] | ![tsn-1-hd] | ![tsn-2] | ![tsn-2-4k] | ![tsn-2-hd] |
 | ![tsn-3] | ![tsn-3-hd] | ![tsn-4] | ![tsn-4-hd] | ![tsn-4k] | ![tsn-5] |
@@ -291,10 +291,10 @@
 [super-channel-fuse-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/super-channel-fuse-tv-ca.png
 [super-channel-heart-and-home]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/super-channel-heart-and-home-ca.png
 [super-channel-the-vault]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/super-channel-the-vault-ca.png
-[super-ectran-1]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/super-ectran-1-ca.png
-[super-ectran-2]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/super-ectran-2-ca.png
-[super-ectran-3]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/super-ectran-3-ca.png
-[super-ectran-4]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/super-ectran-4-ca.png
+[super-ecran-1]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/super-ecran-1-ca.png
+[super-ecran-2]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/super-ecran-2-ca.png
+[super-ecran-3]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/super-ecran-3-ca.png
+[super-ecran-4]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/super-ecran-4-ca.png
 [t-plus-e]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/t-plus-e-ca.png
 [tcm-movies]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/tcm-movies-ca.png
 [telemagino]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/telemagino-ca.png
