@@ -1,25 +1,17 @@
 🇺🇸 United States
 ===============
-
-📡 [Click here to go to the US local networks mosaic page][]
-
-🛠 Right-click on a logo and copy the image address to get the direct url or click to open.
-
-🔗 The links will update automatically when I update a logo, unless the name has changed.
-
-♻️ You might need to refresh your app/device or clear cache to force in an update.
-
-📐 The logos have a max-width of 512px and have been optimized for smallest filesize.
-
-🖤 The logos are created specifically to work on dark backgrounds.
-
-💾 __Combined file size = 20,4mb__  |  📅 __Last update: February 19 2021__  
-
-### 🎨 __723 Logos total__  |  💎 __42 HD Logos__  
-
-
-
-
+📡 [Click here to go to the US local networks mosaic page][]  
+🛠 Right-click on a logo and copy the image address to get the direct url or click to open.  
+🔗 The links will update automatically when I update a logo, unless the name has changed.  
+♻️ You might need to refresh your app/device or clear cache to force in an update.  
+📐 The logos have a max-width of 512px and have been optimized for smallest file size.  
+🖤 The logos are created specifically to work on dark backgrounds.  
+   
+💾 Combined file size = 20,4mb  |  📅 Last update: March 1 2021  
+🎨 __723 Logos total__  |  ✨ __42 HD Logos__
+   
+   
+*This mosaic view is only updated periodically.*  
 | ![3abn] | ![3abn-dare-to-dream-network] | ![3abn-kids-network] | ![3abn-latino-network] | ![3abn-praise-him-music-network] | ![3abn-proclaim-network] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | ![a-and-e] | ![a-and-e-hd] | ![abc] | ![abc-live-event] | ![abc-localish] | ![abc-logo-1962] |
