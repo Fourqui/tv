@@ -1,11 +1,11 @@
 🇺🇸 United States Local Networks
 ===============
 ⭐️ [Click here to go to the main US logo mosaic page][]  
-🛠 Right-click on a logo and copy the image address to get the direct url or click to open  
-🔗 The links will update automatically when I update a logo, unless the name has changed  
-♻️ You might need to refresh your app/device or clear cache to force in an update  
-📐 The logos have a max-width of 512px and have been optimized for smallest file size  
-🖤 The logos are created specifically to work on dark backgrounds  
+🛠 Right-click on a logo and copy the image address to get the direct url or click to open.  
+🔗 The links will update automatically when I update a logo, unless the name has changed.  
+♻️ You might need to refresh your app/device or clear cache to force in an update.  
+📐 The logos have a max-width of 512px and have been optimized for smallest file size.  
+🖤 The logos are created specifically to work on dark backgrounds.  
    
 💾 Combined file size = 21,2mb  |  📅 Last update: March 1 2021  
 🎨 __384 Logos total__
