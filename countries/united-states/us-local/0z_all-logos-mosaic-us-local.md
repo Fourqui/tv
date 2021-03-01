@@ -13,7 +13,7 @@
 
 🖤 The logos are created specifically to work on dark backgrounds.
 
-💾 __Combined file size = 21,2mb__  |  📅 __Last update: February 19 2021__  
+💾 __Combined file size = 21,2mb__  |  📅 __Last update: March 1 2021__  
 
 ### 🎨 __384 Logos total__  
 
@@ -65,7 +65,7 @@
 | ![fox-35-wofl-us] | ![fox-4-kdfw-us] | ![fox-4-wdaf-us] | ![fox-4-wftx-us] | ![fox-40-ktxl-us] | ![fox-42-kptm-us] |
 | ![fox-43-wpmt-hz-us] | ![fox-43-wpmt-us] | ![fox-44-wfff-us] | ![fox-45-wbff-us] | ![fox-46-wjzy-us] | ![fox-47-kxlt-us] |
 | ![fox-47-wmsn-us] | ![fox-5-kswb-us] | ![fox-5-kvvu-us] | ![fox-5-plus-wdca-us] | ![fox-5-waga-hz-us] | ![fox-5-waga-us] |
-| ![fox-5-wdc-us] | ![fox-5-wnyv-us] | ![fox-54-wzdx-us] | ![fox-55-27-wrsp-us] | ![fox-58-kbfx-us] | ![fox-6-wbrc-us] |
+| ![fox-5-wdc-us] | ![fox-5-wnyw-us] | ![fox-54-wzdx-us] | ![fox-55-27-wrsp-us] | ![fox-58-kbfx-us] | ![fox-6-wbrc-us] |
 | ![fox-6-witi-us] | ![fox-61-wtic-us] | ![fox-7-ktbc-us] | ![fox-7-wzaw-us] | ![fox-8-wghp-us] | ![fox-8-wjw-us] |
 | ![fox-9-kecy-us] | ![fox-9-kmsp-us] | ![fox-9-wtov-us] | ![kgwn-tv-us] | ![my-13-kcop-us] | ![my-4-wnya-us] |
 | ![my-58-kqca-us] | ![nbc-10-kmot-us] | ![nbc-10-wbir-us] | ![nbc-10-wbts-cd-us] | ![nbc-10-wcau-us] | ![nbc-10-whec-us] |
@@ -357,7 +357,7 @@
 [fox-5-waga-hz-us]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/us-local/fox-5-waga-hz-us.png
 [fox-5-waga-us]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/us-local/fox-5-waga-us.png
 [fox-5-wdc-us]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/us-local/fox-5-wdc-us.png
-[fox-5-wnyv-us]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/us-local/fox-5-wnyv-us.png
+[fox-5-wnyw-us]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/us-local/fox-5-wnyw-us.png
 [fox-54-wzdx-us]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/us-local/fox-54-wzdx-us.png
 [fox-55-27-wrsp-us]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/us-local/fox-55-27-wrsp-us.png
 [fox-58-kbfx-us]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/us-local/fox-58-kbfx-us.png
