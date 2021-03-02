@@ -1,22 +1,16 @@
 🇿🇦 South Africa
 ===============
-
-🛠 Right-click on a logo and copy the image address to get the direct url or click to open.
-
-🔗 The links will update automatically when I update a logo, unless the name has changed.
-
-♻️ You might need to refresh your app/device or clear cache to force in an update.
-
-📐 The logos have a max-width of 512px and have been optimized for smallest filesize.
-
-🖤 The logos are created specifically to work on dark backgrounds.
-
-💾 __Combined file size = 2,3mb__  |  📅 __Last update: February 19 2021__  
-
-### 🎨 __58 Logos total__  |  💎 __1 HD Logo__  
-
- 
-
+🛠 Right-click on a logo and copy the image address to get the direct url or click to open  
+🔗 The links will update automatically when I update a logo, unless the name has changed  
+♻️ You might need to refresh your app/device or clear cache to force in an update  
+📐 The logos have a max-width of 512px and have been optimized for smallest file size  
+🖤 The logos are created specifically to work on dark backgrounds  
+   
+💾 Combined file size = 2,3mb  |  📅 Last update: March 2 2021  
+🎨 __58 Logos total__  |  ✨ __1 HD Logos__
+   
+   
+*This mosaic view is only updated periodically.*  
 | ![boing] | ![fix-and-foxi] | ![itv-choice] | ![m-net] | ![m-net-city] | ![m-net-hd] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | ![m-net-movies] | ![m-net-movies-premiere] | ![mtv] | ![mtv-base] | ![sabc-news] | ![supersport] |
