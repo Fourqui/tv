@@ -13,27 +13,28 @@
 *This mosaic view is only updated periodically.*  
 | ![100p-tv] | ![192-tv] | ![24-kitchen] | ![animal-planet] | ![at5] | ![baby-tv] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| ![bbc-first] | ![boomerang] | ![bvn] | ![cbs-reality] | ![comedy-central] | ![comedy-central-extra] |
-| ![comedy-central-extra-hz] | ![crime-and-investigation] | ![dance-television] | ![discovery-channel] | ![discovery-science] | ![disney-channel] |
-| ![dreamworks-channel] | ![dreamworks-channel-hz] | ![dusk] | <img src=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/e-entertainment-nl.png height="130px"> | ![espn] | ![espn-2] |
-| ![espn-3] | ![espn-4] | ![espn-5] | ![espn-6] | ![eurosport-1] | ![eurosport-1-hd] |
-| ![eurosport-2] | ![eurosport-2-hd] | ![evil-angel] | ![extreme-sports-channel] | ![family7] | ![fashion-tv] |
-| ![film1-action] | ![film1-action-hz] | ![film1-drama] | ![film1-drama-hz] | ![film1-family] | ![film1-family-hz] |
-| ![film1-premiere] | ![film1-premiere-hz] | ![fox] | ![history-channel] | ![history-channel-hd] | ![horse-and-country] |
-| ![id-investigation-discovery] | <img src=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/l1-tv-nl.png height="100px"> | ![love-nature] | ![meiden-van-holland-hard] | ![mezzo] | ![mtv] |
-| ![mtv-hits] | ![mtv-live-hd] | ![mtv-music24] | ![my-zen-tv] | ![national-geographic] | ![national-geographic-wild] |
-| ![net5] | ![nh] | ![nh-nieuws] | ![nick-jr] | ![nick-music] | ![nick-toons] |
-| ![nickelodeon] | ![njam] | ![npo-nieuws] | ![npo-politiek] | ![npo-sport] | ![npo-zappelin-extra] |
-| ![npo1] | ![npo1-extra] | ![npo2] | ![npo2-extra] | ![npo3] | ![omroep-brabant] |
-| ![omroep-flevoland] | ![omroep-gelderland] | ![omroep-west] | ![omroep-zeeland] | ![omrop-fryslan] | ![ons] |
-| ![out-tv] | ![passie-xxx] | ![pebble-tv] | ![penthouse-gold] | ![rtl-crime] | ![rtl-lounge] |
-| ![rtl-telekids] | ![rtl4] | ![rtl5] | ![rtl7] | ![rtl8] | ![rtlz] |
-| ![rtv-drenthe] | ![rtv-noord] | ![rtv-oost] | ![rtv-rijnmond] | ![rtv-utrecht] | ![rtv7] |
-| ![sbs6] | ![sbs9] | ![secret-circle] | ![shorts-tv] | ![slam-tv] | ![spike] |
-| ![stingray-classica] | ![stingray-djazz] | ![stingray-lite-tv] | ![tlc] | ![tommy-tv] | ![tv-538] |
-| ![tv-oranje] | ![veronica] | ![veronica-disney-xd] | ![videoland] | ![x-mo] | ![xite] |
-| ![ziggo-sport] | ![ziggo-sport-docu] | ![ziggo-sport-extra] | ![ziggo-sport-extra1] | ![ziggo-sport-extra2] | ![ziggo-sport-golf] |
-| ![ziggo-sport-racing] | ![ziggo-sport-select] | ![ziggo-sport-tennis] | ![ziggo-sport-voetbal] | ![ziggo-tv] |  |
+| ![bbc-first] | ![boomerang] | ![bvn] | ![cartoon-network] | ![cbs-reality] | ![comedy-central] |
+| ![comedy-central-extra] | ![comedy-central-extra-hz] | ![crime-and-investigation] | ![dance-television] | ![discovery-channel] | ![discovery-science] |
+| ![disney-channel] | ![dreamworks-channel] | ![dreamworks-channel-hz] | ![dusk] | <img src=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/e-entertainment-nl.png height="130px"> | ![espn] |
+| ![espn-2] | ![espn-3] | ![espn-4] | ![espn-5] | ![espn-6] | ![eurosport-1] |
+| ![eurosport-1-hd] | ![eurosport-2] | ![eurosport-2-hd] | ![evil-angel] | ![extreme-sports-channel] | ![family7] |
+| ![fashion-tv] | ![film1-action] | ![film1-action-hz] | ![film1-drama] | ![film1-drama-hz] | ![film1-family] |
+| ![film1-family-hz] | ![film1-premiere] | ![film1-premiere-hz] | ![fox] | ![history-channel] | ![history-channel-hd] |
+| ![horse-and-country] | ![id-investigation-discovery] | <img src=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/l1-tv-nl.png height="100px"> | ![love-nature] | ![meiden-van-holland-hard] | ![mezzo] |
+| ![mtv] | ![mtv-hits] | ![mtv-live-hd] | ![mtv-music24] | ![my-zen-tv] | ![national-geographic] |
+| ![national-geographic-wild] | ![net5] | ![nh] | ![nh-nieuws] | ![nick-jr] | ![nick-music] |
+| ![nick-toons] | ![nickelodeon] | ![njam] | ![npo-nieuws] | ![npo-politiek] | ![npo-sport] |
+| ![npo-zappelin-extra] | ![npo1] | ![npo1-extra] | ![npo2] | ![npo2-extra] | ![npo3] |
+| ![omroep-brabant] | ![omroep-flevoland] | ![omroep-gelderland] | ![omroep-west] | ![omroep-zeeland] | ![omrop-fryslan] |
+| ![ons] | ![out-tv] | ![passie-xxx] | ![pebble-tv] | ![penthouse-gold] | ![rtl-crime] |
+| ![rtl-lounge] | ![rtl-telekids] | ![rtl4] | ![rtl5] | ![rtl7] | ![rtl8] |
+| ![rtlz] | ![rtv-drenthe] | ![rtv-noord] | ![rtv-oost] | ![rtv-rijnmond] | ![rtv-utrecht] |
+| ![rtv7] | ![sbs6] | ![sbs9] | ![secret-circle] | ![shorts-tv] | ![slam-tv] |
+| ![spike] | ![stingray-classica] | ![stingray-djazz] | ![stingray-lite-tv] | ![tlc] | ![tommy-tv] |
+| ![tv-538] | ![tv-oranje] | ![utsav-gold] | ![utsav-plus] | ![veronica] | ![veronica-disney-xd] |
+| ![videoland] | ![x-mo] | ![xite] | ![ziggo-sport] | ![ziggo-sport-docu] | ![ziggo-sport-extra] |
+| ![ziggo-sport-extra1] | ![ziggo-sport-extra2] | ![ziggo-sport-golf] | ![ziggo-sport-racing] | ![ziggo-sport-select] | ![ziggo-sport-tennis] |
+| ![ziggo-sport-voetbal] | ![ziggo-tv] |  |  |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [100p-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/100p-nl-tv-nl.png
@@ -45,6 +46,7 @@
 [bbc-first]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/bbc-first-nl.png
 [boomerang]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/boomerang-nl.png
 [bvn]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/bvn-nl.png
+[cartoon-network]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/cartoon-network-nl.png
 [cbs-reality]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/cbs-reality-nl.png
 [comedy-central]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/comedy-central-nl.png
 [comedy-central-extra]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/comedy-central-extra-nl.png
@@ -151,6 +153,8 @@
 [tommy-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/tommy-tv-nl.png
 [tv-538]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/tv-538-nl.png
 [tv-oranje]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/tv-oranje-nl.png
+[utsav-gold]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/utsav-gold-nl.png
+[utsav-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/utsav-plus-nl.png
 [veronica]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/veronica-nl.png
 [veronica-disney-xd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/veronica-disney-xd-nl.png
 [videoland]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/videoland-nl.png
