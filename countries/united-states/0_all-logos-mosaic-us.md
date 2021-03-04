@@ -55,7 +55,7 @@
 | ![fntsy-sports-network] | ![food-network] | ![fox] | ![fox-business] | ![fox-business-hz] | ![fox-college-sports] |
 | ![fox-news] | ![fox-news-framed] | ![fox-nfl] | ![fox-nfl-hz] | ![fox-soccer-plus] | ![fox-soccer-plus-hz] |
 | ![fox-sports] | ![fox-sports-1] | ![fox-sports-2] | ![fox-sports-arizona] | ![fox-sports-carolinas] | ![fox-sports-deportes] |
-| ![fox-sports-deportes-flat] | ![fox-sports-detroid] | ![fox-sports-florida] | ![fox-sports-go] | ![fox-sports-indiana] | ![fox-sports-kansas-city] |
+| ![fox-sports-deportes-flat] | ![fox-sports-detroit] | ![fox-sports-florida] | ![fox-sports-go] | ![fox-sports-indiana] | ![fox-sports-kansas-city] |
 | ![fox-sports-midwest] | ![fox-sports-networks] | ![fox-sports-new-orleans] | ![fox-sports-north] | ![fox-sports-ohio] | ![fox-sports-oklahoma] |
 | ![fox-sports-prime-ticket] | ![fox-sports-san-diego] | ![fox-sports-south] | ![fox-sports-southeast] | ![fox-sports-southwest] | ![fox-sports-sun] |
 | ![fox-sports-tennessee] | ![fox-sports-west] | ![fox-sports-wisconsin] | ![fox-sportstime-ohio] | ![free-speech-tv] | ![freeform] |
@@ -387,7 +387,7 @@
 [fox-sports-carolinas]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/fox-sports-carolinas-us.png
 [fox-sports-deportes]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/fox-sports-deportes-us.png
 [fox-sports-deportes-flat]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/fox-sports-deportes-flat-us.png
-[fox-sports-detroid]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/fox-sports-detroid-us.png
+[fox-sports-detroit]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/fox-sports-detroit-us.png
 [fox-sports-florida]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/fox-sports-florida-us.png
 [fox-sports-go]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/fox-sports-go-us.png
 [fox-sports-indiana]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/fox-sports-indiana-us.png
