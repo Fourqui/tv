@@ -7,8 +7,8 @@
 📐 The logos have a max-width of 512px and have been optimized for smallest file size.  
 🖤 The logos are created specifically to work on dark backgrounds.  
    
-💾 Combined file size = 20,4mb  |  📅 Last update: March 1 2021  
-🎨 __709 Logos total__  |  ✨ __40 HD Logos__
+💾 Combined file size = 20,4mb  |  📅 Last update: April 6 2021  
+🎨 __727 Logos total__  |  ✨ __40 HD Logos__
    
    
 *This mosaic view is only updated periodically.*  
@@ -22,100 +22,103 @@
 | ![africa-channel] | ![afro] | ![akc-tv] | ![altitude-sports] | ![amc] | ![amc-hd] |
 | ![american-heroes-channel] | ![animal-planet] | ![animal-planet-hd] | ![antenna] | ![aspire-tv] | ![at-and-t-sportsnet] |
 | ![at-and-t-sportsnet-hd-custom] | ![at-and-t-sportsnet-pittsburgh-custom] | ![at-and-t-sportsnet-rocky-mountain-custom] | ![at-and-t-sportsnet-southwest-custom] | ![awe] | ![axs-tv] |
-| ![azteca-america] | ![baby-first-tv] | ![baby-tv] | ![bangu] | ![bbc-america] | ![bbc-america-hd] |
-| ![bbc-america-hz] | ![beauty-channel] | ![bek-sports] | ![bek-sports-plus] | ![bet] | ![bet-gospel] |
-| ![bet-her] | ![bet-jams] | ![bet-plus] | ![bet-soul] | ![black-news-channel] | ![blaze-tv] |
-| ![bloomberg-live-events] | ![bloomberg-television] | ![boomerang] | ![boomerang-hd] | ![bounce] | ![br-live] |
-| ![bravo] | ![brazzers-tv] | ![btn] | ![buzzr] | ![buzzr-light] | ![byu-tv] |
-| ![c-span-1] | ![c-span-2] | ![c-span-3] | ![c-span-live] | ![cars-tv] | ![cartoon-network] |
-| ![cartoon-network-hd] | ![cbn] | ![cbn-news] | ![cbs-logo-white] | ![cbs-nfl] | ![cbs-sports] |
-| ![cbs-sports-hq] | ![cbs-sports-network] | ![cbsn] | ![cbsn-baltimore] | ![cbsn-bay-area] | ![cbsn-boston] |
-| ![cbsn-chicago] | ![cbsn-dallas-ft-worth] | ![cbsn-denver] | ![cbsn-los-angeles] | ![cbsn-miami] | ![cbsn-minnesota] |
-| ![cbsn-new-york] | ![cbsn-philly] | ![cbsn-pittsburgh] | ![cbsn-sacramento] | ![charge] | ![cheddar] |
-| ![cheddar-hz] | ![cheddar-news] | ![cine-latino] | ![cine-sony] | ![cinemax] | ![cinemax-5-starmax] |
-| ![cinemax-actionmax] | ![cinemax-en-espanol] | ![cinemax-max-go] | ![cinemax-max-go-icon] | ![cinemax-moremax] | ![cinemax-moviemax] |
-| ![cinemax-outermax] | ![cinemax-thrillermax] | ![circle] | ![classic-arts-showcase] | ![cleo-tv] | ![cmc] |
-| ![cmt] | ![cmt-color] | ![cmt-music] | ![cnbc] | ![cnbc-hz] | ![cnbc-olympics-flat] |
-| ![cnbc-prime-neon] | ![cnbc-prime-neon-shark-tank] | ![cnbc-world-flat] | ![cnn] | ![cnn-airport] | ![cnn-hd] |
-| ![comedy-central] | ![comedy-central-hd] | ![comedy-central-icon] | ![comedy-tv] | ![comet] | ![cooking-channel] |
-| ![cooking-channel-hd] | ![cornerstone-network] | ![court-tv] | ![court-tv-mystery] | ![cowboy-channel] | ![cozi-tv] |
-| ![create] | ![crime-and-investigation] | ![crime-and-investigation-hd] | ![cw] | ![dabl] | ![daystar] |
-| ![daystar-hd] | ![dazn] | ![decades] | ![destination-america] | ![discovery-channel] | ![discovery-channel-hd] |
-| ![discovery-channel-icon] | ![discovery-channel-icon-2] | ![discovery-channel-icon-3] | ![discovery-channel-icon-hd] | ![discovery-en-espanol] | ![discovery-familia] |
-| ![discovery-family] | ![discovery-history] | ![discovery-life] | ![discovery-on-demand] | ![discovery-science] | ![discovery-science-icon] |
-| ![discovery-science-icon-shade] | ![disney-channel] | ![disney-channel-bug] | ![disney-channel-hd] | ![disney-junior] | ![disney-junior-hd] |
-| ![disney-plus] | ![disney-xd] | ![disney-xd-hd] | ![diy-network] | ![diy-network-hd] | ![dog-tv] |
-| ![dog-tv-hz] | ![dove-channel] | <img src=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/e-entertainment-us.png height="130px"> | ![e-entertainment-hd] | ![el-rey] | ![epix] |
-| ![epix-2] | ![epix-drive-in] | ![epix-hits] | ![es-tv] | ![espn] | ![espn-2] |
-| ![espn-3] | ![espn-accn] | ![espn-accn-extra] | ![espn-bases-loaded] | ![espn-classic] | ![espn-college-extra] |
-| ![espn-college-football] | ![espn-deportes] | ![espn-goalline] | ![espn-icon] | ![espn-plus] | ![espn-saturday-night-football] |
-| ![espn-sec] | ![espn-sec-hz] | ![espn-sec-plus-hz] | ![espn-u] | ![espnews] | ![et-live] |
-| ![et-live-icon-blue] | ![evil-angel-hd] | ![fetv] | ![fight-network] | ![film-detective] | ![filmrise-classics] |
-| ![filmrise-crime] | ![filmrise-family] | ![filmrise-movies] | ![fite-tv] | ![flix] | ![fm] |
-| ![fntsy-sports-network] | ![food-network] | ![fox] | ![fox-business] | ![fox-business-hz] | ![fox-college-sports] |
-| ![fox-news] | ![fox-news-framed] | ![fox-nfl] | ![fox-nfl-hz] | ![fox-soccer-plus] | ![fox-soccer-plus-hz] |
-| ![fox-sports] | ![fox-sports-1] | ![fox-sports-2] | ![fox-sports-arizona] | ![fox-sports-carolinas] | ![fox-sports-deportes] |
-| ![fox-sports-deportes-flat] | ![fox-sports-detroit] | ![fox-sports-florida] | ![fox-sports-go] | ![fox-sports-indiana] | ![fox-sports-kansas-city] |
-| ![fox-sports-midwest] | ![fox-sports-networks] | ![fox-sports-new-orleans] | ![fox-sports-north] | ![fox-sports-ohio] | ![fox-sports-oklahoma] |
-| ![fox-sports-prime-ticket] | ![fox-sports-san-diego] | ![fox-sports-south] | ![fox-sports-southeast] | ![fox-sports-southwest] | ![fox-sports-sun] |
-| ![fox-sports-tennessee] | ![fox-sports-west] | ![fox-sports-wisconsin] | ![fox-sportstime-ohio] | ![free-speech-tv] | ![freeform] |
-| ![freeform-hd] | ![freeform-hz] | ![fubo-cycling] | ![fubo-sports-network] | ![funimation] | ![funimation-icon] |
-| ![fuse] | ![fusion] | ![fx] | ![fx-hd] | ![fxm-movie-channel] | ![fxm-movie-channel-hd] |
-| ![fxx] | ![fxx-hd] | ![fyi] | ![galavision] | ![game-show-network] | ![game-show-network-hz] |
-| ![gem-shopping-network] | ![get-tv] | ![gol-tv] | ![great-american-country] | ![grit] | ![hallmark] |
-| ![hallmark-channel] | ![hallmark-drama] | ![hallmark-movies-and-mysteries] | ![hapa] | ![hbo] | ![hbo-2] |
-| ![hbo-2-hd] | ![hbo-comedy] | ![hbo-comedy-hz] | ![hbo-family] | ![hbo-family-hz] | ![hbo-films] |
-| ![hbo-hd] | ![hbo-latino] | ![hbo-latino-hz] | ![hbo-max] | ![hbo-max-color] | ![hbo-max-color-hz] |
-| ![hbo-max-hz] | ![hbo-max-icon] | ![hbo-on-demand] | ![hbo-signature] | ![hbo-signature-hz] | ![hbo-zone] |
-| ![hbo-zone-hz] | ![hdnet-movies] | ![heartland] | ![heroes-and-icons] | ![hgtv] | ![history-channel] |
-| ![history-channel-2] | ![hitz] | ![hitz-2] | ![hitz-3] | ![hln] | ![home] |
-| ![hope-channel] | ![hsn] | ![hsn-2] | ![hunt-channel] | ![hustler-hd] | ![hustler-tv] |
-| ![ifc] | ![info-wars] | ![insp] | ![inspiration-tv] | ![investigation-discovery] | ![investigation-discovery-clear] |
-| ![investigation-discovery-flat] | ![investigation-discovery-glass] | ![investigation-discovery-icon] | ![investigation-discovery-icon-clear] | ![investigation-discovery-icon-flat] | ![ion-plus] |
-| ![ion-television] | ![jtv] | ![justice-central-tv] | ![key-tv] | ![kids-central] | ![kids-street] |
-| ![laff] | ![latv] | ![law-and-crime-network] | ![lifetime] | ![lifetime-movie-network] | ![lifetime-movies] |
-| ![lifetime-real-women] | ![light-tv] | ![live-well-network] | ![logo] | ![longhorn-network] | ![marquee-sports-network] |
-| ![masn] | ![masn-2] | ![mav-tv] | ![me-tv] | ![mgm-hd] | ![mgm-sci-fi] |
-| ![military-history] | ![mlb-extra-innings] | ![mlb-network] | ![mlb-network-strike-zone] | ![mls-direct-kick] | ![mls-logo] |
-| ![motor-trend] | ![movie-plex] | ![movies] | ![msg] | ![msg-2] | ![msg-plus] |
-| ![msg-plus-2] | ![msnbc-alt] | ![msnbc-hz] | ![mtv] | ![mtv-2] | ![mtv-classic] |
-| ![mtv-live] | ![mtv-u] | ![my-destination] | ![my-network-tv] | ![nasa-tv] | ![nasa-tv-globe-color] |
-| ![nasa-tv-globe-logo] | ![nasa-tv-globe-white] | ![nasa-uhd] | ![nat-geo-mundo] | ![nat-geo-wild] | ![nat-geo-wild-alt] |
-| ![national-geographic] | ![national-geographic-hd] | ![national-geographic-wild-hd] | ![nba-finals] | ![nba-league-pass] | ![nba-league-pass-hz] |
-| ![nba-league-pass-mls-direct-kick-combo] | ![nba-tv] | ![nba-tv-icon] | ![nbc-golf] | ![nbc-golf-3d] | ![nbc-golf-channel] |
-| ![nbc-logo-2013] | ![nbc-logo-alt] | ![nbc-logo-alt-hz] | ![nbc-logo-flat] | ![nbc-logo-flat-hz] | ![nbc-lx] |
-| ![nbc-nascar] | ![nbc-news-flat] | ![nbc-news-flat-hz] | ![nbc-news-now] | ![nbc-news-now-hz] | ![nbc-news-now-light] |
-| ![nbc-news-now-light-hz] | ![nbc-news-online-only] | ![nbc-news-online-only-hz] | ![nbc-olympics-alt] | ![nbc-olympics-flat] | ![nbc-olympics-summer-tokyo-2020] |
-| ![nbc-peacock-alt] | ![nbc-peacock-flat] | ![nbc-peacock-olympics-alt] | ![nbc-peacock-olympics-alt-white] | ![nbc-peacock-olympics-flat] | ![nbc-sports] |
-| ![nbc-sports-engine] | ![nbc-sports-engine-hz] | ![nbc-sports-engine-icon] | ![nbc-sports-gold] | ![nbc-sports-gold-hz] | ![nbc-sports-hz] |
-| ![nbc-sports-live-extra] | ![nbc-universo] | ![nbcsn] | ![nbcsn-bay-area] | ![nbcsn-bay-area-hz] | ![nbcsn-boston] |
-| ![nbcsn-boston-hz] | ![nbcsn-california] | ![nbcsn-california-hz] | ![nbcsn-chicago] | ![nbcsn-chicago-hz] | ![nbcsn-hz] |
-| ![nbcsn-northwest] | ![nbcsn-northwest-hz] | ![nbcsn-philadelphia] | ![nbcsn-philadelphia-hz] | ![nbcsn-premier-league-extra-time] | ![nbcsn-premier-league-live] |
-| ![nbcsn-washington] | ![nbcsn-washington-hz] | ![necn] | ![nesn] | ![nesn-hz] | ![nesn-plus] |
-| ![nesn-plus-hz] | ![news-nation] | ![news-nation-hz] | ![news-net] | ![newsmax-tv] | ![newsy] |
-| ![nfl-game-pass] | ![nfl-game-pass-hz] | ![nfl-icon] | ![nfl-network] | ![nfl-network-hz] | ![nfl-red-zone] |
-| ![nfl-red-zone-hz] | ![nhl-center-ice] | ![nhl-network] | ![nick] | ![nick-2] | ![nick-jr] |
-| ![nick-music] | ![nick-night] | ![nick-on-demand] | ![nick-toons] | ![nickelodeon] | ![nyc-tv-life] |
-| ![olympic-channel] | ![olympic-channel-hz] | ![one-america-news-network] | ![one-tv] | ![opra-winfrey-network] | ![outdoor-channel] |
-| ![outdoor-channel-plus] | ![outside-tv] | ![ovation] | ![oxygen] | ![pac-12-arizona] | ![pac-12-arizona-hz] |
-| ![pac-12-bay-area] | ![pac-12-bay-area-hz] | ![pac-12-los-angeles] | ![pac-12-los-angeles-hz] | ![pac-12-mountain] | ![pac-12-mountain-hz] |
-| ![pac-12-network] | ![pac-12-network-hz] | ![pac-12-network-icon] | ![pac-12-network-icon-white] | ![pac-12-oregon] | ![pac-12-oregon-hz] |
-| ![pac-12-washington] | ![pac-12-washington-hz] | ![paramount-network] | ![paramount-network-hd] | ![paramount-network-hz] | ![paramount-network-icon-hd] |
-| ![paramount-network-icon-light-hd] | ![paramount-network-light-hd] | ![paramount-network-plus-hz] | ![paramount-network-plus-white-hz] | ![paramount-network-white] | ![paramount-network-white-hz] |
-| ![paramount-plus] | ![paramount-plus-white] | ![pbs] | ![pbs-hd] | ![pbs-kids-dash-icon] | ![pbs-kids-dot-icon] |
-| ![peachtree-tv] | ![penthouse-gold] | ![penthouse-quickies] | ![penthouse-tv] | ![people-tv] | ![pets-tv] |
-| ![pga-tour-live] | ![pixl] | ![playboy-tv] | ![playboy-tv-hz] | ![plex-indieplex] | ![plex-indieplex-hz] |
-| ![plex-movieplex] | ![plex-movieplex-hz] | ![plex-movieplex-on-demand] | ![plex-retroplex] | ![plex-retroplex-hz] | ![pop] |
-| ![popstar] | ![positiv] | ![primo-tv] | ![pursuit] | ![qubo] | ![quest] |
-| ![qvc] | ![qvc-2] | ![qvc-3] | ![qvc-icon] | ![recipe-tv] | ![reelz] |
-| ![retro-tv] | ![revolt] | ![rfd-tv] | ![ride-tv] | ![root-sports] | ![sbn] |
-| ![screenpix] | ![screenpix-action] | ![screenpix-voices] | ![screenpix-westerns] | ![sec-network] | ![sec-network-hz] |
-| ![sec-network-plus-hz] | ![sho-bet] | ![shop-hq] | ![shop-lc] | ![shorts-tv] | ![showtime] |
-| ![showtime-2] | ![showtime-anywhere] | ![showtime-beyond] | ![showtime-boxing] | ![showtime-championship-boxing] | ![showtime-extreme] |
-| ![showtime-family-zone] | ![showtime-hd] | ![showtime-icon] | ![showtime-icon-hd] | ![showtime-next] | ![showtime-on-demand] |
-| ![showtime-ppv] | ![showtime-ppv-hz] | ![showtime-showcase] | ![showtime-sports] | ![showtime-sports-hz] | ![showtime-women] |
-| ![shudder] | ![smile-tv] | ![smithsonian-channel] | ![smithsonian-channel-hd] | ![sny] | ![sony-movie-channel] |
-| ![sony-movie-channel-hz] | ![sony-movie-channel-icon] | ![soul-of-the-south-network] | ![spectrum-news-1] | ![spectrum-sports] | ![spectrum-sportsnet] |
+| ![azteca-america] | ![baby-first-tv] | ![baby-tv] | ![bally-sports] | ![bally-sports-arizona] | ![bally-sports-detroit] |
+| ![bally-sports-florida] | ![bally-sports-great-lakes] | ![bally-sports-indiana] | ![bally-sports-kansas-city] | ![bally-sports-midwest] | ![bally-sports-new-orleans] |
+| ![bally-sports-north] | ![bally-sports-ohio] | ![bally-sports-oklahoma] | ![bally-sports-san-diego] | ![bally-sports-socal] | ![bally-sports-south] |
+| ![bally-sports-southeast] | ![bally-sports-southwest] | ![bally-sports-sun] | ![bally-sports-west] | ![bally-sports-winsconsin] | ![bangu] |
+| ![bbc-america] | ![bbc-america-hd] | ![bbc-america-hz] | ![beauty-channel] | ![bek-sports] | ![bek-sports-plus] |
+| ![bet] | ![bet-gospel] | ![bet-her] | ![bet-jams] | ![bet-plus] | ![bet-soul] |
+| ![black-news-channel] | ![blaze-tv] | ![bloomberg-live-events] | ![bloomberg-television] | ![boomerang] | ![boomerang-hd] |
+| ![bounce] | ![br-live] | ![bravo] | ![brazzers-tv] | ![btn] | ![buzzr] |
+| ![buzzr-light] | ![byu-tv] | ![c-span-1] | ![c-span-2] | ![c-span-3] | ![c-span-live] |
+| ![cars-tv] | ![cartoon-network] | ![cartoon-network-hd] | ![cbn] | ![cbn-news] | ![cbs-logo-white] |
+| ![cbs-nfl] | ![cbs-sports] | ![cbs-sports-hq] | ![cbs-sports-network] | ![cbsn] | ![cbsn-baltimore] |
+| ![cbsn-bay-area] | ![cbsn-boston] | ![cbsn-chicago] | ![cbsn-dallas-ft-worth] | ![cbsn-denver] | ![cbsn-los-angeles] |
+| ![cbsn-miami] | ![cbsn-minnesota] | ![cbsn-new-york] | ![cbsn-philly] | ![cbsn-pittsburgh] | ![cbsn-sacramento] |
+| ![charge] | ![cheddar] | ![cheddar-hz] | ![cheddar-news] | ![cine-latino] | ![cine-sony] |
+| ![cinemax] | ![cinemax-5-starmax] | ![cinemax-actionmax] | ![cinemax-en-espanol] | ![cinemax-max-go] | ![cinemax-max-go-icon] |
+| ![cinemax-moremax] | ![cinemax-moviemax] | ![cinemax-outermax] | ![cinemax-thrillermax] | ![circle] | ![classic-arts-showcase] |
+| ![cleo-tv] | ![cmc] | ![cmt] | ![cmt-color] | ![cmt-music] | ![cnbc] |
+| ![cnbc-hz] | ![cnbc-olympics-flat] | ![cnbc-prime-neon] | ![cnbc-prime-neon-shark-tank] | ![cnbc-world-flat] | ![cnn] |
+| ![cnn-airport] | ![cnn-hd] | ![comedy-central] | ![comedy-central-hd] | ![comedy-central-icon] | ![comedy-tv] |
+| ![comet] | ![cooking-channel] | ![cooking-channel-hd] | ![cornerstone-network] | ![court-tv] | ![court-tv-mystery] |
+| ![cowboy-channel] | ![cozi-tv] | ![create] | ![crime-and-investigation] | ![crime-and-investigation-hd] | ![cw] |
+| ![dabl] | ![daystar] | ![daystar-hd] | ![dazn] | ![decades] | ![destination-america] |
+| ![discovery-channel] | ![discovery-channel-hd] | ![discovery-channel-icon] | ![discovery-channel-icon-2] | ![discovery-channel-icon-3] | ![discovery-channel-icon-hd] |
+| ![discovery-en-espanol] | ![discovery-familia] | ![discovery-family] | ![discovery-history] | ![discovery-life] | ![discovery-on-demand] |
+| ![discovery-science] | ![discovery-science-icon] | ![discovery-science-icon-shade] | ![disney-channel] | ![disney-channel-bug] | ![disney-channel-hd] |
+| ![disney-junior] | ![disney-junior-hd] | ![disney-plus] | ![disney-xd] | ![disney-xd-hd] | ![diy-network] |
+| ![diy-network-hd] | ![dog-tv] | ![dog-tv-hz] | ![dove-channel] | <img src=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/e-entertainment-us.png height="130px"> | ![e-entertainment-hd] |
+| ![el-rey] | ![epix] | ![epix-2] | ![epix-drive-in] | ![epix-hits] | ![es-tv] |
+| ![espn] | ![espn-2] | ![espn-3] | ![espn-accn] | ![espn-accn-extra] | ![espn-bases-loaded] |
+| ![espn-classic] | ![espn-college-extra] | ![espn-college-football] | ![espn-deportes] | ![espn-goalline] | ![espn-icon] |
+| ![espn-plus] | ![espn-saturday-night-football] | ![espn-sec] | ![espn-sec-hz] | ![espn-sec-plus-hz] | ![espn-u] |
+| ![espnews] | ![et-live] | ![et-live-icon-blue] | ![evil-angel-hd] | ![fetv] | ![fight-network] |
+| ![film-detective] | ![filmrise-classics] | ![filmrise-crime] | ![filmrise-family] | ![filmrise-movies] | ![fite-tv] |
+| ![flix] | ![fm] | ![fntsy-sports-network] | ![food-network] | ![fox] | ![fox-business] |
+| ![fox-business-hz] | ![fox-college-sports] | ![fox-news] | ![fox-news-framed] | ![fox-nfl] | ![fox-nfl-hz] |
+| ![fox-soccer-plus] | ![fox-soccer-plus-hz] | ![fox-sports] | ![fox-sports-1] | ![fox-sports-2] | ![fox-sports-arizona] |
+| ![fox-sports-carolinas] | ![fox-sports-deportes] | ![fox-sports-deportes-flat] | ![fox-sports-detroit] | ![fox-sports-florida] | ![fox-sports-go] |
+| ![fox-sports-indiana] | ![fox-sports-kansas-city] | ![fox-sports-midwest] | ![fox-sports-networks] | ![fox-sports-new-orleans] | ![fox-sports-north] |
+| ![fox-sports-ohio] | ![fox-sports-oklahoma] | ![fox-sports-prime-ticket] | ![fox-sports-san-diego] | ![fox-sports-south] | ![fox-sports-southeast] |
+| ![fox-sports-southwest] | ![fox-sports-sun] | ![fox-sports-tennessee] | ![fox-sports-west] | ![fox-sports-wisconsin] | ![fox-sportstime-ohio] |
+| ![free-speech-tv] | ![freeform] | ![freeform-hd] | ![freeform-hz] | ![fubo-cycling] | ![fubo-sports-network] |
+| ![funimation] | ![funimation-icon] | ![fuse] | ![fusion] | ![fx] | ![fx-hd] |
+| ![fxm-movie-channel] | ![fxm-movie-channel-hd] | ![fxx] | ![fxx-hd] | ![fyi] | ![galavision] |
+| ![game-show-network] | ![game-show-network-hz] | ![gem-shopping-network] | ![get-tv] | ![gol-tv] | ![great-american-country] |
+| ![grit] | ![hallmark] | ![hallmark-channel] | ![hallmark-drama] | ![hallmark-movies-and-mysteries] | ![hapa] |
+| ![hbo] | ![hbo-2] | ![hbo-2-hd] | ![hbo-comedy] | ![hbo-comedy-hz] | ![hbo-family] |
+| ![hbo-family-hz] | ![hbo-films] | ![hbo-hd] | ![hbo-latino] | ![hbo-latino-hz] | ![hbo-max] |
+| ![hbo-max-color] | ![hbo-max-color-hz] | ![hbo-max-hz] | ![hbo-max-icon] | ![hbo-on-demand] | ![hbo-signature] |
+| ![hbo-signature-hz] | ![hbo-zone] | ![hbo-zone-hz] | ![hdnet-movies] | ![heartland] | ![heroes-and-icons] |
+| ![hgtv] | ![history-channel] | ![history-channel-2] | ![hitz] | ![hitz-2] | ![hitz-3] |
+| ![hln] | ![home] | ![hope-channel] | ![hsn] | ![hsn-2] | ![hunt-channel] |
+| ![hustler-hd] | ![hustler-tv] | ![ifc] | ![info-wars] | ![insp] | ![inspiration-tv] |
+| ![investigation-discovery] | ![investigation-discovery-clear] | ![investigation-discovery-flat] | ![investigation-discovery-glass] | ![investigation-discovery-icon] | ![investigation-discovery-icon-clear] |
+| ![investigation-discovery-icon-flat] | ![ion-plus] | ![ion-television] | ![jtv] | ![justice-central-tv] | ![key-tv] |
+| ![kids-central] | ![kids-street] | ![laff] | ![latv] | ![law-and-crime-network] | ![lifetime] |
+| ![lifetime-movie-network] | ![lifetime-movies] | ![lifetime-real-women] | ![light-tv] | ![live-well-network] | ![logo] |
+| ![longhorn-network] | ![marquee-sports-network] | ![masn] | ![masn-2] | ![mav-tv] | ![me-tv] |
+| ![mgm-hd] | ![mgm-sci-fi] | ![military-history] | ![mlb-extra-innings] | ![mlb-network] | ![mlb-network-strike-zone] |
+| ![mls-direct-kick] | ![mls-logo] | ![motor-trend] | ![movie-plex] | ![movies] | ![msg] |
+| ![msg-2] | ![msg-plus] | ![msg-plus-2] | ![msnbc-alt] | ![msnbc-hz] | ![mtv] |
+| ![mtv-2] | ![mtv-classic] | ![mtv-live] | ![mtv-u] | ![my-destination] | ![my-network-tv] |
+| ![nasa-tv] | ![nasa-tv-globe-color] | ![nasa-tv-globe-logo] | ![nasa-tv-globe-white] | ![nasa-uhd] | ![nat-geo-mundo] |
+| ![nat-geo-wild] | ![nat-geo-wild-alt] | ![national-geographic] | ![national-geographic-hd] | ![national-geographic-wild-hd] | ![nba-finals] |
+| ![nba-league-pass] | ![nba-league-pass-hz] | ![nba-league-pass-mls-direct-kick-combo] | ![nba-tv] | ![nba-tv-icon] | ![nbc-golf] |
+| ![nbc-golf-3d] | ![nbc-golf-channel] | ![nbc-logo-2013] | ![nbc-logo-alt] | ![nbc-logo-alt-hz] | ![nbc-logo-flat] |
+| ![nbc-logo-flat-hz] | ![nbc-lx] | ![nbc-nascar] | ![nbc-news-flat] | ![nbc-news-flat-hz] | ![nbc-news-now] |
+| ![nbc-news-now-hz] | ![nbc-news-now-light] | ![nbc-news-now-light-hz] | ![nbc-news-online-only] | ![nbc-news-online-only-hz] | ![nbc-olympics-alt] |
+| ![nbc-olympics-flat] | ![nbc-olympics-summer-tokyo-2020] | ![nbc-peacock-alt] | ![nbc-peacock-flat] | ![nbc-peacock-olympics-alt] | ![nbc-peacock-olympics-alt-white] |
+| ![nbc-peacock-olympics-flat] | ![nbc-sports] | ![nbc-sports-engine] | ![nbc-sports-engine-hz] | ![nbc-sports-engine-icon] | ![nbc-sports-gold] |
+| ![nbc-sports-gold-hz] | ![nbc-sports-hz] | ![nbc-sports-live-extra] | ![nbc-universo] | ![nbcsn] | ![nbcsn-bay-area] |
+| ![nbcsn-bay-area-hz] | ![nbcsn-boston] | ![nbcsn-boston-hz] | ![nbcsn-california] | ![nbcsn-california-hz] | ![nbcsn-chicago] |
+| ![nbcsn-chicago-hz] | ![nbcsn-hz] | ![nbcsn-northwest] | ![nbcsn-northwest-hz] | ![nbcsn-philadelphia] | ![nbcsn-philadelphia-hz] |
+| ![nbcsn-premier-league-extra-time] | ![nbcsn-premier-league-live] | ![nbcsn-washington] | ![nbcsn-washington-hz] | ![necn] | ![nesn] |
+| ![nesn-hz] | ![nesn-plus] | ![nesn-plus-hz] | ![news-nation] | ![news-nation-hz] | ![news-net] |
+| ![newsmax-tv] | ![newsy] | ![nfl-game-pass] | ![nfl-game-pass-hz] | ![nfl-icon] | ![nfl-network] |
+| ![nfl-network-hz] | ![nfl-red-zone] | ![nfl-red-zone-hz] | ![nhl-center-ice] | ![nhl-network] | ![nick] |
+| ![nick-2] | ![nick-jr] | ![nick-music] | ![nick-night] | ![nick-on-demand] | ![nick-toons] |
+| ![nickelodeon] | ![nyc-tv-life] | ![olympic-channel] | ![olympic-channel-hz] | ![one-america-news-network] | ![one-tv] |
+| ![opra-winfrey-network] | ![outdoor-channel] | ![outdoor-channel-plus] | ![outside-tv] | ![ovation] | ![oxygen] |
+| ![pac-12-arizona] | ![pac-12-arizona-hz] | ![pac-12-bay-area] | ![pac-12-bay-area-hz] | ![pac-12-los-angeles] | ![pac-12-los-angeles-hz] |
+| ![pac-12-mountain] | ![pac-12-mountain-hz] | ![pac-12-network] | ![pac-12-network-hz] | ![pac-12-network-icon] | ![pac-12-network-icon-white] |
+| ![pac-12-oregon] | ![pac-12-oregon-hz] | ![pac-12-washington] | ![pac-12-washington-hz] | ![paramount-network] | ![paramount-network-hd] |
+| ![paramount-network-hz] | ![paramount-network-icon-hd] | ![paramount-network-icon-light-hd] | ![paramount-network-light-hd] | ![paramount-network-plus-hz] | ![paramount-network-plus-white-hz] |
+| ![paramount-network-white] | ![paramount-network-white-hz] | ![paramount-plus] | ![paramount-plus-white] | ![pbs] | ![pbs-hd] |
+| ![pbs-kids-dash-icon] | ![pbs-kids-dot-icon] | ![peachtree-tv] | ![penthouse-gold] | ![penthouse-quickies] | ![penthouse-tv] |
+| ![people-tv] | ![pets-tv] | ![pga-tour-live] | ![pixl] | ![playboy-tv] | ![playboy-tv-hz] |
+| ![plex-indieplex] | ![plex-indieplex-hz] | ![plex-movieplex] | ![plex-movieplex-hz] | ![plex-movieplex-on-demand] | ![plex-retroplex] |
+| ![plex-retroplex-hz] | ![pop] | ![popstar] | ![positiv] | ![primo-tv] | ![pursuit] |
+| ![qubo] | ![quest] | ![qvc] | ![qvc-2] | ![qvc-3] | ![qvc-icon] |
+| ![recipe-tv] | ![reelz] | ![retro-tv] | ![revolt] | ![rfd-tv] | ![ride-tv] |
+| ![root-sports] | ![sbn] | ![screenpix] | ![screenpix-action] | ![screenpix-voices] | ![screenpix-westerns] |
+| ![sec-network] | ![sec-network-hz] | ![sec-network-plus-hz] | ![sho-bet] | ![shop-hq] | ![shop-lc] |
+| ![shorts-tv] | ![showtime] | ![showtime-2] | ![showtime-anywhere] | ![showtime-beyond] | ![showtime-boxing] |
+| ![showtime-championship-boxing] | ![showtime-extreme] | ![showtime-family-zone] | ![showtime-hd] | ![showtime-icon] | ![showtime-icon-hd] |
+| ![showtime-next] | ![showtime-on-demand] | ![showtime-ppv] | ![showtime-ppv-hz] | ![showtime-showcase] | ![showtime-sports] |
+| ![showtime-sports-hz] | ![showtime-women] | ![shudder] | ![smile-tv] | ![smithsonian-channel] | ![smithsonian-channel-hd] |
+| ![sny] | ![sony-movies] | ![soul-of-the-south-network] | ![spectrum-news-1] | ![spectrum-sports] | ![spectrum-sportsnet] |
 | ![spectrum-sportsnet-la] | ![sportsman-channel] | ![stadium] | ![start-tv] | ![starz] | ![starz-black] |
 | ![starz-cinema] | ![starz-comedy] | ![starz-edge] | ![starz-encore] | ![starz-encore-action] | ![starz-encore-black] |
 | ![starz-encore-classic] | ![starz-encore-espanol] | ![starz-encore-family] | ![starz-encore-on-demand] | ![starz-encore-suspense] | ![starz-encore-westerns] |
@@ -191,6 +194,26 @@
 [azteca-america]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/azteca-america-us.png
 [baby-first-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/baby-first-tv-us.png
 [baby-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/baby-tv-us.png
+[bally-sports]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-us.png
+[bally-sports-arizona]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-arizona-us.png
+[bally-sports-detroit]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-detroit-us.png
+[bally-sports-florida]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-florida-us.png
+[bally-sports-great-lakes]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-great-lakes-us.png
+[bally-sports-indiana]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-indiana-us.png
+[bally-sports-kansas-city]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-kansas-city-us.png
+[bally-sports-midwest]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-midwest-us.png
+[bally-sports-new-orleans]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-new-orleans-us.png
+[bally-sports-north]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-north-us.png
+[bally-sports-ohio]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-ohio-us.png
+[bally-sports-oklahoma]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-oklahoma-us.png
+[bally-sports-san-diego]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-san-diego-us.png
+[bally-sports-socal]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-socal-us.png
+[bally-sports-south]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-south-us.png
+[bally-sports-southeast]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-southeast-us.png
+[bally-sports-southwest]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-southwest-us.png
+[bally-sports-sun]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-sun-us.png
+[bally-sports-west]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-west-us.png
+[bally-sports-winsconsin]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-winsconsin-us.png
 [bangu]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bangu-us.png
 [bbc-america]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bbc-america-us.png
 [bbc-america-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/hd/bbc-america-hd-us.png
@@ -745,9 +768,7 @@
 [smithsonian-channel]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/smithsonian-channel-us.png
 [smithsonian-channel-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/hd/smithsonian-channel-hd-us.png
 [sny]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/sny-us.png
-[sony-movie-channel]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/sony-movie-channel-us.png
-[sony-movie-channel-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/sony-movie-channel-hz-us.png
-[sony-movie-channel-icon]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/sony-movie-channel-icon-us.png
+[sony-movies]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/sony-movies-us.png
 [soul-of-the-south-network]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/soul-of-the-south-network-us.png
 [spectrum-news-1]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/spectrum-news-1-us.png
 [spectrum-sports]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/spectrum-sports-us.png
