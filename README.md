@@ -5,8 +5,8 @@
 Contact: tapio.sinnertwin(at)gmail.com - I will try my best to reply within 24hr.
 
 Here you will find free tv logos from around the world in good high-res quality and suitable for dark backgrounds.
+  
 
----
 
 🇺🇸 Bally Sports
 ===============
@@ -46,7 +46,7 @@ I have created the Bally Sports logos. I'm not sure if I will also make the hori
 
 [mosaic list view of US channels]: https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/0_all-logos-mosaic-us.md "mosaic list view of US channels"
 
----
+  
  
 ## VOD logos moved
 I have moved the VOD logos to <a href="https://github.com/Tapiosinn/tv-logos/tree/master/misc">/misc</a>
