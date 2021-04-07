@@ -3,9 +3,13 @@
 I have created the Bally Sports logos. I'm not sure if I will also make the horizontal version of them, let me know if you would like me to create them. I also need to check if there are any additional logos like plus and extra channels. Click on each logo to open it and get a working png link.
    
 
-   
-*See the full mosaic list view of US channels in the United States folder*  
-| 
+*See the full [mosaic list view of US channels][] in the United States folder*  
+| ![bally-sports] | ![bally-sports-arizona] | ![bally-sports-detroit] | ![bally-sports-florida] | ![bally-sports-great-lakes] | ![bally-sports-indiana] |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| ![bally-sports-kansas-city] | ![bally-sports-midwest] | ![bally-sports-new-orleans] | ![bally-sports-north] | ![bally-sports-ohio] | ![bally-sports-oklahoma] |
+| ![bally-sports-san-diego] | ![bally-sports-socal] | ![bally-sports-south] | ![bally-sports-southeast] | ![bally-sports-southwest] | ![bally-sports-sun] |
+| ![bally-sports-west] | ![bally-sports-winsconsin] |  |  |  |  |
+| ![space] | ![space] | ![space] | ![space] | ![space] | ![space] | 
 
 [bally-sports]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-us.png
 [bally-sports-arizona]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-arizona-us.png
@@ -29,3 +33,5 @@ I have created the Bally Sports logos. I'm not sure if I will also make the hori
 [bally-sports-winsconsin]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-winsconsin-us.png
 
 [space]:https://github.com/Tapiosinn/tv-logos/blob/master/misc/%CE%A9/space-1500.png
+
+[mosaic list view of US channels]: https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/0_all-logos-mosaic-us.md "mosaic list view of US channels"
