@@ -14,9 +14,9 @@
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | ![10-bold] | ![10-peach] | ![10-shake] | ![10-sport] | ![7flix] | ![7mate] |
-| ![7two] | ![a-and-e] | ![a-and-e-hd] | ![a-and-e-plus-2] | ![abc] | ![abc-hd] |
+| ![7two] | ![a-and-e] | ![a-and-e-hd] | ![a-and-e-plus-2] | <img src=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/abc-au.png height="140px"> | ![abc-hd] |
 | ![abc-hd-hz] | ![abc-hd-light] | ![abc-hd-light-hz] | ![abc-hz] | ![abc-kids] | ![abc-kids-hz] |
-| ![abc-kids-plus] | ![abc-light] | ![abc-light-hz] | ![abc-me] | ![abc-me-light] | ![abc-me-outlined] |
+| ![abc-kids-plus] | <img src=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/abc-light-au.png height="140px"> | ![abc-light-hz] | ![abc-me] | ![abc-me-light] | ![abc-me-outlined] |
 | ![abc-me-outlined-light] | ![abc-news] | ![abc-news-hz] | ![abc-tv-plus] | ![abc-tv-plus-hz] | ![acc-tv] |
 | ![adult-swim] | ![animal-planet] | ![antenna-pacific] | ![arena] | ![arena-plus-2] | ![aurora] |
 | ![bbc-cbeebies] | ![bbc-earth] | ![bbc-earth-hd] | ![bbc-first] | ![bbc-first-hd] | ![bbc-uktv] |
