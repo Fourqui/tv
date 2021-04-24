@@ -6,26 +6,28 @@
 📐 The logos have a max-width of 512px and have been optimized for smallest file size  
 🖤 The logos are created specifically to work on dark backgrounds  
    
-💾 Combined file size = 1,3mb  |  📅 Last update: March 2 2021  
-🎨 __70 Logos total__  |  ✨ __17 HD Logos__
+💾 Combined file size = 1,5mb  |  📅 Last update: April 24 2021  
+🎨 __74 Logos total__  |  ✨ __17 HD Logos__
    
    
 *This mosaic view is only updated periodically.*  
-| ![cine-canal] | ![cinemax] | ![cnn-en-espanol] | ![discovery-home-and-health] | ![discovery-home-and-health-hd] | ![discovery-home-and-health-hz] |
+| ![animal-planet] | ![cine-canal] | ![cinemax] | ![cnn-en-espanol] | ![discovery-home-and-health] | ![discovery-home-and-health-hd] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| ![discovery-kids] | ![disney-channel] | ![disney-junior] | ![disney-xd] | ![disney-xd-hd] | ![fox-channel] |
-| ![fox-life] | ![fox-premium] | ![fox-premium-action] | ![fox-premium-action-hd] | ![fox-premium-cinema] | ![fox-premium-cinema-hd] |
-| ![fox-premium-classics] | ![fox-premium-classics-hd] | ![fox-premium-comedy] | ![fox-premium-comedy-hd] | ![fox-premium-family] | ![fox-premium-family-hd] |
-| ![fox-premium-hz] | ![fox-premium-movies] | ![fox-premium-movies-hd] | ![fox-premium-series] | ![fox-premium-series-hd] | ![fox-sports] |
-| ![fox-sports-1] | ![fox-sports-1-hd] | ![fox-sports-2] | ![fox-sports-2-hd] | ![fox-sports-3] | ![fox-sports-3-hd] |
-| ![fox-sports-hd] | ![fx] | ![fx-hd] | ![fxm] | ![fxm-hd] | ![hbo] |
-| ![hbo-2] | ![hbo-family] | ![hbo-mundi] | ![hbo-plus] | ![hbo-pop] | ![hbo-signature] |
-| ![hbo-xtreme] | ![nat-geo-kids] | ![national-geographic] | ![national-geographic-hd] | ![national-geographic-wild] | ![national-geographic-wild-hd-hz] |
-| ![national-geographic-wild-hz] | ![star] | ![star-action] | ![star-channel] | ![star-cinema] | ![star-classics] |
-| ![star-comedy] | ![star-fun] | ![star-hits] | ![star-hits-2] | ![star-life] | ![star-plus] |
-| ![star-premium] | ![star-series] | ![studio-universal] | ![warner-channel] |  |  |
+| ![discovery-home-and-health-hz] | ![discovery-kids] | ![discovery-kids-icon] | ![discovery-kids-plus] | ![disney-channel] | ![disney-junior] |
+| ![disney-xd] | ![disney-xd-hd] | ![fox-channel] | ![fox-life] | ![fox-premium] | ![fox-premium-action] |
+| ![fox-premium-action-hd] | ![fox-premium-cinema] | ![fox-premium-cinema-hd] | ![fox-premium-classics] | ![fox-premium-classics-hd] | ![fox-premium-comedy] |
+| ![fox-premium-comedy-hd] | ![fox-premium-family] | ![fox-premium-family-hd] | ![fox-premium-hz] | ![fox-premium-movies] | ![fox-premium-movies-hd] |
+| ![fox-premium-series] | ![fox-premium-series-hd] | ![fox-sports] | ![fox-sports-1] | ![fox-sports-1-hd] | ![fox-sports-2] |
+| ![fox-sports-2-hd] | ![fox-sports-3] | ![fox-sports-3-hd] | ![fox-sports-hd] | ![fx] | ![fx-hd] |
+| ![fxm] | ![fxm-hd] | ![golf-channel-on-nbc] | ![hbo] | ![hbo-2] | ![hbo-family] |
+| ![hbo-mundi] | ![hbo-plus] | ![hbo-pop] | ![hbo-signature] | ![hbo-xtreme] | ![nat-geo-kids] |
+| ![national-geographic] | ![national-geographic-hd] | ![national-geographic-wild] | ![national-geographic-wild-hd-hz] | ![national-geographic-wild-hz] | ![star] |
+| ![star-action] | ![star-channel] | ![star-cinema] | ![star-classics] | ![star-comedy] | ![star-fun] |
+| ![star-hits] | ![star-hits-2] | ![star-life] | ![star-plus] | ![star-premium] | ![star-series] |
+| ![studio-universal] | ![warner-channel] |  |  |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
+[animal-planet]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/animal-planet-lam.png
 [cine-canal]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/cine-canal-lam.png
 [cinemax]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/cinemax-lam.png
 [cnn-en-espanol]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/cnn-en-espanol-lam.png
@@ -33,6 +35,8 @@
 [discovery-home-and-health-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/discovery-home-and-health-hd-lam.png
 [discovery-home-and-health-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/discovery-home-and-health-hz-lam.png
 [discovery-kids]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/discovery-kids-lam.png
+[discovery-kids-icon]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/discovery-kids-icon-lam.png
+[discovery-kids-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/discovery-kids-plus-lam.png
 [disney-channel]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/disney-channel-lam.png
 [disney-junior]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/disney-junior-lam.png
 [disney-xd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/disney-xd-lam.png
@@ -67,6 +71,7 @@
 [fx-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/fx-hd-lam.png
 [fxm]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/fxm-lam.png
 [fxm-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/fxm-hd-lam.png
+[golf-channel-on-nbc]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/golf-channel-on-nbc-lam.png
 [hbo]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/hbo-lam.png
 [hbo-2]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/hbo-2-lam.png
 [hbo-family]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/hbo-family-lam.png
