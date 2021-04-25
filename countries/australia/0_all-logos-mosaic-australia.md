@@ -63,7 +63,7 @@
 | ![sky-racing] | ![sky-racing-1] | ![sky-racing-2] | ![sky-thoroughbred-central] | ![sky-thoroughbred-central-hd] | ![smooth-arts] |
 | ![smooth-arts-hd] | ![spike] | ![spree-tv] | ![tlc] | ![tlc-plus-2] | ![tvsn] |
 | ![universal-tv] | ![universal-tv-hd] | ![universal-tv-plus-2] | ![west-tv] | ![win] | ![win-bold] |
-| ![win-hd] | ![win-peach] | ![zzz-00309] | ![zzz-00310] | ![zzz-00311] | ![zzz-00312] |
+| ![win-hd] | ![win-peach] |  |  |  |  |
 
 [10-bold]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/10-bold-au.png
 [10-peach]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/10-peach-au.png
