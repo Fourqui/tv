@@ -1,20 +1,16 @@
 🇫🇷 France
 ===============
-
-🛠 Right-click on a logo and copy the image address to get the direct url or click to open.
-
-🔗 The links will update automatically when I update a logo, unless the name has changed.
-
-♻️ You might need to refresh your app/device or clear cache to force in an update.
-
-📐 The logos have a max-width of 512px and have been optimized for smallest filesize.
-
-🖤 The logos are created specifically to work on dark backgrounds.
-
-💾 __Combined file size = 0,4mb__  |  📅 __Last update: February 19 2021__  
-
-### 🎨 __39 Logos total__  |  💎 __2 HD Logos__  
-
+🛠 Right-click on a logo and copy the image address to get the direct url or click to open  
+🔗 The links will update automatically when I update a logo, unless the name has changed  
+♻️ You might need to refresh your app/device or clear cache to force in an update  
+📐 The logos have a max-width of 512px and have been optimized for smallest file size  
+🖤 The logos are created specifically to work on dark backgrounds  
+   
+💾 Combined file size = 0,4mb  |  📅 Last update: February 19 2021  
+🎨 __39 Logos total__  |  ✨ __2 HD Logos__
+   
+   
+*This mosaic view is only updated periodically.*  
 | ![6ter] | ![ab1] | ![action] | ![animaux] | <img src=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/arte-fr.png height="130px"> | ![automoto-la-chaine] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | ![bfm-business] | ![bfm-grand-lille] | ![bfm-grand-littoral] | ![bfm-lyon] | ![bfm-paris] | ![bfm-tv] |
