@@ -6,8 +6,8 @@
 📐 The logos have a max-width of 512px and have been optimized for smallest file size  
 🖤 The logos are created specifically to work on dark backgrounds  
    
-💾 Combined file size = 18,8mb  |  📅 Last update: February 28 2021  
-🎨 __778 Logos total__  |  ✨ __170 HD Logos__
+💾 Combined file size = 19,2mb  |  📅 Last update: May 25 2021  
+🎨 __801 Logos total__  |  ✨ __178 HD Logos__
    
    
 *This mosaic view is only updated periodically.*  
@@ -52,46 +52,50 @@
 | ![e-entertainment-hd] | ![eden] | ![eden-hd] | ![eden-plus] | ![eir-sport-1] | ![eir-sport-1-hd] |
 | ![eir-sport-2] | ![eir-sport-2-hd] | ![eurosport-1] | ![eurosport-2] | ![eva] | ![extreme-sports-channel] |
 | ![faith] | ![fight-network] | ![film-4] | ![film-4-hd] | ![film-4-plus] | ![food-network] |
-| ![food-network-plus] | ![forces-tv] | ![fox] | ![fox-hd] | ![fox-plus] | ![free-sports] |
-| ![free-sports-hd] | ![gaa-go] | ![gb-news] | ![gemporia] | ![gemporia-craft] | ![gold] |
-| ![gold-plus] | ![good-news-tv] | ![hgtv] | ![hgtv-plus] | ![hi-impact-tv] | ![high-street-tv] |
-| ![history-channel] | ![history-channel-2] | ![history-channel-plus] | ![hochanda] | ![horror-channel] | ![horror-channel-plus] |
-| ![horse-and-country] | ![ideal-world] | ![investigation-discovery] | ![investigation-discovery-hd] | ![investigation-discovery-plus] | ![islam-tv] |
-| ![itv] | ![itv-2] | ![itv-2-hd] | ![itv-2-plus] | ![itv-3] | ![itv-3-hd] |
-| ![itv-3-plus] | ![itv-4] | ![itv-4-hd] | ![itv-4-plus] | ![itv-be] | ![itv-be-hd] |
-| ![itv-be-plus] | ![itv-encore] | ![itv-encore-plus] | ![itv-hd] | ![itv-plus] | ![jewellery-maker] |
-| ![jml] | ![kerrang-tv] | ![ketchup-tv] | ![kicc-tv] | ![kiss-tv] | ![laliga-tv] |
-| ![lfctv] | ![lfctv-hd] | ![lifetime] | ![live-360] | ![london-live] | ![love-nature] |
-| ![love-nature-4k] | ![love-nature-4k-white] | ![love-nature-white] | ![loveworld] | ![magic-tv] | ![movies-24] |
-| ![movies-24-plus] | ![mtv] | ![mtv-00s] | ![mtv-80s] | ![mtv-90s] | ![mtv-base] |
-| ![mtv-classic] | ![mtv-club] | ![mtv-hits] | ![mtv-live-hd] | ![mtv-love] | ![mtv-music] |
-| ![mtv-music-plus] | ![mtv-omg] | ![mtv-omg-hz] | ![mtv-plus] | ![mtv-pride] | ![mtv-rocks] |
-| ![mtv-summer] | ![mtv-xmas] | ![mutv] | ![mutv-hd] | ![my-5] | ![mytv] |
-| ![ndtv-24x7] | ![nick] | ![nick-2] | ![nick-jr-paw-patrol] | ![nick-jr-peppa] | ![nick-jr-plus] |
-| ![nick-jr-too] | ![nick-toons] | ![nickelodeon] | ![nickelodeon-plus] | ![now-70s] | ![now-80s] |
-| ![now-90s] | ![now-christmas] | ![oireachtas-tv] | ![oireachtas-tv-icon] | ![paramount-network] | ![paramount-network-hd] |
-| ![paramount-network-icon] | ![paramount-network-icon-hd] | ![paramount-network-icon-light] | ![paramount-network-icon-light-hd] | ![paramount-network-light] | ![paramount-network-light-hd] |
-| ![paramount-network-plus] | ![paramount-network-plus-light] | ![pbs-america] | ![pbs-america-plus] | ![pick] | ![pick-hd] |
-| ![pick-plus] | ![pitaara-movies] | ![pop] | ![pop-max] | ![pop-max-plus] | ![pop-plus] |
-| ![premier-sports] | ![premier-sports-1] | ![premier-sports-1-hd] | ![premier-sports-2] | ![premier-sports-2-hd] | ![psychic-today] |
-| ![quest] | ![quest-hd] | ![quest-plus] | ![quest-red] | ![quest-red-hz] | ![quest-red-plus] |
-| ![quest-red-plus-hz] | ![qvc] | ![qvc-beauty] | ![qvc-beauty-hd] | ![qvc-extra] | ![qvc-hd] |
-| ![qvc-style] | ![really] | ![revelation-tv] | ![rok] | ![rte] | ![rte-2] |
-| ![rte-2-plus] | ![rte-jr] | ![rte-news-now] | ![rte-news-now-hz] | ![rte-one] | ![rte-one-plus] |
-| ![s4c] | ![s4c-dau-two] | ![s4c-hd] | ![showcase] | ![sky-arts] | ![sky-arts-hd] |
-| ![sky-atlantic] | ![sky-atlantic-hd] | ![sky-atlantic-plus] | ![sky-cinema] | ![sky-cinema-action] | ![sky-cinema-action-hd] |
-| ![sky-cinema-action-hd-hz] | ![sky-cinema-action-hz] | ![sky-cinema-adventure] | ![sky-cinema-adventure-hd] | ![sky-cinema-animation] | ![sky-cinema-animation-hd] |
-| ![sky-cinema-animation-hd-hz] | ![sky-cinema-animation-hz] | ![sky-cinema-best-of-2020] | ![sky-cinema-best-of-2020-hd] | ![sky-cinema-blockbusters] | ![sky-cinema-blockbusters-hd] |
-| ![sky-cinema-christmas] | ![sky-cinema-christmas-alt] | ![sky-cinema-christmas-alt-hd] | ![sky-cinema-christmas-hd] | ![sky-cinema-comedy] | ![sky-cinema-comedy-hd] |
-| ![sky-cinema-comedy-hd-hz] | ![sky-cinema-comedy-hz] | ![sky-cinema-cops-and-robbers] | ![sky-cinema-cops-and-robbers-hd] | ![sky-cinema-disney] | ![sky-cinema-disney-alt] |
-| ![sky-cinema-disney-alt-hd] | ![sky-cinema-disney-hd] | ![sky-cinema-disney-hd-hz] | ![sky-cinema-disney-hz] | ![sky-cinema-divergent] | ![sky-cinema-divergent-hd] |
-| ![sky-cinema-drama] | ![sky-cinema-drama-hd] | ![sky-cinema-drama-hd-hz] | ![sky-cinema-drama-hz] | ![sky-cinema-family] | ![sky-cinema-family-hd] |
-| ![sky-cinema-family-hd-hz] | ![sky-cinema-family-hz] | ![sky-cinema-feel-good] | ![sky-cinema-feel-good-hd] | ![sky-cinema-five-star-movies] | ![sky-cinema-five-star-movies-hd] |
+| ![food-network-plus] | ![food-xp] | ![forces-tv] | ![fox] | ![fox-hd] | ![fox-plus] |
+| ![free-sports] | ![free-sports-hd] | ![gaa-go] | ![gb-news] | ![gemporia] | ![gemporia-craft] |
+| ![gold] | ![gold-plus] | ![good-news-tv] | ![great-movies] | ![great-movies-action] | ![great-movies-action-hz] |
+| ![great-movies-action-plus] | ![great-movies-action-plus-hz] | ![great-movies-classic] | ![great-movies-classic-hz] | ![great-movies-classic-plus] | ![great-movies-classic-plus-hz] |
+| ![great-movies-hz] | ![great-movies-plus] | ![great-movies-plus-hz] | ![great-tv] | ![great-tv-hz] | ![great-tv-plus] |
+| ![great-tv-plus-hz] | ![hgtv] | ![hgtv-plus] | ![hi-impact-tv] | ![high-street-tv] | ![history-channel] |
+| ![history-channel-2] | ![history-channel-plus] | ![hochanda] | ![horror-channel] | ![horror-channel-plus] | ![horse-and-country] |
+| ![ideal-world] | ![investigation-discovery] | ![investigation-discovery-hd] | ![investigation-discovery-plus] | ![islam-tv] | ![itv] |
+| ![itv-2] | ![itv-2-hd] | ![itv-2-plus] | ![itv-3] | ![itv-3-hd] | ![itv-3-plus] |
+| ![itv-4] | ![itv-4-hd] | ![itv-4-plus] | ![itv-be] | ![itv-be-hd] | ![itv-be-plus] |
+| ![itv-encore] | ![itv-encore-plus] | ![itv-hd] | ![itv-plus] | ![jewellery-maker] | ![jml] |
+| ![kerrang-tv] | ![ketchup-tv] | ![kicc-tv] | ![kiss-tv] | ![laliga-tv] | ![lfctv] |
+| ![lfctv-hd] | ![lifetime] | ![live-360] | ![london-live] | ![love-nature] | ![love-nature-4k] |
+| ![love-nature-4k-white] | ![love-nature-white] | ![loveworld] | ![magic-tv] | ![movies-24] | ![movies-24-plus] |
+| ![mtv] | ![mtv-00s] | ![mtv-80s] | ![mtv-90s] | ![mtv-base] | ![mtv-classic] |
+| ![mtv-club] | ![mtv-hits] | ![mtv-live-hd] | ![mtv-love] | ![mtv-music] | ![mtv-music-plus] |
+| ![mtv-omg] | ![mtv-omg-hz] | ![mtv-plus] | ![mtv-pride] | ![mtv-rocks] | ![mtv-summer] |
+| ![mtv-xmas] | ![mutv] | ![mutv-hd] | ![my-5] | ![mytv] | ![ndtv-24x7] |
+| ![nick] | ![nick-2] | ![nick-jr-paw-patrol] | ![nick-jr-peppa] | ![nick-jr-plus] | ![nick-jr-too] |
+| ![nick-toons] | ![nickelodeon] | ![nickelodeon-plus] | ![now-70s] | ![now-80s] | ![now-90s] |
+| ![now-christmas] | ![oireachtas-tv] | ![oireachtas-tv-icon] | ![paramount-network] | ![paramount-network-hd] | ![paramount-network-icon] |
+| ![paramount-network-icon-hd] | ![paramount-network-icon-light] | ![paramount-network-icon-light-hd] | ![paramount-network-light] | ![paramount-network-light-hd] | ![paramount-network-plus] |
+| ![paramount-network-plus-light] | ![pbs-america] | ![pbs-america-plus] | ![pick] | ![pick-hd] | ![pick-plus] |
+| ![pitaara-movies] | ![pop] | ![pop-max] | ![pop-max-plus] | ![pop-plus] | ![premier-sports] |
+| ![premier-sports-1] | ![premier-sports-1-hd] | ![premier-sports-2] | ![premier-sports-2-hd] | ![psychic-today] | ![quest] |
+| ![quest-hd] | ![quest-plus] | ![quest-red] | ![quest-red-hz] | ![quest-red-plus] | ![quest-red-plus-hz] |
+| ![qvc] | ![qvc-beauty] | ![qvc-beauty-hd] | ![qvc-extra] | ![qvc-hd] | ![qvc-style] |
+| ![really] | ![revelation-tv] | ![rok] | ![rte] | ![rte-2] | ![rte-2-plus] |
+| ![rte-jr] | ![rte-news-now] | ![rte-news-now-hz] | ![rte-one] | ![rte-one-plus] | ![s4c] |
+| ![s4c-dau-two] | ![s4c-hd] | ![shopping-quarter] | ![showcase] | ![sky-arts] | ![sky-arts-hd] |
+| ![sky-atlantic] | ![sky-atlantic-hd] | ![sky-atlantic-plus] | ![sky-cinema] | ![sky-cinema-5-star-movies] | ![sky-cinema-5-star-movies-hd] |
+| ![sky-cinema-action] | ![sky-cinema-action-hd] | ![sky-cinema-action-hd-hz] | ![sky-cinema-action-hz] | ![sky-cinema-adventure] | ![sky-cinema-adventure-hd] |
+| ![sky-cinema-animation] | ![sky-cinema-animation-hd] | ![sky-cinema-animation-hd-hz] | ![sky-cinema-animation-hz] | ![sky-cinema-best-of-2020] | ![sky-cinema-best-of-2020-hd] |
+| ![sky-cinema-blockbusters] | ![sky-cinema-blockbusters-hd] | ![sky-cinema-christmas] | ![sky-cinema-christmas-alt] | ![sky-cinema-christmas-alt-hd] | ![sky-cinema-christmas-hd] |
+| ![sky-cinema-comedy] | ![sky-cinema-comedy-hd] | ![sky-cinema-comedy-hd-hz] | ![sky-cinema-comedy-hz] | ![sky-cinema-cops-and-robbers] | ![sky-cinema-cops-and-robbers-hd] |
+| ![sky-cinema-divergent] | ![sky-cinema-divergent-hd] | ![sky-cinema-drama] | ![sky-cinema-drama-hd] | ![sky-cinema-drama-hd-hz] | ![sky-cinema-drama-hz] |
+| ![sky-cinema-family] | ![sky-cinema-family-hd] | ![sky-cinema-family-hd-hz] | ![sky-cinema-family-hz] | ![sky-cinema-fast-and-furious] | ![sky-cinema-fast-and-furious-alt] |
+| ![sky-cinema-fast-and-furious-alt-hd] | ![sky-cinema-fast-and-furious-hd] | ![sky-cinema-fast-and-furious-hz] | ![sky-cinema-fast-and-furious-hz-hd] | ![sky-cinema-feel-good] | ![sky-cinema-feel-good-hd] |
 | ![sky-cinema-greats] | ![sky-cinema-greats-hd] | ![sky-cinema-greats-hd-hz] | ![sky-cinema-greats-hz] | ![sky-cinema-halloween] | ![sky-cinema-halloween-hd] |
 | ![sky-cinema-harry-potter] | ![sky-cinema-harry-potter-alt] | ![sky-cinema-harry-potter-alt-hd] | ![sky-cinema-harry-potter-hd] | ![sky-cinema-harry-potter-hd-hz] | ![sky-cinema-harry-potter-hz] |
 | ![sky-cinema-hd] | ![sky-cinema-hits] | ![sky-cinema-hits-hd] | ![sky-cinema-hits-hd-hz] | ![sky-cinema-hits-hz] | ![sky-cinema-icon] |
 | ![sky-cinema-kids-books] | ![sky-cinema-kids-books-hd] | ![sky-cinema-lord-of-the-rings] | ![sky-cinema-lord-of-the-rings-alt] | ![sky-cinema-lord-of-the-rings-alt-hd] | ![sky-cinema-lord-of-the-rings-hd] |
 | ![sky-cinema-lord-of-the-rings-hd-hz] | ![sky-cinema-lord-of-the-rings-hz] | ![sky-cinema-musicals] | ![sky-cinema-musicals-hd] | ![sky-cinema-must-see-movies] | ![sky-cinema-must-see-movies-hd] |
+| ![sky-cinema-oscars] | ![sky-cinema-oscars-alt] | ![sky-cinema-oscars-alt-hd] | ![sky-cinema-oscars-hd] | ![sky-cinema-oscars-hd-hz] | ![sky-cinema-oscars-hz] |
 | ![sky-cinema-premiere] | ![sky-cinema-premiere-hd] | ![sky-cinema-premiere-hd-hz] | ![sky-cinema-premiere-hz] | ![sky-cinema-premiere-plus] | ![sky-cinema-premiere-plus-hz] |
 | ![sky-cinema-race-against-time] | ![sky-cinema-race-against-time-hd] | ![sky-cinema-sci-fi-and-horror] | ![sky-cinema-sci-fi-and-horror-hd] | ![sky-cinema-sci-fi-and-horror-hd-hz] | ![sky-cinema-sci-fi-and-horror-hz] |
 | ![sky-cinema-select] | ![sky-cinema-select-hd] | ![sky-cinema-select-hd-hz] | ![sky-cinema-select-hz] | ![sky-cinema-spooky] | ![sky-cinema-spooky-hd] |
@@ -119,29 +123,29 @@
 | ![sky-sports-football-icon-alt] | ![sky-sports-golf] | ![sky-sports-golf-bug] | ![sky-sports-golf-bug-hz] | ![sky-sports-golf-hd] | ![sky-sports-golf-hd-hz] |
 | ![sky-sports-golf-hz] | ![sky-sports-golf-icon] | ![sky-sports-golf-icon-alt] | ![sky-sports-hd-hz] | ![sky-sports-hz] | ![sky-sports-icon] |
 | ![sky-sports-icon-alt] | ![sky-sports-main-event] | ![sky-sports-main-event-bug] | ![sky-sports-main-event-bug-hz] | ![sky-sports-main-event-hd] | ![sky-sports-main-event-hd-hz] |
-| ![sky-sports-main-event-hz] | ![sky-sports-main-event-icon] | ![sky-sports-main-event-icon-alt] | ![sky-sports-mix] | ![sky-sports-mix-bug] | ![sky-sports-mix-bug-hz] |
-| ![sky-sports-mix-hd] | ![sky-sports-mix-hd-hz] | ![sky-sports-mix-hz] | ![sky-sports-mix-icon] | ![sky-sports-mix-icon-alt] | ![sky-sports-news] |
-| ![sky-sports-news-bug] | ![sky-sports-news-bug-hz] | ![sky-sports-news-hd] | ![sky-sports-news-hd-hz] | ![sky-sports-news-hz] | ![sky-sports-news-icon] |
-| ![sky-sports-news-icon-alt] | ![sky-sports-nfl] | ![sky-sports-nfl-bug] | ![sky-sports-nfl-bug-hz] | ![sky-sports-nfl-hd] | ![sky-sports-nfl-hd-hz] |
-| ![sky-sports-nfl-hz] | ![sky-sports-nfl-icon] | ![sky-sports-nfl-icon-alt] | ![sky-sports-premier-league] | ![sky-sports-premier-league-bug] | ![sky-sports-premier-league-bug-hz] |
-| ![sky-sports-premier-league-hd] | ![sky-sports-premier-league-hd-hz] | ![sky-sports-premier-league-hz] | ![sky-sports-premier-league-icon] | ![sky-sports-premier-league-icon-alt] | ![sky-sports-racing] |
-| ![sky-sports-racing-bug] | ![sky-sports-racing-bug-hz] | ![sky-sports-racing-hd] | ![sky-sports-racing-hd-hz] | ![sky-sports-racing-hz] | ![sky-sports-racing-icon] |
-| ![sky-sports-racing-icon-alt] | ![sky-store] | ![sky-two] | ![sky-two-plus] | ![sky-witness] | ![sky-witness-hd] |
-| ![sky-witness-plus] | ![smithsonian-channel] | ![smithsonian-channel-hd] | ![sony-channel] | ![sony-channel-hz] | ![sony-channel-light-hz] |
-| ![sony-channel-plus] | ![sony-channel-plus-light-hz] | ![sony-entertainment-television] | ![sony-movies] | ![sony-movies-action] | ![sony-movies-action-light-hz] |
-| ![sony-movies-action-plus] | ![sony-movies-action-plus-light-hz] | ![sony-movies-christmas] | ![sony-movies-christmas-plus] | ![sony-movies-classic] | ![sony-movies-classic-light-hz] |
-| ![sony-movies-classic-plus] | ![sony-movies-classic-plus-light-hz] | ![sony-movies-light-hz] | ![sony-movies-plus] | ![sony-movies-plus-light-hz] | ![sporty-stuff-tv] |
-| ![spotlight] | ![starz] | ![stv] | ![stv-hd] | ![stv-plus] | ![stv-white] |
-| ![syfy] | ![syfy-hd] | ![syfy-hd-hz] | ![syfy-hz] | ![syfy-plus] | ![syfy-plus-hz] |
-| ![talking-pictures-tv] | ![tbn] | ![tcm-movies] | ![tcm-movies-plus] | ![tg-4] | ![thane] |
-| ![the-box] | ![tiny-pop] | ![tiny-pop-plus] | ![tjc-the-jewellery-channel] | ![tlc] | ![tlc-plus] |
-| ![together-tv] | ![together-tv-plus] | ![trace-hits] | ![trace-latina] | ![trace-urban] | ![trace-vault] |
-| ![trace-xmas] | ![travel-channel] | ![tru-tv] | ![true-movies] | ![true-movies-2] | ![true-movies-plus] |
-| ![tv-warehouse] | ![u-tv] | ![u-tv-plus] | ![universal] | ![utsav-bharat] | ![utsav-gold] |
-| ![utsav-gold-hd] | ![utsav-plus] | ![utsav-plus-hd] | ![vh1] | ![viceland] | ![virgin-media-kids] |
-| ![virgin-media-news] | ![virgin-media-one] | ![virgin-media-one-plus] | ![virgin-media-player] | ![virgin-media-sport] | ![virgin-media-television] |
-| ![virgin-media-three] | ![virgin-media-tv] | ![virgin-media-two] | ![vivid-red-hd] | ![voxafrica] | ![w-network] |
-| ![w-network-plus] | ![yanga] | ![yesterday] | ![yesterday-plus] |  |  |
+| ![sky-sports-main-event-hz] | ![sky-sports-main-event-icon] | ![sky-sports-main-event-icon-alt] | ![sky-sports-masters] | ![sky-sports-masters-bug] | ![sky-sports-masters-bug-hz] |
+| ![sky-sports-masters-hd] | ![sky-sports-masters-hd-hz] | ![sky-sports-masters-hz] | ![sky-sports-masters-icon] | ![sky-sports-masters-icon-alt] | ![sky-sports-mix] |
+| ![sky-sports-mix-bug] | ![sky-sports-mix-bug-hz] | ![sky-sports-mix-hd] | ![sky-sports-mix-hd-hz] | ![sky-sports-mix-hz] | ![sky-sports-mix-icon] |
+| ![sky-sports-mix-icon-alt] | ![sky-sports-news] | ![sky-sports-news-bug] | ![sky-sports-news-bug-hz] | ![sky-sports-news-hd] | ![sky-sports-news-hd-hz] |
+| ![sky-sports-news-hz] | ![sky-sports-news-icon] | ![sky-sports-news-icon-alt] | ![sky-sports-nfl] | ![sky-sports-nfl-bug] | ![sky-sports-nfl-bug-hz] |
+| ![sky-sports-nfl-hd] | ![sky-sports-nfl-hd-hz] | ![sky-sports-nfl-hz] | ![sky-sports-nfl-icon] | ![sky-sports-nfl-icon-alt] | ![sky-sports-premier-league] |
+| ![sky-sports-premier-league-bug] | ![sky-sports-premier-league-bug-hz] | ![sky-sports-premier-league-hd] | ![sky-sports-premier-league-hd-hz] | ![sky-sports-premier-league-hz] | ![sky-sports-premier-league-icon] |
+| ![sky-sports-premier-league-icon-alt] | ![sky-sports-racing] | ![sky-sports-racing-bug] | ![sky-sports-racing-bug-hz] | ![sky-sports-racing-hd] | ![sky-sports-racing-hd-hz] |
+| ![sky-sports-racing-hz] | ![sky-sports-racing-icon] | ![sky-sports-racing-icon-alt] | ![sky-sports-the-players] | ![sky-sports-the-players-bug] | ![sky-sports-the-players-bug-hz] |
+| ![sky-sports-the-players-hd] | ![sky-sports-the-players-hd-hz] | ![sky-sports-the-players-hz] | ![sky-sports-the-players-icon] | ![sky-sports-the-players-icon-alt] | ![sky-store] |
+| ![sky-two] | ![sky-two-plus] | ![sky-witness] | ![sky-witness-hd] | ![sky-witness-plus] | ![smithsonian-channel] |
+| ![smithsonian-channel-hd] | ![sony-entertainment-television] | ![sporty-stuff-tv] | ![spotlight] | ![starz] | ![stv] |
+| ![stv-hd] | ![stv-plus] | ![stv-white] | ![syfy] | ![syfy-hd] | ![syfy-hd-hz] |
+| ![syfy-hz] | ![syfy-plus] | ![syfy-plus-hz] | ![talking-pictures-tv] | ![tbn] | ![tcm-movies] |
+| ![tcm-movies-plus] | ![tg-4] | ![thane] | ![the-box] | ![the-craft-store] | ![tiny-pop] |
+| ![tiny-pop-plus] | ![tjc-hd] | ![tjc-the-jewellery-channel] | ![tlc] | ![tlc-plus] | ![together-tv] |
+| ![together-tv-plus] | ![trace-hits] | ![trace-latina] | ![trace-urban] | ![trace-vault] | ![trace-xmas] |
+| ![travel-channel] | ![tru-tv] | ![true-movies] | ![true-movies-2] | ![true-movies-plus] | ![tv-warehouse] |
+| ![u-tv] | ![u-tv-plus] | ![universal] | ![utsav-bharat] | ![utsav-gold] | ![utsav-gold-hd] |
+| ![utsav-plus] | ![utsav-plus-hd] | ![vh1] | ![viceland] | ![virgin-media-kids] | ![virgin-media-news] |
+| ![virgin-media-one] | ![virgin-media-one-plus] | ![virgin-media-player] | ![virgin-media-sport] | ![virgin-media-television] | ![virgin-media-three] |
+| ![virgin-media-tv] | ![virgin-media-two] | ![vivid-red-hd] | ![voxafrica] | ![w-network] | ![w-network-plus] |
+| ![yanga] | ![yesterday] | ![yesterday-plus] |  |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [4-more]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/4-more-uk.png
@@ -385,6 +389,7 @@
 [film-4-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/film-4-plus-uk.png
 [food-network]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/food-network-uk.png
 [food-network-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/food-network-plus-uk.png
+[food-xp]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/food-xp-uk.png
 [forces-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/forces-tv-uk.png
 [fox]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/fox-uk.png
 [fox-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/fox-hd-uk.png
@@ -398,6 +403,22 @@
 [gold]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/gold-uk.png
 [gold-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/gold-plus-uk.png
 [good-news-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/good-news-tv-uk.png
+[great-movies]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/great-movies-uk.png
+[great-movies-action]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/great-movies-action-uk.png
+[great-movies-action-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/great-movies-action-hz-uk.png
+[great-movies-action-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/great-movies-action-plus-uk.png
+[great-movies-action-plus-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/great-movies-action-plus-hz-uk.png
+[great-movies-classic]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/great-movies-classic-uk.png
+[great-movies-classic-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/great-movies-classic-hz-uk.png
+[great-movies-classic-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/great-movies-classic-plus-uk.png
+[great-movies-classic-plus-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/great-movies-classic-plus-hz-uk.png
+[great-movies-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/great-movies-hz-uk.png
+[great-movies-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/great-movies-plus-uk.png
+[great-movies-plus-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/great-movies-plus-hz-uk.png
+[great-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/great-tv-uk.png
+[great-tv-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/great-tv-hz-uk.png
+[great-tv-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/great-tv-plus-uk.png
+[great-tv-plus-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/great-tv-plus-hz-uk.png
 [hgtv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hgtv-uk.png
 [hgtv-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hgtv-plus-uk.png
 [hi-impact-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hi-impact-tv-uk.png
@@ -543,6 +564,7 @@
 [s4c]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/s4c-uk.png
 [s4c-dau-two]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/s4c-dau-two-uk.png
 [s4c-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/s4c-hd-uk.png
+[shopping-quarter]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/shopping-quarter-uk.png
 [showcase]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/showcase-uk.png
 [sky-arts]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-arts-uk.png
 [sky-arts-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-arts-hd-uk.png
@@ -550,6 +572,8 @@
 [sky-atlantic-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-atlantic-hd-uk.png
 [sky-atlantic-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-atlantic-plus-uk.png
 [sky-cinema]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-uk.png
+[sky-cinema-5-star-movies]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-5-star-movies-uk.png
+[sky-cinema-5-star-movies-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-cinema-5-star-movies-hd-uk.png
 [sky-cinema-action]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-action-uk.png
 [sky-cinema-action-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-cinema-action-hd-uk.png
 [sky-cinema-action-hd-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-cinema-action-hd-hz-uk.png
@@ -574,12 +598,6 @@
 [sky-cinema-comedy-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-comedy-hz-uk.png
 [sky-cinema-cops-and-robbers]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-cops-and-robbers-uk.png
 [sky-cinema-cops-and-robbers-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-cinema-cops-and-robbers-hd-uk.png
-[sky-cinema-disney]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-disney-uk.png
-[sky-cinema-disney-alt]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-disney-alt-uk.png
-[sky-cinema-disney-alt-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-cinema-disney-alt-hd-uk.png
-[sky-cinema-disney-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-cinema-disney-hd-uk.png
-[sky-cinema-disney-hd-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-cinema-disney-hd-hz-uk.png
-[sky-cinema-disney-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-disney-hz-uk.png
 [sky-cinema-divergent]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-divergent-uk.png
 [sky-cinema-divergent-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-cinema-divergent-hd-uk.png
 [sky-cinema-drama]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-drama-uk.png
@@ -590,10 +608,14 @@
 [sky-cinema-family-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-cinema-family-hd-uk.png
 [sky-cinema-family-hd-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-cinema-family-hd-hz-uk.png
 [sky-cinema-family-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-family-hz-uk.png
+[sky-cinema-fast-and-furious]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-fast-and-furious-uk.png
+[sky-cinema-fast-and-furious-alt]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-fast-and-furious-alt-uk.png
+[sky-cinema-fast-and-furious-alt-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-cinema-fast-and-furious-alt-hd-uk.png
+[sky-cinema-fast-and-furious-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-cinema-fast-and-furious-hd-uk.png
+[sky-cinema-fast-and-furious-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-fast-and-furious-hz-uk.png
+[sky-cinema-fast-and-furious-hz-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-cinema-fast-and-furious-hz-hd-uk.png
 [sky-cinema-feel-good]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-feel-good-uk.png
 [sky-cinema-feel-good-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-cinema-feel-good-hd-uk.png
-[sky-cinema-five-star-movies]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-five-star-movies-uk.png
-[sky-cinema-five-star-movies-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-cinema-five-star-movies-hd-uk.png
 [sky-cinema-greats]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-greats-uk.png
 [sky-cinema-greats-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-cinema-greats-hd-uk.png
 [sky-cinema-greats-hd-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-cinema-greats-hd-hz-uk.png
@@ -624,6 +646,12 @@
 [sky-cinema-musicals-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-cinema-musicals-hd-uk.png
 [sky-cinema-must-see-movies]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-must-see-movies-uk.png
 [sky-cinema-must-see-movies-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-cinema-must-see-movies-hd-uk.png
+[sky-cinema-oscars]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-oscars-uk.png
+[sky-cinema-oscars-alt]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-oscars-alt-uk.png
+[sky-cinema-oscars-alt-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-cinema-oscars-alt-hd-uk.png
+[sky-cinema-oscars-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-cinema-oscars-hd-uk.png
+[sky-cinema-oscars-hd-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-cinema-oscars-hd-hz-uk.png
+[sky-cinema-oscars-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-oscars-hz-uk.png
 [sky-cinema-premiere]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-premiere-uk.png
 [sky-cinema-premiere-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-cinema-premiere-hd-uk.png
 [sky-cinema-premiere-hd-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-cinema-premiere-hd-hz-uk.png
@@ -789,6 +817,14 @@
 [sky-sports-main-event-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-main-event-hz-uk.png
 [sky-sports-main-event-icon]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-main-event-icon-uk.png
 [sky-sports-main-event-icon-alt]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/other/sky-sports-main-event-icon-alt-uk.png
+[sky-sports-masters]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-masters-uk.png
+[sky-sports-masters-bug]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/screen-bug/sky-sports-masters-bug-uk.png
+[sky-sports-masters-bug-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/screen-bug/sky-sports-masters-bug-hz-uk.png
+[sky-sports-masters-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-sports-masters-hd-uk.png
+[sky-sports-masters-hd-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-sports-masters-hd-hz-uk.png
+[sky-sports-masters-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-masters-hz-uk.png
+[sky-sports-masters-icon]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-masters-icon-uk.png
+[sky-sports-masters-icon-alt]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/other/sky-sports-masters-icon-alt-uk.png
 [sky-sports-mix]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-mix-uk.png
 [sky-sports-mix-bug]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/screen-bug/sky-sports-mix-bug-uk.png
 [sky-sports-mix-bug-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/screen-bug/sky-sports-mix-bug-hz-uk.png
@@ -829,6 +865,14 @@
 [sky-sports-racing-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-racing-hz-uk.png
 [sky-sports-racing-icon]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-racing-icon-uk.png
 [sky-sports-racing-icon-alt]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/other/sky-sports-racing-icon-alt-uk.png
+[sky-sports-the-players]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-the-players-uk.png
+[sky-sports-the-players-bug]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/screen-bug/sky-sports-the-players-bug-uk.png
+[sky-sports-the-players-bug-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/screen-bug/sky-sports-the-players-bug-hz-uk.png
+[sky-sports-the-players-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-sports-the-players-hd-uk.png
+[sky-sports-the-players-hd-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/sky-sports-the-players-hd-hz-uk.png
+[sky-sports-the-players-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-the-players-hz-uk.png
+[sky-sports-the-players-icon]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-the-players-icon-uk.png
+[sky-sports-the-players-icon-alt]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/other/sky-sports-the-players-icon-alt-uk.png
 [sky-store]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-store-uk.png
 [sky-two]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-two-uk.png
 [sky-two-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-two-plus-uk.png
@@ -837,26 +881,7 @@
 [sky-witness-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-witness-plus-uk.png
 [smithsonian-channel]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/smithsonian-channel-uk.png
 [smithsonian-channel-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/smithsonian-channel-hd-uk.png
-[sony-channel]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sony-channel-uk.png
-[sony-channel-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sony-channel-hz-uk.png
-[sony-channel-light-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sony-channel-light-hz-uk.png
-[sony-channel-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sony-channel-plus-uk.png
-[sony-channel-plus-light-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sony-channel-plus-light-hz-uk.png
 [sony-entertainment-television]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sony-entertainment-television-uk.png
-[sony-movies]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sony-movies-uk.png
-[sony-movies-action]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sony-movies-action-uk.png
-[sony-movies-action-light-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sony-movies-action-light-hz-uk.png
-[sony-movies-action-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sony-movies-action-plus-uk.png
-[sony-movies-action-plus-light-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sony-movies-action-plus-light-hz-uk.png
-[sony-movies-christmas]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sony-movies-christmas-uk.png
-[sony-movies-christmas-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sony-movies-christmas-plus-uk.png
-[sony-movies-classic]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sony-movies-classic-uk.png
-[sony-movies-classic-light-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sony-movies-classic-light-hz-uk.png
-[sony-movies-classic-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sony-movies-classic-plus-uk.png
-[sony-movies-classic-plus-light-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sony-movies-classic-plus-light-hz-uk.png
-[sony-movies-light-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sony-movies-light-hz-uk.png
-[sony-movies-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sony-movies-plus-uk.png
-[sony-movies-plus-light-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sony-movies-plus-light-hz-uk.png
 [sporty-stuff-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sporty-stuff-tv-uk.png
 [spotlight]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/spotlight-uk.png
 [starz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/starz-uk.png
@@ -877,8 +902,10 @@
 [tg-4]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/tg-4-uk.png
 [thane]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/thane-uk.png
 [the-box]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/the-box-uk.png
+[the-craft-store]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/the-craft-store-uk.png
 [tiny-pop]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/tiny-pop-uk.png
 [tiny-pop-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/tiny-pop-plus-uk.png
+[tjc-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/tjc-hd-uk.png
 [tjc-the-jewellery-channel]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/tjc-the-jewellery-channel-uk.png
 [tlc]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/tlc-uk.png
 [tlc-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/tlc-plus-uk.png
