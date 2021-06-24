@@ -6,17 +6,19 @@
 📐 The logos have a max-width of 512px and have been optimized for smallest file size  
 🖤 The logos are created specifically to work on dark backgrounds  
    
-💾 Combined file size = 3,3mb  |  📅 Last update: March 3 2021  
-🎨 __75 Logos total__  |  ✨ __1 HD Logos__
+💾 Combined file size = 5,0mb  |  📅 Last update: June 24 2021  
+🎨 __87 Logos total__  |  ✨ __1 HD Logo__
    
    
 *This mosaic view is only updated periodically.*  
-| ![1magic] | ![boing] | ![channel-o] | ![fix-and-foxi] | ![itv-choice] | ![kyknet] |
+| ![1magic] | ![boing] | ![channel-o] | ![e-extra] | ![e-movies] | ![e-movies-extra] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| ![kyknet-and-kie] | ![kyknet-lekker] | ![kyknet-nou] | ![m-net] | ![m-net-channel-101] | ![m-net-city] |
-| ![m-net-hd] | ![m-net-movies] | ![m-net-movies-1] | ![m-net-movies-2] | ![m-net-movies-3] | ![m-net-movies-4] |
-| ![m-net-movies-premiere] | ![mtv] | ![mtv-base] | ![mzansi-bioskop] | ![mzansi-magic] | ![mzansi-magic-music] |
-| ![mzansi-wethu] | ![novela-magic] | ![sabc-news] | ![supersport] | ![supersport-action] | ![supersport-action-bug] |
+| ![e-nca] | ![e-news-and-sport] | ![e-reality] | ![e-rewind] | ![e-toonz] | ![e-tv] |
+| ![fix-and-foxi] | ![itv-choice] | ![kyknet] | ![kyknet-and-kie] | ![kyknet-lekker] | ![kyknet-nou] |
+| ![m-net] | ![m-net-channel-101] | ![m-net-city] | ![m-net-hd] | ![m-net-movies] | ![m-net-movies-1] |
+| ![m-net-movies-2] | ![m-net-movies-3] | ![m-net-movies-4] | ![m-net-movies-premiere] | ![mtv] | ![mtv-base] |
+| ![mzansi-bioskop] | ![mzansi-magic] | ![mzansi-magic-music] | ![mzansi-wethu] | ![novela-magic] | ![sabc-1] |
+| ![sabc-2] | ![sabc-3] | ![sabc-news] | ![supersport] | ![supersport-action] | ![supersport-action-bug] |
 | ![supersport-blitz] | ![supersport-blitz-bug] | ![supersport-cricket] | ![supersport-cricket-bug] | ![supersport-csn] | ![supersport-csn-bug] |
 | ![supersport-football] | ![supersport-football-bug] | ![supersport-football-plus] | ![supersport-football-plus-bug] | ![supersport-golf] | ![supersport-golf-bug] |
 | ![supersport-grandstand] | ![supersport-grandstand-bug] | ![supersport-laliga] | ![supersport-laliga-bug] | ![supersport-maximo1] | ![supersport-maximo1-bug] |
@@ -30,6 +32,15 @@
 [1magic]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/south-africa/1magic-za.png
 [boing]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/south-africa/boing-za.png
 [channel-o]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/south-africa/channel-o-za.png
+[e-extra]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/south-africa/e-extra-za.png
+[e-movies]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/south-africa/e-movies-za.png
+[e-movies-extra]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/south-africa/e-movies-extra-za.png
+[e-nca]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/south-africa/e-nca-za.png
+[e-news-and-sport]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/south-africa/e-news-and-sport-za.png
+[e-reality]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/south-africa/e-reality-za.png
+[e-rewind]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/south-africa/e-rewind-za.png
+[e-toonz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/south-africa/e-toonz-za.png
+[e-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/south-africa/e-tv-za.png
 [fix-and-foxi]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/south-africa/fix-and-foxi-za.png
 [itv-choice]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/south-africa/itv-choice-za.png
 [kyknet]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/south-africa/kyknet-za.png
@@ -53,6 +64,9 @@
 [mzansi-magic-music]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/south-africa/mzansi-magic-music-za.png
 [mzansi-wethu]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/south-africa/mzansi-wethu-za.png
 [novela-magic]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/south-africa/novela-magic-za.png
+[sabc-1]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/south-africa/sabc-1-za.png
+[sabc-2]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/south-africa/sabc-2-za.png
+[sabc-3]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/south-africa/sabc-3-za.png
 [sabc-news]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/south-africa/sabc-news-za.png
 [supersport]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/south-africa/supersport-za.png
 [supersport-action]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/south-africa/supersport-action-za.png
