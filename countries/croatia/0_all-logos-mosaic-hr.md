@@ -1,22 +1,16 @@
 🇭🇷 Croatia
 ===============
-
-🛠 Right-click on a logo and copy the image address to get the direct url or click to open.
-
-🔗 The links will update automatically when I update a logo, unless the name has changed.
-
-♻️ You might need to refresh your app/device or clear cache to force in an update.
-
-📐 The logos have a max-width of 512px and have been optimized for smallest filesize.
-
-🖤 The logos are created specifically to work on dark backgrounds.
-
-💾 __Combined file size = 1,6mb__  |  📅 __Last update: June 23 2021__  
-
-### 🎨 __137 Logos total__  |  💎 __34 HD Logos__  
-
- 
-
+🛠 Right-click on a logo and copy the image address to get the direct url or click to open  
+🔗 The links will update automatically when I update a logo, unless the name has changed  
+♻️ You might need to refresh your app/device or clear cache to force in an update  
+📐 The logos have a max-width of 512px and have been optimized for smallest file size  
+🖤 The logos are created specifically to work on dark backgrounds  
+   
+💾 Combined file size = 1,6mb  |  📅 Last update: June 23 2021  
+🎨 __137 Logos total__  |  ✨ __34 HD Logos__
+   
+   
+*This mosaic view is only updated periodically.*  
 | ![aurora-tv-hr] | ![bbc-earth-hr] | ![cinemax-hd-hr] | ![cinemax-hr] | ![cinemax2-hd-hr] | ![cinemax2-hr] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | ![cinestar-tv-1-hr] | ![cinestar-tv-2-hd-hr] | ![cinestar-tv-2-hr] | ![cinestar-tv-action-hr] | ![cinestar-tv-comedy-hr] | ![cinestar-tv-fantasy-hd-hr] |
