@@ -6,19 +6,29 @@
 📐 The logos have a max-width of 512px and have been optimized for smallest file size  
 🖤 The logos are created specifically to work on dark backgrounds  
    
-💾 Combined file size = 0,6mb  |  📅 Last update: March 2 2021  
-🎨 __11 Logos total__
+💾 Combined file size = 0,7mb  |  📅 Last update: June 25 2021  
+🎨 __19 Logos total__
    
    
 *This mosaic view is only updated periodically.*  
-| ![celebration-tv] | ![channels] | ![channels-24] | ![curiosity-channel] | ![curiosity-channel-hz] | ![dunamis-tv] |
+| ![africa-magic-epic] | ![africa-magic-family] | ![africa-magic-hausa] | ![africa-magic-holiday-channel] | ![africa-magic-igbo] | ![africa-magic-showcase] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| ![tbnica] | ![the-boxica] | ![the-boxica-hz] | ![travelxp] | ![tvc-news] |  |
+| ![africa-magic-urban] | ![africa-magic-yoruba] | ![celebration-tv] | ![channels-24] | ![channels] | ![curiosity-channel] |
+| ![curiosity-channel-hz] | ![dunamis-tv] | ![tbnica] | ![the-boxica] | ![the-boxica-hz] | ![travelxp] |
+| ![tvc-news] |  |  |  |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
+[africa-magic-epic]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-africa/africa-magic-epic-afr.png
+[africa-magic-family]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-africa/africa-magic-family-afr.png
+[africa-magic-hausa]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-africa/africa-magic-hausa-afr.png
+[africa-magic-holiday-channel]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-africa/africa-magic-holiday-channel-afr.png
+[africa-magic-igbo]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-africa/africa-magic-igbo-afr.png
+[africa-magic-showcase]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-africa/africa-magic-showcase-afr.png
+[africa-magic-urban]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-africa/africa-magic-urban-afr.png
+[africa-magic-yoruba]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-africa/africa-magic-yoruba-afr.png
 [celebration-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-africa/celebration-tv-afr.png
-[channels]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-africa/channels-afr.png
 [channels-24]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-africa/channels-24-afr.png
+[channels]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-africa/channels-afr.png
 [curiosity-channel]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-africa/curiosity-channel-afr.png
 [curiosity-channel-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-africa/curiosity-channel-hz-afr.png
 [dunamis-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-africa/dunamis-tv-afr.png
