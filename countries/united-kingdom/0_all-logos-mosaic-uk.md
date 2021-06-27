@@ -148,7 +148,7 @@
 | ![utsav-gold-hd] | ![utsav-plus] | ![utsav-plus-hd] | ![vh1] | ![viceland] | ![virgin-media-kids] |
 | ![virgin-media-news] | ![virgin-media-one] | ![virgin-media-one-plus] | ![virgin-media-player] | ![virgin-media-sport] | ![virgin-media-television] |
 | ![virgin-media-three] | ![virgin-media-tv] | ![virgin-media-two] | ![vivid-red-hd] | ![voxafrica] | ![w-network] |
-| ![w-network-hd] | ![w-network-plus] | ![yanga] | ![yesterday] | ![yesterday-plus] | ![zzz-00822] |
+| ![w-network-hd] | ![w-network-plus] | ![yanga] | ![yesterday] | ![yesterday-plus] |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [4-more]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/4-more-uk.png
