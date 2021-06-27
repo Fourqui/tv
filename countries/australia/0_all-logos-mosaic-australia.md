@@ -6,46 +6,47 @@
 📐 The logos have a max-width of 512px and have been optimized for smallest file size  
 🖤 The logos are created specifically to work on dark backgrounds  
    
-💾 Combined file size = 4,8mb  |  📅 Last update: April 25 2021  
-🎨 __302 Logos total__  |  ✨ __86 HD Logos__
+💾 Combined file size = 5,0mb  |  📅 Last update: June 27 2021  
+🎨 __314 Logos total__  |  ✨ __91 HD Logos__
    
    
 *This mosaic view is only updated periodically.*  
-| ![_space] | ![_space] | ![_space] | ![_space] | ![_space] | ![_space] |
-|:-:|:-:|:-:|:-:|:-:|:-:|
 | ![10-bold] | ![10-peach] | ![10-shake] | ![10-sport] | ![7flix] | ![7mate] |
+|:-:|:-:|:-:|:-:|:-:|:-:|
 | ![7two] | ![a-and-e] | ![a-and-e-hd] | ![a-and-e-plus-2] | <img src=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/abc-au.png height="140px"> | ![abc-hd] |
 | ![abc-hd-hz] | ![abc-hd-light] | ![abc-hd-light-hz] | ![abc-hz] | ![abc-kids] | ![abc-kids-hz] |
 | ![abc-kids-plus] | <img src=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/abc-light-au.png height="140px"> | ![abc-light-hz] | ![abc-me] | ![abc-me-light] | ![abc-me-outlined] |
 | ![abc-me-outlined-light] | ![abc-news] | ![abc-news-hz] | ![abc-tv-plus] | ![abc-tv-plus-hz] | ![acc-tv] |
 | ![adult-swim] | ![animal-planet] | ![antenna-pacific] | ![arena] | ![arena-plus-2] | ![aurora] |
 | ![bbc-cbeebies] | ![bbc-earth] | ![bbc-earth-hd] | ![bbc-first] | ![bbc-first-hd] | ![bbc-uktv] |
-| ![bbc-uktv-plus-2] | ![ben-10-pop-up] | ![boomerang] | ![boomerang-scooby-doo] | ![boxsets] | ![boxsets-hd] |
-| ![c31] | ![cartoon-network] | ![channel-44] | ![cmt] | ![cnbcstralia] | ![crime-and-investigation] |
-| ![daystar] | ![disney-channel] | ![espn] | ![espn-2] | ![espn-2-hd] | ![espn-hd] |
-| ![expo-channel] | ![fox-8] | ![fox-8-hd] | ![fox-8-plus-2] | ![fox-arena] | ![fox-arena-hd] |
-| ![fox-arena-plus-2] | ![fox-classics] | ![fox-classics-plus-2] | ![fox-comedy] | ![fox-comedy-plus-2] | ![fox-crime] |
-| ![fox-crime-hd] | ![fox-crime-hd-hz] | ![fox-crime-hz] | ![fox-crime-plus-2] | ![fox-crime-plus-2-hz] | ![fox-funny] |
-| ![fox-funny-hd] | ![fox-funny-hd-hz] | ![fox-funny-hz] | ![fox-funny-plus-2] | ![fox-funny-plus-2-hz] | ![fox-hits] |
-| ![fox-hits-hz] | ![fox-hits-plus-2] | ![fox-hits-plus-2-hz] | ![fox-one] | ![fox-one-hd] | ![fox-one-hd-hz] |
-| ![fox-one-hz] | ![fox-one-plus-2] | ![fox-one-plus-2-hz] | ![fox-scifi] | ![fox-scifi-hd] | ![fox-scifi-hd-hz] |
-| ![fox-scifi-hz] | ![fox-scifi-plus-2] | ![fox-scifi-plus-2-hz] | ![fox-showcase] | ![fox-showcase-hd] | ![fox-showcase-plus-2] |
-| ![fox-sleuth] | ![fox-sleuth-hd] | ![fox-sleuth-hd-hz] | ![fox-sleuth-hz] | ![fox-sleuth-plus-2] | ![fox-sleuth-plus-2-hz] |
-| ![fox-sports-503] | ![fox-sports-503-hd] | ![fox-sports-503-hd-hz] | ![fox-sports-505] | ![fox-sports-505-hd] | ![fox-sports-505-hd-hz] |
-| ![fox-sports-506] | ![fox-sports-506-hd] | ![fox-sports-506-hd-hz] | ![fox-sports-507] | ![fox-sports-507-hd] | ![fox-sports-507-hd-hz] |
-| ![fox-sports-508] | ![fox-sports-508-uhd] | ![fox-sports-508-uhd-hz] | <img src=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/fox-sports-cricket-501-au.png height="150px"> | <img src=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/fox-sports-cricket-501-hd-au.png height="150px"> | ![fox-sports-cricket-501-hd-hz] |
-| ![fox-sports-cricket-hd-hz] | ![fox-sports-footy-504] | ![fox-sports-footy-504-hd] | ![fox-sports-footy-504-hd-hz] | ![fox-sports-footy-hd-hz] | ![fox-sports-hd-hz] |
-| ![fox-sports-league-502] | ![fox-sports-league-502-hd] | ![fox-sports-league-502-hd-hz] | ![fox-sports-league-hd-hz] | ![fox-sports-more-plus] | ![fox-sports-more-plus-hd] |
-| ![fox-sports-news] | ![fox-sports-news-hd] | ![fox-sports-regular] | ![fox-sports-theme-afl] | ![fox-sports-theme-basketball] | ![fox-sports-theme-cricket] |
-| ![fox-sports-theme-football] | ![fox-sports-theme-golf] | ![fox-sports-theme-motorsport] | ![fox-sports-theme-netball] | ![fox-sports-theme-nhl] | ![fox-sports-theme-nrl] |
-| ![fox-sports-theme-rugby] | ![fox-sports-theme-tennis] | ![fox-sports-transparent] | ![fox-sports-ultra-hd] | ![fox-sports-ultra-hd-hz] | ![foxtel-80s-classics] |
-| ![foxtel-80s-classics-hd] | ![foxtel-arts] | ![foxtel-arts-hd] | ![foxtel-barbie-movies] | ![foxtel-barbie-movies-hd] | ![foxtel-loved-up] |
-| ![foxtel-loved-up-hd] | ![foxtel-monster-movies] | ![foxtel-monster-movies-hd] | ![foxtel-movies-action] | ![foxtel-movies-action-hd] | ![foxtel-movies-action-hd-hz] |
-| ![foxtel-movies-action-hz] | ![foxtel-movies-action-plus-2] | ![foxtel-movies-action-plus-2-hz] | ![foxtel-movies-comedy] | ![foxtel-movies-comedy-duos] | ![foxtel-movies-comedy-duos-hd] |
+| ![bbc-uktv-plus-2] | ![ben-10-pop-up] | ![boomerang] | ![boomerang-looney-tunes] | ![boomerang-scooby-doo] | ![boxsets] |
+| ![boxsets-hd] | ![c31] | ![cartoon-network] | ![channel-44] | ![cmt] | ![cnbcstralia] |
+| ![crime-and-investigation] | ![daystar] | ![disney-channel] | ![espn] | ![espn-2] | ![espn-2-hd] |
+| ![espn-hd] | ![expo-channel] | ![fox-8] | ![fox-8-hd] | ![fox-8-plus-2] | ![fox-arena] |
+| ![fox-arena-hd] | ![fox-arena-plus-2] | ![fox-classics] | ![fox-classics-plus-2] | ![fox-comedy] | ![fox-comedy-plus-2] |
+| ![fox-crime] | ![fox-crime-hd] | ![fox-crime-hd-hz] | ![fox-crime-hz] | ![fox-crime-plus-2] | ![fox-crime-plus-2-hz] |
+| ![fox-funny] | ![fox-funny-hd] | ![fox-funny-hd-hz] | ![fox-funny-hz] | ![fox-funny-plus-2] | ![fox-funny-plus-2-hz] |
+| ![fox-hits] | ![fox-hits-hz] | ![fox-hits-plus-2] | ![fox-hits-plus-2-hz] | ![fox-one] | ![fox-one-hd] |
+| ![fox-one-hd-hz] | ![fox-one-hz] | ![fox-one-plus-2] | ![fox-one-plus-2-hz] | ![fox-scifi] | ![fox-scifi-hd] |
+| ![fox-scifi-hd-hz] | ![fox-scifi-hz] | ![fox-scifi-plus-2] | ![fox-scifi-plus-2-hz] | ![fox-showcase] | ![fox-showcase-hd] |
+| ![fox-showcase-plus-2] | ![fox-sleuth] | ![fox-sleuth-hd] | ![fox-sleuth-hd-hz] | ![fox-sleuth-hz] | ![fox-sleuth-plus-2] |
+| ![fox-sleuth-plus-2-hz] | ![fox-sports-503] | ![fox-sports-503-hd] | ![fox-sports-503-hd-hz] | ![fox-sports-505] | ![fox-sports-505-hd] |
+| ![fox-sports-505-hd-hz] | ![fox-sports-506] | ![fox-sports-506-hd] | ![fox-sports-506-hd-hz] | ![fox-sports-507] | ![fox-sports-507-hd] |
+| ![fox-sports-507-hd-hz] | ![fox-sports-508] | ![fox-sports-508-uhd] | ![fox-sports-508-uhd-hz] | <img src=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/fox-sports-cricket-501-au.png height="150px"> | <img src=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/fox-sports-cricket-501-hd-au.png height="150px"> |
+| ![fox-sports-cricket-501-hd-hz] | ![fox-sports-cricket-hd-hz] | ![fox-sports-footy-504] | ![fox-sports-footy-504-hd] | ![fox-sports-footy-504-hd-hz] | ![fox-sports-footy-hd-hz] |
+| ![fox-sports-hd-hz] | ![fox-sports-league-502] | ![fox-sports-league-502-hd] | ![fox-sports-league-502-hd-hz] | ![fox-sports-league-hd-hz] | ![fox-sports-more-plus] |
+| ![fox-sports-more-plus-hd] | ![fox-sports-news] | ![fox-sports-news-hd] | ![fox-sports-regular] | ![fox-sports-theme-afl] | ![fox-sports-theme-basketball] |
+| ![fox-sports-theme-cricket] | ![fox-sports-theme-football] | ![fox-sports-theme-golf] | ![fox-sports-theme-motorsport] | ![fox-sports-theme-netball] | ![fox-sports-theme-nhl] |
+| ![fox-sports-theme-nrl] | ![fox-sports-theme-rugby] | ![fox-sports-theme-tennis] | ![fox-sports-transparent] | ![fox-sports-ultra-hd] | ![fox-sports-ultra-hd-hz] |
+| ![foxtel-80s-classics] | ![foxtel-80s-classics-hd] | ![foxtel-arts] | ![foxtel-arts-hd] | ![foxtel-barbie-movies] | ![foxtel-barbie-movies-hd] |
+| ![foxtel-loved-up] | ![foxtel-loved-up-hd] | ![foxtel-monster-movies] | ![foxtel-monster-movies-hd] | ![foxtel-movies-action] | ![foxtel-movies-action-hd] |
+| ![foxtel-movies-action-hd-hz] | ![foxtel-movies-action-hz] | ![foxtel-movies-action-plus-2] | ![foxtel-movies-action-plus-2-hz] | ![foxtel-movies-biopics] | ![foxtel-movies-biopics-hd] |
+| ![foxtel-movies-blockbusters] | ![foxtel-movies-blockbusters-hd] | ![foxtel-movies-blockbusters-uhd] | ![foxtel-movies-comedy] | ![foxtel-movies-comedy-duos] | ![foxtel-movies-comedy-duos-hd] |
 | ![foxtel-movies-comedy-hd] | ![foxtel-movies-comedy-hd-hz] | ![foxtel-movies-comedy-hz] | ![foxtel-movies-drama] | ![foxtel-movies-drama-hd] | ![foxtel-movies-drama-hd-hz] |
-| ![foxtel-movies-drama-hz] | ![foxtel-movies-family] | ![foxtel-movies-family-hd] | ![foxtel-movies-family-hd-hz] | ![foxtel-movies-family-hz] | ![foxtel-movies-family-plus-2] |
-| ![foxtel-movies-family-plus-2-hz] | ![foxtel-movies-greats] | ![foxtel-movies-greats-hd] | ![foxtel-movies-greats-hd-hz] | ![foxtel-movies-greats-hz] | ![foxtel-movies-hits] |
-| ![foxtel-movies-hits-hd] | ![foxtel-movies-hits-hd-hz] | ![foxtel-movies-hits-hz] | ![foxtel-movies-kids] | ![foxtel-movies-kids-hd] | ![foxtel-movies-kids-hd-hz] |
+| ![foxtel-movies-drama-hz] | ![foxtel-movies-family] | ![foxtel-movies-family-franchises] | ![foxtel-movies-family-franchises-hd] | ![foxtel-movies-family-hd] | ![foxtel-movies-family-hd-hz] |
+| ![foxtel-movies-family-hz] | ![foxtel-movies-family-plus-2] | ![foxtel-movies-family-plus-2-hz] | ![foxtel-movies-female-fighters] | ![foxtel-movies-female-fighters-hd] | ![foxtel-movies-greats] |
+| ![foxtel-movies-greats-hd] | ![foxtel-movies-greats-hd-hz] | ![foxtel-movies-greats-hz] | ![foxtel-movies-hits] | ![foxtel-movies-hits-hd] | ![foxtel-movies-hits-hd-hz] |
+| ![foxtel-movies-hits-hz] | ![foxtel-movies-iconic-films] | ![foxtel-movies-iconic-films-hd] | ![foxtel-movies-kids] | ![foxtel-movies-kids-hd] | ![foxtel-movies-kids-hd-hz] |
 | ![foxtel-movies-kids-hz] | ![foxtel-movies-premiere] | ![foxtel-movies-premiere-hd] | ![foxtel-movies-premiere-hd-hz] | ![foxtel-movies-premiere-hz] | ![foxtel-movies-premiere-plus-2] |
 | ![foxtel-movies-premiere-plus-2-hz] | ![foxtel-movies-romance] | ![foxtel-movies-romance-hd] | ![foxtel-movies-romance-hd-hz] | ![foxtel-movies-romance-hz] | ![foxtel-movies-thriller] |
 | ![foxtel-movies-thriller-hd] | ![foxtel-movies-thriller-hd-hz] | ![foxtel-movies-thriller-hz] | ![foxtel-movies-ultra-hd] | ![foxtel-movies-ultra-hd-hz] | ![foxtel-rev-heads-movies] |
@@ -64,6 +65,7 @@
 | ![smooth-arts-hd] | ![spike] | ![spree-tv] | ![tlc] | ![tlc-plus-2] | ![tvsn] |
 | ![universal-tv] | ![universal-tv-hd] | ![universal-tv-plus-2] | ![west-tv] | ![win] | ![win-bold] |
 | ![win-hd] | ![win-peach] |  |  |  |  |
+| ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [10-bold]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/10-bold-au.png
 [10-peach]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/10-peach-au.png
@@ -110,6 +112,7 @@
 [bbc-uktv-plus-2]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/bbc-uktv-plus-2-au.png
 [ben-10-pop-up]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/ben-10-pop-up-au.png
 [boomerang]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/boomerang-au.png
+[boomerang-looney-tunes]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/boomerang-looney-tunes-au.png
 [boomerang-scooby-doo]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/boomerang-scooby-doo-au.png
 [boxsets]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/boxsets-au.png
 [boxsets-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/boxsets-hd-au.png
@@ -236,6 +239,11 @@
 [foxtel-movies-action-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-action-hz-au.png
 [foxtel-movies-action-plus-2]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-action-plus-2-au.png
 [foxtel-movies-action-plus-2-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-action-plus-2-hz-au.png
+[foxtel-movies-biopics]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-biopics-au.png
+[foxtel-movies-biopics-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-biopics-hd-au.png
+[foxtel-movies-blockbusters]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-blockbusters-au.png
+[foxtel-movies-blockbusters-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-blockbusters-hd-au.png
+[foxtel-movies-blockbusters-uhd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-blockbusters-uhd-au.png
 [foxtel-movies-comedy]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-comedy-au.png
 [foxtel-movies-comedy-duos]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-comedy-duos-au.png
 [foxtel-movies-comedy-duos-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-comedy-duos-hd-au.png
@@ -247,11 +255,15 @@
 [foxtel-movies-drama-hd-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-drama-hd-hz-au.png
 [foxtel-movies-drama-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-drama-hz-au.png
 [foxtel-movies-family]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-family-au.png
+[foxtel-movies-family-franchises]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-family-franchises-au.png
+[foxtel-movies-family-franchises-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-family-franchises-hd-au.png
 [foxtel-movies-family-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-family-hd-au.png
 [foxtel-movies-family-hd-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-family-hd-hz-au.png
 [foxtel-movies-family-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-family-hz-au.png
 [foxtel-movies-family-plus-2]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-family-plus-2-au.png
 [foxtel-movies-family-plus-2-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-family-plus-2-hz-au.png
+[foxtel-movies-female-fighters]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-female-fighters-au.png
+[foxtel-movies-female-fighters-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-female-fighters-hd-au.png
 [foxtel-movies-greats]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-greats-au.png
 [foxtel-movies-greats-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-greats-hd-au.png
 [foxtel-movies-greats-hd-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-greats-hd-hz-au.png
@@ -260,6 +272,8 @@
 [foxtel-movies-hits-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-hits-hd-au.png
 [foxtel-movies-hits-hd-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-hits-hd-hz-au.png
 [foxtel-movies-hits-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-hits-hz-au.png
+[foxtel-movies-iconic-films]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-iconic-films-au.png
+[foxtel-movies-iconic-films-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-iconic-films-hd-au.png
 [foxtel-movies-kids]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-kids-au.png
 [foxtel-movies-kids-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-kids-hd-au.png
 [foxtel-movies-kids-hd-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-kids-hd-hz-au.png
