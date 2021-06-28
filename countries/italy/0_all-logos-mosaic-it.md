@@ -1,24 +1,18 @@
 🇮🇹 Italy
 ===============
-
-🛠 Right-click on a logo and copy the image address to get the direct url or click to open.
-
-🔗 The links will update automatically when I update a logo, unless the name has changed.
-
-♻️ You might need to refresh your app/device or clear cache to force in an update.
-
-📐 The logos have a max-width of 512px and have been optimized for smallest filesize.
-
-🖤 The logos are created specifically to work on dark backgrounds.
-
-💾 __Combined file size = 1,8mb__  |  📅 __Last update: February 21 2021__  
-
-### 🎨 __187 Logos total__  |  💎 __80 HD Logos__  
-
-
-This mosaic view is only updated periodically.
+🛠 Right-click on a logo and copy the image address to get the direct url or click to open  
+🔗 The links will update automatically when I update a logo, unless the name has changed  
+♻️ You might need to refresh your app/device or clear cache to force in an update  
+📐 The logos have a max-width of 512px and have been optimized for smallest file size  
+🖤 The logos are created specifically to work on dark backgrounds  
+   
+💾 Combined file size = 1,9mb  |  📅 Last update: June 28 2021  
+🎨 __193 Logos total__  |  ✨ __80 HD Logos__
+   
+   
+*This mosaic view is only updated periodically.*  
 | ![20] | ![20-hd] | ![7gold] | ![alice] | ![blaze] | ![blaze-hd] |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+|-|-|-|-|-|-|
 | ![boing] | ![canale5] | ![canale5-hd] | ![cartoonito] | ![cielo] | ![cielo-hd] |
 | ![cine34] | ![class-cnbc] | ![class-tv-moda] | ![crime-and-investigation] | ![crime-and-investigation-hd] | ![dea-junior] |
 | ![dea-kids] | ![dea-kids-plus] | ![focus] | ![fox] | ![fox-comedy] | ![fox-comedy-hd] |
@@ -44,11 +38,12 @@ This mosaic view is only updated periodically.
 | ![sky-cinema-family-hz] | ![sky-cinema-hd] | ![sky-cinema-romance] | ![sky-cinema-romance-hd] | ![sky-cinema-romance-hd-hz] | ![sky-cinema-romance-hz] |
 | ![sky-cinema-suspense] | ![sky-cinema-suspense-hd] | ![sky-cinema-suspense-hd-hz] | ![sky-cinema-suspense-hz] | ![sky-cinema-uno] | ![sky-cinema-uno-hd] |
 | ![sky-cinema-uno-hd-hz] | ![sky-cinema-uno-hz] | ![sky-cinema-uno-plus24] | ![sky-cinema-uno-plus24-hd] | ![sky-cinema-uno-plus24-hd-hz] | ![sky-cinema-uno-plus24-hz] |
-| ![sky-primafila] | ![sky-primafila-hd] | ![sky-sport] | ![sky-sport-24] | ![sky-sport-24-hd] | ![sky-sport-arena] |
-| ![sky-sport-arena-hd] | ![sky-sport-collection] | ![sky-sport-collection-hd] | ![sky-sport-f1] | ![sky-sport-f1-hd] | ![sky-sport-football] |
-| ![sky-sport-football-hd] | ![sky-sport-hd] | ![sky-sport-motogp] | ![sky-sport-motogp-hd] | ![sky-sport-nba] | ![sky-sport-nba-hd] |
-| ![sky-sport-serie-a] | ![sky-sport-serie-a-hd] | ![sky-sport-uno] | ![sky-sport-uno-hd] | ![sky-tg24] | ![sky-uno] |
-| ![sky-uno-hd] | ![sky-uno-plus] | ![sky-uno-plus-hd] | ![tci] | ![top-crime] | ![tv8] |
+| ![sky-documentaries] | ![sky-investigation] | ![sky-meteo-24] | ![sky-nature] | ![sky-primafila] | ![sky-primafila-hd] |
+| ![sky-serie] | ![sky-sport] | ![sky-sport-24] | ![sky-sport-24-hd] | ![sky-sport-arena] | ![sky-sport-arena-hd] |
+| ![sky-sport-collection] | ![sky-sport-collection-hd] | ![sky-sport-f1] | ![sky-sport-f1-hd] | ![sky-sport-football] | ![sky-sport-football-hd] |
+| ![sky-sport-hd] | ![sky-sport-motogp] | ![sky-sport-motogp-hd] | ![sky-sport-nba] | ![sky-sport-nba-hd] | ![sky-sport-serie-a] |
+| ![sky-sport-serie-a-hd] | ![sky-sport-uno] | ![sky-sport-uno-hd] | ![sky-tg24] | ![sky-uno] | ![sky-uno-hd] |
+| ![sky-uno-plus] | ![sky-uno-plus-hd] | ![super] | ![tci] | ![top-crime] | ![tv8] |
 | ![tv8-hd] |  |  |  |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
@@ -208,8 +203,13 @@ This mosaic view is only updated periodically.
 [sky-cinema-uno-plus24-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/hd/sky-cinema-uno-plus24-hd-it.png
 [sky-cinema-uno-plus24-hd-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/hd/sky-cinema-uno-plus24-hd-hz-it.png
 [sky-cinema-uno-plus24-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-cinema-uno-plus24-hz-it.png
+[sky-documentaries]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-documentaries-it.png
+[sky-investigation]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-investigation-it.png
+[sky-meteo-24]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-meteo-24-it.png
+[sky-nature]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-nature-it.png
 [sky-primafila]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-primafila-it.png
 [sky-primafila-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/hd/sky-primafila-hd-it.png
+[sky-serie]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-serie-it.png
 [sky-sport]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-sport-it.png
 [sky-sport-24]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-sport-24-it.png
 [sky-sport-24-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/hd/sky-sport-24-hd-it.png
@@ -235,6 +235,7 @@ This mosaic view is only updated periodically.
 [sky-uno-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/hd/sky-uno-hd-it.png
 [sky-uno-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-uno-plus-it.png
 [sky-uno-plus-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/hd/sky-uno-plus-hd-it.png
+[super]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/super-it.png
 [tci]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/tci-it.png
 [top-crime]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/top-crime-it.png
 [tv8]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/tv8-it.png
