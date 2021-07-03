@@ -6,8 +6,8 @@
 📐 The logos have a max-width of 512px and have been optimized for smallest file size  
 🖤 The logos are created specifically to work on dark backgrounds  
    
-💾 Combined file size = 1,9mb  |  📅 Last update: July 3 2021  
-🎨 __196 Logos total__  |  ✨ __80 HD Logos__
+💾 Combined file size = 2,0mb  |  📅 Last update: July 3 2021  
+🎨 __212 Logos total__  |  ✨ __92 HD Logos__
    
    
 *This mosaic view is only updated periodically.*  
@@ -38,13 +38,16 @@
 | ![sky-cinema-family-hz] | ![sky-cinema-hd] | ![sky-cinema-romance] | ![sky-cinema-romance-hd] | ![sky-cinema-romance-hd-hz] | ![sky-cinema-romance-hz] |
 | ![sky-cinema-suspense] | ![sky-cinema-suspense-hd] | ![sky-cinema-suspense-hd-hz] | ![sky-cinema-suspense-hz] | ![sky-cinema-uno] | ![sky-cinema-uno-hd] |
 | ![sky-cinema-uno-hd-hz] | ![sky-cinema-uno-hz] | ![sky-cinema-uno-plus24] | ![sky-cinema-uno-plus24-hd] | ![sky-cinema-uno-plus24-hd-hz] | ![sky-cinema-uno-plus24-hz] |
-| ![sky-documentaries] | ![sky-documentaries-plus] | ![sky-investigation] | ![sky-investigation-plus] | ![sky-meteo-24] | ![sky-nature] |
-| ![sky-primafila] | ![sky-primafila-hd] | ![sky-serie] | ![sky-serie-plus] | ![sky-sport] | ![sky-sport-24] |
-| ![sky-sport-24-hd] | ![sky-sport-arena] | ![sky-sport-arena-hd] | ![sky-sport-collection] | ![sky-sport-collection-hd] | ![sky-sport-f1] |
+| ![sky-documentaries] | ![sky-documentaries-hd] | ![sky-documentaries-plus] | ![sky-documentaries-plus-hd] | ![sky-investigation] | ![sky-investigation-hd] |
+| ![sky-investigation-plus] | ![sky-investigation-plus-hd] | ![sky-meteo-24] | ![sky-meteo-24-hd] | ![sky-nature] | ![sky-nature-hd] |
+| ![sky-primafila] | ![sky-primafila-hd] | ![sky-serie] | ![sky-serie-hd] | ![sky-serie-plus] | ![sky-serie-plus-hd] |
+| ![sky-sport] | ![sky-sport-24] | ![sky-sport-24-hd] | ![sky-sport-action] | ![sky-sport-action-hd] | ![sky-sport-arena] |
+| ![sky-sport-arena-hd] | ![sky-sport-calcio] | ![sky-sport-calcio-hd] | ![sky-sport-collection] | ![sky-sport-collection-hd] | ![sky-sport-f1] |
 | ![sky-sport-f1-hd] | ![sky-sport-football] | ![sky-sport-football-hd] | ![sky-sport-hd] | ![sky-sport-motogp] | ![sky-sport-motogp-hd] |
-| ![sky-sport-nba] | ![sky-sport-nba-hd] | ![sky-sport-serie-a] | ![sky-sport-serie-a-hd] | ![sky-sport-uno] | ![sky-sport-uno-hd] |
-| ![sky-tg24] | ![sky-uno] | ![sky-uno-hd] | ![sky-uno-plus] | ![sky-uno-plus-hd] | ![super] |
-| ![tci] | ![top-crime] | ![tv8] | ![tv8-hd] |  |  |
+| ![sky-sport-nba] | ![sky-sport-nba-hd] | ![sky-sport-serie-a] | ![sky-sport-serie-a-hd] | ![sky-sport-tennis] | ![sky-sport-tennis-hd] |
+| ![sky-sport-uno] | ![sky-sport-uno-hd] | ![sky-tg24] | ![sky-tg24-hd] | ![sky-tg24-primo-piano] | ![sky-uno] |
+| ![sky-uno-hd] | ![sky-uno-plus] | ![sky-uno-plus-hd] | ![super] | ![tci] | ![top-crime] |
+| ![tv8] | ![tv8-hd] |  |  |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [20]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/20-it.png
@@ -204,20 +207,32 @@
 [sky-cinema-uno-plus24-hd-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/hd/sky-cinema-uno-plus24-hd-hz-it.png
 [sky-cinema-uno-plus24-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-cinema-uno-plus24-hz-it.png
 [sky-documentaries]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-documentaries-it.png
+[sky-documentaries-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/hd/sky-documentaries-hd-it.png
 [sky-documentaries-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-documentaries-plus-it.png
+[sky-documentaries-plus-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/hd/sky-documentaries-plus-hd-it.png
 [sky-investigation]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-investigation-it.png
+[sky-investigation-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/hd/sky-investigation-hd-it.png
 [sky-investigation-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-investigation-plus-it.png
+[sky-investigation-plus-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/hd/sky-investigation-plus-hd-it.png
 [sky-meteo-24]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-meteo-24-it.png
+[sky-meteo-24-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/hd/sky-meteo-24-hd-it.png
 [sky-nature]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-nature-it.png
+[sky-nature-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/hd/sky-nature-hd-it.png
 [sky-primafila]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-primafila-it.png
 [sky-primafila-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/hd/sky-primafila-hd-it.png
 [sky-serie]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-serie-it.png
+[sky-serie-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/hd/sky-serie-hd-it.png
 [sky-serie-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-serie-plus-it.png
+[sky-serie-plus-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/hd/sky-serie-plus-hd-it.png
 [sky-sport]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-sport-it.png
 [sky-sport-24]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-sport-24-it.png
 [sky-sport-24-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/hd/sky-sport-24-hd-it.png
+[sky-sport-action]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-sport-action-it.png
+[sky-sport-action-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/hd/sky-sport-action-hd-it.png
 [sky-sport-arena]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-sport-arena-it.png
 [sky-sport-arena-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/hd/sky-sport-arena-hd-it.png
+[sky-sport-calcio]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-sport-calcio-it.png
+[sky-sport-calcio-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/hd/sky-sport-calcio-hd-it.png
 [sky-sport-collection]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-sport-collection-it.png
 [sky-sport-collection-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/hd/sky-sport-collection-hd-it.png
 [sky-sport-f1]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-sport-f1-it.png
@@ -231,9 +246,13 @@
 [sky-sport-nba-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/hd/sky-sport-nba-hd-it.png
 [sky-sport-serie-a]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-sport-serie-a-it.png
 [sky-sport-serie-a-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/hd/sky-sport-serie-a-hd-it.png
+[sky-sport-tennis]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-sport-tennis-it.png
+[sky-sport-tennis-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/hd/sky-sport-tennis-hd-it.png
 [sky-sport-uno]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-sport-uno-it.png
 [sky-sport-uno-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/hd/sky-sport-uno-hd-it.png
 [sky-tg24]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-tg24-it.png
+[sky-tg24-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/hd/sky-tg24-hd-it.png
+[sky-tg24-primo-piano]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-tg24-primo-piano-it.png
 [sky-uno]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-uno-it.png
 [sky-uno-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/hd/sky-uno-hd-it.png
 [sky-uno-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-uno-plus-it.png
