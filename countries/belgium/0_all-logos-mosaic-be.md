@@ -24,7 +24,7 @@
 | ![play7] | ![plug-rtl] | ![qmusic] | ![rtl-tvi] | ![studio-100-hits] | ![studio-100-tv] |
 | ![tf1] | ![tfx] | ![tipik] | ![tmc] | ![tv-limburg] | ![vedia] |
 | ![voo-sport-world-1] | ![voo-sport-world-2] | ![voo-sport-world-3] | ![voo-sport-world-4] | ![vtm] | ![vtm-gold] |
-| ![vtm-kids] | ![vtm2] | ![vtm3] | ![vtm4] | ![eclipse-tv] | ![canal-c] |
+| ![vtm-kids] | ![vtm2] | ![vtm3] | ![vtm4] | ![eclips-tv] | ![canal-c] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [13eme-rue]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/13eme-rue-be.png
@@ -104,6 +104,6 @@
 [vtm3]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/vtm3-be.png
 [vtm4]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/vtm4-be.png
 [vtm4]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/canal-c-be.png
-[vtm4]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/eclipse-tv-be.png
+[vtm4]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/eclips-tv-be.png
 
 [space]:https://github.com/Tapiosinn/tv-logos/blob/master/misc/%CE%A9/space-1500.png
