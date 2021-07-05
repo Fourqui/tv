@@ -6,8 +6,8 @@
 📐 The logos have a max-width of 512px and have been optimized for smallest file size  
 🖤 The logos are created specifically to work on dark backgrounds  
    
-💾 Combined file size = 0,5mb  |  📅 Last update: July 3 2021  
-🎨 __76 Logos total__
+💾 Combined file size = 0,5mb  |  📅 Last update: July 5 2021  
+🎨 __78 Logos total__
    
    
 *This mosaic view is only updated periodically.*  
@@ -103,7 +103,7 @@
 [vtm2]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/vtm2-be.png
 [vtm3]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/vtm3-be.png
 [vtm4]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/vtm4-be.png
-[vtm4]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/canal-c-be.png
-[vtm4]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/eclips-tv-be.png
+[canal-c]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/canal-c-be.png
+[eclips-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/eclips-tv-be.png
 
 [space]:https://github.com/Tapiosinn/tv-logos/blob/master/misc/%CE%A9/space-1500.png
