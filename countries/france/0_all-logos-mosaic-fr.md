@@ -6,8 +6,8 @@
 📐 The logos have a max-width of 512px and have been optimized for smallest file size  
 🖤 The logos are created specifically to work on dark backgrounds  
    
-💾 Combined file size = 0,4mb  |  📅 Last update: February 19 2021  
-🎨 __39 Logos total__  |  ✨ __2 HD Logos__
+💾 Combined file size = 0,4mb  |  📅 Last update: July 6 2021  
+🎨 __40 Logos total__  |  ✨ __2 HD Logos__
    
    
 *This mosaic view is only updated periodically.*  
@@ -18,7 +18,7 @@
 | ![france-5] | ![gulli] | ![histoire-tv] | ![lci] | ![m6] | ![rmc-decouverte] |
 | ![rmc-story] | ![rtl9] | ![rtl9-hd] | ![serie-club] | ![tcm-cinema] | ![tf1] |
 | ![tf1-hd] | ![tf1-plus] | ![tf1-series-films] | ![tfx] | ![tmc] | ![tmc-plus] |
-| ![tv-breizh] | ![ushuaia-tv] | ![w9] |  |  |  |
+| ![tv-breizh] | ![ushuaia-tv] | ![w9] | ![novelas-tv] |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [6ter]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/6ter-fr.png
@@ -60,5 +60,6 @@
 [tv-breizh]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/tv-breizh-fr.png
 [ushuaia-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/ushuaia-tv-fr.png
 [w9]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/w9-fr.png
+[novelas-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/novelas-tv-fr.png
 
 [space]:https://github.com/Tapiosinn/tv-logos/blob/master/misc/%CE%A9/space-1500.png
