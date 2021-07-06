@@ -6,8 +6,8 @@
 📐 The logos have a max-width of 512px and have been optimized for smallest file size  
 🖤 The logos are created specifically to work on dark backgrounds  
    
-💾 Combined file size = 3,0mb  |  📅 Last update: June 26 2021  
-🎨 __127 Logos total__  |  ✨ __17 HD Logos__
+💾 Combined file size = 3,0mb  |  📅 Last update: July 6 2021  
+🎨 __128 Logos total__  |  ✨ __17 HD Logos__
    
    
 *This mosaic view is only updated periodically.*  
@@ -33,7 +33,7 @@
 | ![paramount-channel-hd] | ![paramount-channel-light] | ![paramount-channel-light-hd] | ![press-tv] | ![ptv-world] | ![red-bull-tv] |
 | ![republic-bharat-tv] | ![rt-documentary] | ![rugby-pass-tv] | ![russia-today] | ![star] | ![the-word-network] |
 | ![tlc] | ![travel-channel] | ![tv5-monde] | ![tveernacional] | ![universal-tv] | ![wion] |
-| ![zoo-moo] |  |  |  |  |  |
+| ![zoo-moo] | ![jimjam] |  |  |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [360-tunebox]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/360-tunebox-int.png
@@ -163,5 +163,6 @@
 [universal-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/universal-tv-int.png
 [wion]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/wion-int.png
 [zoo-moo]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/zoo-moo-int.png
+[jimjam]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/jimjam-int.png
 
 [space]:https://github.com/Tapiosinn/tv-logos/blob/master/misc/%CE%A9/space-1500.png
