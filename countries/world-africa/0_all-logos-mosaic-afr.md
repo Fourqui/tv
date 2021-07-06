@@ -6,8 +6,8 @@
 📐 The logos have a max-width of 512px and have been optimized for smallest file size  
 🖤 The logos are created specifically to work on dark backgrounds  
    
-💾 Combined file size = 0,7mb  |  📅 Last update: June 25 2021  
-🎨 __19 Logos total__
+💾 Combined file size = 0,7mb  |  📅 Last update: July 6 2021  
+🎨 __20 Logos total__
    
    
 *This mosaic view is only updated periodically.*  
@@ -15,7 +15,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | ![africa-magic-urban] | ![africa-magic-yoruba] | ![celebration-tv] | ![channels-24] | ![channels] | ![curiosity-channel] |
 | ![curiosity-channel-hz] | ![dunamis-tv] | ![tbnica] | ![the-boxica] | ![the-boxica-hz] | ![travelxp] |
-| ![tvc-news] |  |  |  |  |  |
+| ![tvc-news] | ![novelas-tv] |  |  |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [africa-magic-epic]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-africa/africa-magic-epic-afr.png
@@ -37,5 +37,6 @@
 [the-boxica-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-africa/the-box-africa-hz-afr.png
 [travelxp]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-africa/travelxp-afr.png
 [tvc-news]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-africa/tvc-news-afr.png
+[novelas-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-africa/novelas-tv-afr.png
 
 [space]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/%CE%A9/space-1500.png
