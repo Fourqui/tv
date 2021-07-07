@@ -6,31 +6,45 @@
 📐 The logos have a max-width of 512px and have been optimized for smallest file size  
 🖤 The logos are created specifically to work on dark backgrounds  
    
-💾 Combined file size = 1,6mb  |  📅 Last update: June 30 2021  
-🎨 __79 Logos total__  |  ✨ __18 HD Logos__
+💾 Combined file size = 2,7mb  |  📅 Last update: July 7 2021  
+🎨 __130 Logos total__  |  ✨ __19 HD Logos__
    
    
 *This mosaic view is only updated periodically.*  
-| ![a-haber] | ![a2] | ![atv] | ![bein-sports-haber] | ![bein-sports-haber-hz] | ![beyaz-tv] |
+| ![24] | ![360] | ![a-haber] | ![a-para] | ![a-spor] | ![a2] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
+| ![akit-tv] | ![atv] | ![bbn-turk] | ![bein-sports-haber] | ![bein-sports-haber-hz] | ![beyaz-tv] |
 | ![bloomberg-ht] | ![cnn-turk] | ![cocuk-smart] | ![cocuk-smart-hd] | ![diyanet-tv] | ![dizi-smart-max] |
 | ![dizi-smart-max-hd] | ![dizi-smart-premium] | ![dizi-smart-premium-hd] | ![eba-tv-ilkokul] | ![eba-tv-lise] | ![eba-tv-ortaokul] |
-| ![fox] | ![haberturk] | ![ht-hayat] | ![kanal-7] | ![kanal-7-avrupa] | ![kanal-d] |
-| ![movie-smart-action] | ![movie-smart-action-hd] | ![movie-smart-classic] | ![movie-smart-classic-hd] | ![movie-smart-family] | ![movie-smart-family-hd] |
-| ![movie-smart-fest] | ![movie-smart-fest-hd] | ![movie-smart-gold] | ![movie-smart-gold-hd] | ![movie-smart-platin] | ![movie-smart-platin-hd] |
-| ![movie-smart-platin2] | ![movie-smart-platin2-hd] | ![movie-smart-premium] | ![movie-smart-premium-hd] | ![movie-smart-premium2] | ![movie-smart-premium2-hd] |
-| ![movie-smart-turk] | ![movie-smart-turk-hd] | ![ntv] | ![s-sport] | ![s-sport-2] | ![s-sport-plus] |
-| ![show] | ![show-max] | ![show-turk] | ![spor-smart-hd] | ![star-tv] | ![tbmm-tv] |
-| ![trt-1] | ![trt-1-hd] | ![trt-2] | ![trt-3] | ![trt-3-spor] | ![trt-4k] |
-| ![trt-arabi] | ![trt-avaz] | ![trt-belgesel] | ![trt-cocuk] | ![trt-haber] | ![trt-haber-hd] |
-| ![trt-kurdi] | ![trt-muzik] | ![trt-spor] | ![trt-spor-2] | ![trt-spor-hd] | ![trt-spor-y%C4%B1ld%C4%B1z] |
-| ![trt-turk] | ![trt-world] | ![trt-world-hd] | ![tv100] | ![tv8] | ![tv85] |
-| ![ulke-tv] |  |  |  |  |  |
+| ![ekoturk] | ![fenerbahce-tv] | ![filmbox] | ![filmbox-hd] | ![fox] | ![fox-crime] |
+| ![fx] | ![haber-global] | ![haberturk] | ![ht-hayat] | ![kanal-7] | ![kanal-7-avrupa] |
+| ![kanal-b] | ![kanal-d] | ![movie-smart-action] | ![movie-smart-action-hd] | ![movie-smart-classic] | ![movie-smart-classic-hd] |
+| ![movie-smart-family] | ![movie-smart-family-hd] | ![movie-smart-fest] | ![movie-smart-fest-hd] | ![movie-smart-gold] | ![movie-smart-gold-hd] |
+| ![movie-smart-platin] | ![movie-smart-platin-hd] | ![movie-smart-platin2] | ![movie-smart-platin2-hd] | ![movie-smart-premium] | ![movie-smart-premium-hd] |
+| ![movie-smart-premium2] | ![movie-smart-premium2-hd] | ![movie-smart-turk] | ![movie-smart-turk-hd] | ![ntv] | ![s-sport] |
+| ![s-sport-2] | ![s-sport-plus] | ![show] | ![show-max] | ![show-turk] | ![sinema-1001] |
+| ![sinema-1001-hz] | ![sinema-1002] | ![sinema-1002-hz] | ![sinema-aile] | ![sinema-aile-hz] | ![sinema-aile2] |
+| ![sinema-aile2-hz] | ![sinema-aksiyon] | ![sinema-aksiyon-hz] | ![sinema-aksiyon2] | ![sinema-aksiyon2-hz] | ![sinema-komedi] |
+| ![sinema-komedi-hz] | ![sinema-komedi2] | ![sinema-komedi2-hz] | ![sinema-tv] | ![sinema-tv-hz] | ![sinema-tv2] |
+| ![sinema-tv2-hz] | ![sinema-yerli] | ![sinema-yerli-hz] | ![sinema-yerli2] | ![sinema-yerli2-hz] | ![spor-smart-hd] |
+| ![sports-tv] | ![star-tv] | ![stingray-ambiance] | ![stingray-ambiance-4k] | ![tay-tv] | ![tbmm-tv] |
+| ![teve2] | ![tgrt-belgesel] | ![tgrt-haber] | ![trt-1] | ![trt-1-hd] | ![trt-2] |
+| ![trt-3] | ![trt-3-spor] | ![trt-4k] | ![trt-arabi] | ![trt-avaz] | ![trt-belgesel] |
+| ![trt-cocuk] | ![trt-haber] | ![trt-haber-hd] | ![trt-kurdi] | ![trt-muzik] | ![trt-spor] |
+| ![trt-spor-2] | ![trt-spor-hd] | ![trt-spor-yildiz] | ![trt-turk] | ![trt-world] | ![trt-world-hd] |
+| ![tv100] | ![tv4] | ![tv5] | ![tv8] | ![tv85] | ![tvnet] |
+| ![ucankus] | ![ulke-tv] | ![ulusal-tv] | ![vav-tv] |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
+[24]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/24-tr.png
+[360]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/360-tr.png
 [a-haber]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/a-haber-tr.png
+[a-para]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/a-para-tr.png
+[a-spor]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/a-spor-tr.png
 [a2]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/a2-tr.png
+[akit-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/akit-tv-tr.png
 [atv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/atv-tr.png
+[bbn-turk]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bbn-turk-tr.png
 [bein-sports-haber]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-sports-haber-tr.png
 [bein-sports-haber-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-sports-haber-hz-tr.png
 [beyaz-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/beyaz-tv-tr.png
@@ -46,11 +60,19 @@
 [eba-tv-ilkokul]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/eba-tv-ilkokul-tr.png
 [eba-tv-lise]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/eba-tv-lise-tr.png
 [eba-tv-ortaokul]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/eba-tv-ortaokul-tr.png
+[ekoturk]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/ekoturk-tr.png
+[fenerbahce-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/fenerbahce-tv-tr.png
+[filmbox]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/filmbox-tr.png
+[filmbox-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/filmbox-hd-tr.png
 [fox]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/fox-tr.png
+[fox-crime]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/fox-crime-tr.png
+[fx]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/fx-tr.png
+[haber-global]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/haber-global-tr.png
 [haberturk]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/haberturk-tr.png
 [ht-hayat]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/ht-hayat-tr.png
 [kanal-7]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/kanal-7-tr.png
 [kanal-7-avrupa]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/kanal-7-avrupa-tr.png
+[kanal-b]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/kanal-b-tr.png
 [kanal-d]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/kanal-d-tr.png
 [movie-smart-action]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/movie-smart-action-tr.png
 [movie-smart-action-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/movie-smart-action-hd-tr.png
@@ -79,9 +101,40 @@
 [show]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/show-tr.png
 [show-max]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/show-max-tr.png
 [show-turk]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/show-turk-tr.png
+[sinema-1001]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/sinema-1001-tr.png
+[sinema-1001-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/sinema-1001-hz-tr.png
+[sinema-1002]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/sinema-1002-tr.png
+[sinema-1002-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/sinema-1002-hz-tr.png
+[sinema-aile]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/sinema-aile-tr.png
+[sinema-aile-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/sinema-aile-hz-tr.png
+[sinema-aile2]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/sinema-aile2-tr.png
+[sinema-aile2-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/sinema-aile2-hz-tr.png
+[sinema-aksiyon]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/sinema-aksiyon-tr.png
+[sinema-aksiyon-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/sinema-aksiyon-hz-tr.png
+[sinema-aksiyon2]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/sinema-aksiyon2-tr.png
+[sinema-aksiyon2-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/sinema-aksiyon2-hz-tr.png
+[sinema-komedi]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/sinema-komedi-tr.png
+[sinema-komedi-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/sinema-komedi-hz-tr.png
+[sinema-komedi2]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/sinema-komedi2-tr.png
+[sinema-komedi2-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/sinema-komedi2-hz-tr.png
+[sinema-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/sinema-tv-tr.png
+[sinema-tv-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/sinema-tv-hz-tr.png
+[sinema-tv2]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/sinema-tv2-tr.png
+[sinema-tv2-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/sinema-tv2-hz-tr.png
+[sinema-yerli]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/sinema-yerli-tr.png
+[sinema-yerli-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/sinema-yerli-hz-tr.png
+[sinema-yerli2]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/sinema-yerli2-tr.png
+[sinema-yerli2-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/sinema-yerli2-hz-tr.png
 [spor-smart-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/spor-smart-hd-tr.png
+[sports-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/sports-tv-tr.png
 [star-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/star-tv-tr.png
+[stingray-ambiance]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/stingray-ambiance-tr.png
+[stingray-ambiance-4k]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/stingray-ambiance-4k-tr.png
+[tay-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/tay-tv-tr.png
 [tbmm-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/tbmm-tv-tr.png
+[teve2]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/teve2-tr.png
+[tgrt-belgesel]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/tgrt-belgesel-tr.png
+[tgrt-haber]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/tgrt-haber-tr.png
 [trt-1]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/trt-1-tr.png
 [trt-1-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/trt-1-hd-tr.png
 [trt-2]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/trt-2-tr.png
@@ -99,13 +152,19 @@
 [trt-spor]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/trt-spor-tr.png
 [trt-spor-2]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/trt-spor-2-tr.png
 [trt-spor-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/trt-spor-hd-tr.png
-[trt-spor-y%C4%B1ld%C4%B1z]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/trt-spor-y%C4%B1ld%C4%B1z-tr.png
+[trt-spor-yildiz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/trt-spor-yildiz-tr.png
 [trt-turk]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/trt-turk-tr.png
 [trt-world]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/trt-world-tr.png
 [trt-world-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/trt-world-hd-tr.png
 [tv100]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/tv100-tr.png
+[tv4]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/tv4-tr.png
+[tv5]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/tv5-tr.png
 [tv8]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/tv8-tr.png
 [tv85]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/tv85-tr.png
-[ulke-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/ulke-tv-tr-tr.png
+[tvnet]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/tvnet-tr.png
+[ucankus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/ucankus-tr.png
+[ulke-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/ulke-tv-tr.png
+[ulusal-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/ulusal-tv-tr.png
+[vav-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/vav-tv-tr.png
 
 [space]:https://github.com/Tapiosinn/tv-logos/blob/master/misc/%CE%A9/space-1500.png
