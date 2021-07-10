@@ -6,8 +6,8 @@
 📐 The logos have a max-width of 512px and have been optimized for smallest file size  
 🖤 The logos are created specifically to work on dark backgrounds  
    
-💾 Combined file size = 5,0mb  |  📅 Last update: June 27 2021  
-🎨 __314 Logos total__  |  ✨ __91 HD Logos__
+💾 Combined file size = 5,0mb  |  📅 Last update: July 10 2021  
+🎨 __316 Logos total__  |  ✨ __92 HD Logos__
    
    
 *This mosaic view is only updated periodically.*  
@@ -64,7 +64,7 @@
 | ![sky-racing] | ![sky-racing-1] | ![sky-racing-2] | ![sky-thoroughbred-central] | ![sky-thoroughbred-central-hd] | ![smooth-arts] |
 | ![smooth-arts-hd] | ![spike] | ![spree-tv] | ![tlc] | ![tlc-plus-2] | ![tvsn] |
 | ![universal-tv] | ![universal-tv-hd] | ![universal-tv-plus-2] | ![west-tv] | ![win] | ![win-bold] |
-| ![win-hd] | ![win-peach] |  |  |  |  |
+| ![win-hd] | ![win-peach] | ![90s-classics] | ![90s-classics-hd] |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [10-bold]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/10-bold-au.png
@@ -112,7 +112,7 @@
 [bbc-uktv-plus-2]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/bbc-uktv-plus-2-au.png
 [ben-10-pop-up]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/ben-10-pop-up-au.png
 [boomerang]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/boomerang-au.png
-[boomerang-looney-tunes]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/boomerang-looney-tunes-au.png
+[boomerang-looney-tunes]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/boomerang-looney-tunes-au.png
 [boomerang-scooby-doo]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/boomerang-scooby-doo-au.png
 [boxsets]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/boxsets-au.png
 [boxsets-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/boxsets-hd-au.png
@@ -381,5 +381,7 @@
 [win-bold]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/win-bold-au.png
 [win-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/win-hd-au.png
 [win-peach]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/win-peach-au.png
+[90s-classics]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-90s-classics-au.png
+[90s-classics-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-90s-classics-hd-au.png
 
 [space]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/%CE%A9/space-1500.png
