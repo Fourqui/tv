@@ -5,14 +5,14 @@
 
  
 This list is WIP
-| !🇦🇺 [Australia]  | !🇦🇹 [Austria]  | !🇧🇪 [Belgium]  | !🇨🇦 [Canada]  | !🌎 [Caribbean] | !🇭🇷 [Croatia]  |
+|  [Space] |  [Space] |  [Space] |  [Space] |  [Space] |  [Space] |
 |---|---|---|---|---|---|
-| !🇩🇰 [Denmark]  | !🇫🇮 [Finland]  | !🇫🇷 [France]  | !🇩🇪 [Germany]  | !🇮🇸 [Iceland]  | !🌍 [International] |
-| !🇮🇹 [Italy]  | !🇲🇾 [Malaysia]  | !🇲🇹 [Malta]  | !🇲🇽 [Mexico]  | !🇳🇱 [Netherlands]  | !🇳🇿 [New-Zealand]  |
-| !🌍 [Nordic] | !🇳🇴 [Norway]  | !🇵🇱 [Poland]  | !🇵🇹 [Portugal]  | !🇷🇺 [Russia]  | !🇿🇦 [South-Africa]  |
-| !🇪🇸 [Spain]  | !🇸🇪 [Sweden]  | !🇨🇭 [Switzerland]  | !🇹🇷 [Turkey]  | !🇬🇧 [United-Kingdom]  | !🇺🇸 [United-States]  |
-| !🌍 [World-Africa] | !🌏 [World-Asia] | !🌍 [World-Europe] | !🌎 [World-Latin-America] | !🌏 [World-Middle-East] | !🌏 [World-Oceania] |
-| ! [Space] | ! [Space] | ! [Space] | ! [Space] | ! [Space] | ! [Space] |
+| 🇦🇺 [Australia]  | 🇦🇹 [Austria]  | 🇧🇪 [Belgium]  | 🇨🇦 [Canada]  | 🌎 [Caribbean] | 🇭🇷 [Croatia]  |
+| 🇩🇰 [Denmark]  | 🇫🇮 [Finland]  | 🇫🇷 [France]  | 🇩🇪 [Germany]  | 🇮🇸 [Iceland]  | 🌍 [International] |
+| 🇮🇹 [Italy]  | 🇲🇾 [Malaysia]  | 🇲🇹 [Malta]  | 🇲🇽 [Mexico]  | 🇳🇱 [Netherlands]  | 🇳🇿 [New-Zealand]  |
+| 🌍 [Nordic] | 🇳🇴 [Norway]  | 🇵🇱 [Poland]  | 🇵🇹 [Portugal]  | 🇷🇺 [Russia]  | 🇿🇦 [South-Africa]  |
+| 🇪🇸 [Spain]  | 🇸🇪 [Sweden]  | 🇨🇭 [Switzerland]  | 🇹🇷 [Turkey]  | 🇬🇧 [United-Kingdom]  | 🇺🇸 [United-States]  |
+| 🌍 [World-Africa] | 🌏 [World-Asia] | 🌍 [World-Europe] | 🌎 [World-Latin-America] | 🌏 [World-Middle-East] | 🌏 [World-Oceania] |
 
 [Australia]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/australia "Australia"
 [Austria]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/austria "Austria"
