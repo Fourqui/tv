@@ -8,66 +8,58 @@ Here you will find free tv logos from around the world in good high-res quality 
   
 
 
-🇺🇸 Bally Sports
+🌍 Countries
 ===============
-I have created the Bally Sports logos. I'm not sure if I will also make the horizontal version of them, let me know if you would like me to create them. Click on each logo to open it and get a working png link.
-**UPDATE: I have now added the Plus versions.**
+Click on a country to go to its directory. From there you can click the mosaic file at top to see the logos rendered.
    
 
-*See the full [mosaic list view of US channels][] in the United States folder*  
-| ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| ![bally-sports] | ![bally-sports-arizona] | ![bally-sports-arizona-extra] | ![bally-sports-arizona-plus] | ![bally-sports-detroit] | ![bally-sports-detroit-plus] |
-| ![bally-sports-florida] | ![bally-sports-florida-plus] | ![bally-sports-great-lakes] | ![bally-sports-indiana] | ![bally-sports-indiana-plus] | ![bally-sports-kansas-city] |
-| ![bally-sports-kansas-city-plus] | ![bally-sports-midwest] | ![bally-sports-midwest-plus] | ![bally-sports-new-orleans] | ![bally-sports-north] | ![bally-sports-north-extra] |
-| ![bally-sports-north-plus] | ![bally-sports-ohio] | ![bally-sports-ohio-plus] | ![bally-sports-oklahoma] | ![bally-sports-oklahoma-plus] | ![bally-sports-san-diego] |
-| ![bally-sports-san-diego-plus] | ![bally-sports-socal] | ![bally-sports-socal-plus] | ![bally-sports-south] | ![bally-sports-south-plus] | ![bally-sports-southeast] |
-| ![bally-sports-southeast-plus] | ![bally-sports-southwest] | ![bally-sports-southwest-plus] | ![bally-sports-sun] | ![bally-sports-sun-plus] | ![bally-sports-west] |
-| ![bally-sports-west-plus] | ![bally-sports-winsconsin] | ![bally-sports-wisconsin-plus] |  |  |  | 
+|  ![Space] |  ![Space] |  ![Space] |  ![Space] |  ![Space] |  ![Space] |
+|---|---|---|---|---|---|
+| 🇦🇺 [Australia]  | 🇦🇹 [Austria]  | 🇧🇪 [Belgium]  | 🇨🇦 [Canada]  | 🌎 [Caribbean] | 🇭🇷 [Croatia]  |
+| 🇩🇰 [Denmark]  | 🇫🇮 [Finland]  | 🇫🇷 [France]  | 🇩🇪 [Germany]  | 🇮🇸 [Iceland]  | 🌍 [International] |
+| 🇮🇹 [Italy]  | 🇲🇾 [Malaysia]  | 🇲🇹 [Malta]  | 🇲🇽 [Mexico]  | 🇳🇱 [Netherlands]  | 🇳🇿 [New-Zealand]  |
+| 🌍 [Nordic] | 🇳🇴 [Norway]  | 🇵🇱 [Poland]  | 🇵🇹 [Portugal]  | 🇷🇺 [Russia]  | 🇿🇦 [South-Africa]  |
+| 🇪🇸 [Spain]  | 🇸🇪 [Sweden]  | 🇨🇭 [Switzerland]  | 🇹🇷 [Turkey]  | 🇬🇧 [United-Kingdom]  | 🇺🇸 [United-States]  |
+| 🌍 [World-Africa] | 🌏 [World-Asia] | 🌍 [World-Europe] | 🌎 [World-Latin-America] | 🌏 [World-Middle-East] | 🌏 [World-Oceania] |
 
-[bally-sports]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-us.png
-[bally-sports-arizona]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-arizona-us.png
-[bally-sports-arizona-extra]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-arizona-extra-us.png
-[bally-sports-arizona-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-arizona-plus-us.png
-[bally-sports-detroit]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-detroit-us.png
-[bally-sports-detroit-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-detroit-plus-us.png
-[bally-sports-florida]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-florida-us.png
-[bally-sports-florida-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-florida-plus-us.png
-[bally-sports-great-lakes]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-great-lakes-us.png
-[bally-sports-indiana]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-indiana-us.png
-[bally-sports-indiana-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-indiana-plus-us.png
-[bally-sports-kansas-city]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-kansas-city-us.png
-[bally-sports-kansas-city-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-kansas-city-plus-us.png
-[bally-sports-midwest]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-midwest-us.png
-[bally-sports-midwest-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-midwest-plus-us.png
-[bally-sports-new-orleans]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-new-orleans-us.png
-[bally-sports-north]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-north-us.png
-[bally-sports-north-extra]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-north-extra-us.png
-[bally-sports-north-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-north-plus-us.png
-[bally-sports-ohio]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-ohio-us.png
-[bally-sports-ohio-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-ohio-plus-us.png
-[bally-sports-oklahoma]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-oklahoma-us.png
-[bally-sports-oklahoma-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-oklahoma-plus-us.png
-[bally-sports-san-diego]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-san-diego-us.png
-[bally-sports-san-diego-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-san-diego-plus-us.png
-[bally-sports-socal]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-socal-us.png
-[bally-sports-socal-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-socal-plus-us.png
-[bally-sports-south]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-south-us.png
-[bally-sports-south-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-south-plus-us.png
-[bally-sports-southeast]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-southeast-us.png
-[bally-sports-southeast-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-southeast-plus-us.png
-[bally-sports-southwest]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-southwest-us.png
-[bally-sports-southwest-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-southwest-plus-us.png
-[bally-sports-sun]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-sun-us.png
-[bally-sports-sun-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-sun-plus-us.png
-[bally-sports-west]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-west-us.png
-[bally-sports-west-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-west-plus-us.png
-[bally-sports-winsconsin]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-winsconsin-us.png
-[bally-sports-wisconsin-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-wisconsin-plus-us.png
+[Australia]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/australia "Australia"
+[Austria]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/austria "Austria"
+[Belgium]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/belgium "Belgium"
+[Canada]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/canada "Canada"
+[Caribbean]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/caribbean "Caribbean"
+[Croatia]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/croatia "Croatia"
+[Denmark]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/nordic/denmark "Denmark"
+[Finland]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/nordic/finland "Finland"
+[France]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/france "France"
+[Germany]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany "Germany"
+[Iceland]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/nordic/iceland "Iceland"
+[International]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/international "International"
+[Italy]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/italy "Italy"
+[Malaysia]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/malaysia "Malaysia"
+[Malta]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/malta "Malta"
+[Mexico]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/mexico "Mexico"
+[Netherlands]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/netherlands "Netherlands"
+[New-Zealand]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/new-zealand "New-Zealand"
+[Nordic]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/nordic "Nordic"
+[Norway]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/nordic/norway "Norway"
+[Poland]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/poland "Poland"
+[Portugal]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/portugal "Portugal"
+[Russia]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/russia "Russia"
+[South-Africa]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/south-africa "South-Africa"
+[Spain]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain "Spain"
+[Sweden]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/nordic/sweden "Sweden"
+[Switzerland]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/switzerland "Switzerland"
+[Turkey]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/turkey "Turkey"
+[United-Kingdom]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom "United-Kingdom"
+[United-States]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/United-states "United-States"
+[World-Africa]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/world-africa "World-Africa"
+[World-Asia]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/world-asia "World-Asia"
+[World-Europe]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/world-europe "World-Europe"
+[World-Latin-America]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/world-latin-america "World-Latin-America"
+[World-Middle-East]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/world-middle-east "World-Middle-East"
+[World-Oceania]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/world-oceania "World-Oceania"
 
 [space]:https://github.com/Tapiosinn/tv-logos/blob/master/misc/%CE%A9/space-1500.png
-
-[mosaic list view of US channels]: https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/0_all-logos-mosaic-us.md "mosaic list view of US channels"
 
   
  
