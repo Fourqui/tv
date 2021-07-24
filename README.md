@@ -6,9 +6,10 @@ Contact: tapio.sinnertwin(at)gmail.com - I will try my best to reply within 24hr
 
 Here you will find free tv logos from around the world in good high-res quality and suitable for dark backgrounds.
   
+⭐️ *Update, July 24th 2021.*
+I'm now at 5572 logos! ⭐️
 
-
-## Support me to continue this project
+## 💛 Support me to continue this project
 
 If you want to support me continuing the work, you can donate by clicking the donate button.
 Creating the logos and maintaining them and the github takes quite the time and I would like to put in more work on this project so any donation helps!
@@ -17,7 +18,7 @@ Creating the logos and maintaining them and the github takes quite the time and 
 
 Or support me by clicking the sponsor button here on Github.
 
-<a href="https://flattr.com/@Tapiosi"><img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/sponsor-button.png" width="75px"></a>
+<a href="https://flattr.com/@Tapiosi"><img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/sponsor-button.png" width="150px"></a>
   
 
 
@@ -82,19 +83,16 @@ I have moved the VOD logos to <a href="https://github.com/Tapiosinn/tv-logos/tre
 If you were directly linking to them, all you have to do is replace this string -> '.../countries/united-states/vod/' with this one -> '.../misc/vod/'
 
 ## Resize and optimize
-I've started the work on resizing all the logos down to 512px and optimizing them. This will make them quicker to load and has a smaller filesize. All new logos I upload will be 512px. You can find the older bigger version of each logo in its history or contact me if you prefer a specific logo to be larger.
+I've started the work on resizing all the logos down to 512px and optimizing them. This will make them quicker to load and has a smaller filesize. All new logos I upload will be 512px. You can find the older bigger version of each logo in each files history or contact me if you prefer a specific logo to be larger.
   
 
 Important note: Most of my logos only work on dark background! Most tv apps and guides have a dark user interface.
 <img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/logoset_demo-2.jpg" width="100%">
 
 ## About the project
-The logos are adjusted to work on a dark background. Some of them are not suitable for light backgrounds. Since the Git interface is white you might think the logo is not loading but it is, just copy the **RAW** link by clicking the download button and use that URL <a href="https://github.com/Tapiosinn/tv-logos/blob/master/how-to.md">CLICK HERE for logo url help-guide.</a> I recommend getting a browser extension that changes Git to dark.
+The logos are adjusted to work on a dark background. Some of them are not suitable for light backgrounds. Since the Git interface is white you might think the logo is not loading but it is, just copy the **RAW** link by clicking the download button and use that URL <a href="https://github.com/Tapiosinn/tv-logos/blob/master/how-to.md">CLICK HERE for logo url help-guide.</a> I recommend getting a browser extension that changes Git to dark. ***Update: Git has now implemented dark mode.***
 
 Get GitHub Dark Theme for <a href="https://chrome.google.com/webstore/detail/github-dark-theme/odkdlljoangmamjilkamahebpkgpeacp">CHROME</a> or <a href="https://addons.mozilla.org/en-US/firefox/addon/github-dark-theme/">FIREFOX</a>
-
-*Update, june 26th 2020.*
-I'm close to 3000 logos! I've started adding logos from non-english speaking countries.
 
 Here's a preview of some of the logos on a dark background(not a real software):
 <img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/contrastDemo2.jpg" width="100%">
@@ -110,7 +108,7 @@ Donaters can jump in line and request missing logos for me to do as soon as I ca
 
 Or support me by clicking the sponsor button here on Github.
 
-<a href="https://flattr.com/@Tapiosi"><img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/sponsor-button.png" width="75px"></a>
+<a href="https://flattr.com/@Tapiosi"><img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/sponsor-button.png" width="150px"></a>
 
 - Donators get a channel logo request. I also take requests for custom logos or logos for a light background.
 
@@ -118,25 +116,25 @@ Or support me by clicking the sponsor button here on Github.
 
 - All the logos come in PNG format and work perfectly on dark backgrounds.
 
-- Most of the logos will be between 512px - 1024px in width. Please contact me if you need a specific logo in specific/larger resolution.
+- The logos are 512px in width. Please contact me if you need a specific logo in a specific resolution.
 
-- I also provide logos for US local networks that can be hard to find. In many cases I have to recreate them.
+- I also provide logos for US local networks that can be hard to find.
 
-- For a donation I can create a hard-to-find logo or skip the queue for a specific country/network of your own choice and provide the logo's in high quality, pm for more info.
+- For a donation I can create a hard-to-find logo or skip the queue for a specific country/network of your own choice and provide the logo's in high quality, contact me for more info.
 
 - The list is free for personal use. Please reference my work for any re-distribution. It's forbidden to sell the logos to 3rd party or use them in any illegitimate way. I do not take responsibility for what you do with the logos.
 
-- I do not own the logos. All the logos in the project do not have copyright on them but instead they are trademarked and with Creative Commons ShareAlike licenses. PM me if you wish to remove/change a logo you own or submit your logo.
+- I do not own the logos. All the logos in the project do not have copyright on them but instead they are trademarked and with Creative Commons ShareAlike licenses. PM me if you wish to remove/change a logo you own or submit your own logo.
 
 - At some point in the future I plan to upload logos in SVG. This is not high priority right now.
 
-- You can link directly to the URL of any logo but I do not take any responsibility if links are broken. If you are having issues with the logos url's then send me PM.
+- You can link directly to the RAW URL of any logo but I do not take any responsibility if links are broken. If you are having issues with the logos url's then contact me.
 
-- If a channel changes its logo or rebrands, I will replace the original logo, if you are using direct link then the logo will update for you automatically.
+- If a channel changes its logo or rebrands, I will replace the original logo, if you are using direct link then the logo will update for you automatically. It can take some time for some devices/software to update the logo, you might need to restart/clear cache.
 
 - If you would like to be able to link the logos to a service you provide, for example a website/service/app then please contact me first.
 
-- Did you discover a mistake? Or is something not like it should be? Then please let me know by sending me a message/email.
+- Did you discover a mistake? Or is something not like it should be? Then please let me know by sending me a message/email at tapio.sinnertwin(at)gmail.com
  
  
  
@@ -146,21 +144,21 @@ Filenames are all lowercase and start with channel name and then number if appli
 
 Examples: **abc-7-koat-us.png | discovery-channel-us.png | syfy-br.png | fox-crime-it.png | kanal-5-se.png**
 
-Plus channels are identified with "plus", example: **challenge-plus-uk.png**
+Time delay channels are identified with "plus", example: **challenge-plus-uk.png**
 For Australia the +2 channels are **fox-hits-plus-2-au.png**
 
 If ampersand(&) is present in channel name then it will be replaced with "and", example: **a-and-e-us.png**
 
-For channels that dont authenticate with a network affiliate or Owned-and-operated station then I will use the city/county/state.
+For channels that dont authenticate with a network affiliate or Owned-and-operated station then I will use the call sign and/or city/region.
 
 Example: **7-news-miami-wsvn-us.png | 7-news-boston-whdh-us.png**
 
-**Be aware of the dash when searching for a logo in a long list of channels, include it in your search.** 
+**Be aware of the dash when searching for a logo in a long list of channels, include it in your search. You can also write your search string without the dashes and spaces, it might give better results** 
 
-Example: **channel-4** instead of **channel 4**.
+Example: **channel-4** instead of **channel 4, or just channel4**
 
 A horizontal version of a logo will have hz in its name if there's a regular version also. 
-Example: bbc-world-news-hz-uk.png.
+Example: **bbc-world-news-hz-uk.png**
 
 This project is possible thanks to Creative Commons ShareAlike licenses, CC BY-SA and CC BY-NC-SA.
 By using the logos you have to agree with the following: The logo you are about to use is the intellectual property of the copyright, trademark holder and is offered to you as a convenience for lawful use.
