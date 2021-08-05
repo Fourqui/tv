@@ -6,8 +6,8 @@
 📐 The logos have a max-width of 512px and have been optimized for smallest file size  
 🖤 The logos are created specifically to work on dark backgrounds  
    
-💾 Combined file size = 5,0mb  |  📅 Last update: July 10 2021  
-🎨 __316 Logos total__  |  ✨ __92 HD Logos__
+💾 Combined file size = 5,0mb  |  📅 Last update: August 5 2021  
+🎨 __320 Logos total__  |  ✨ __94 HD Logos__
    
    
 *This mosaic view is only updated periodically.*  
@@ -64,7 +64,8 @@
 | ![sky-racing] | ![sky-racing-1] | ![sky-racing-2] | ![sky-thoroughbred-central] | ![sky-thoroughbred-central-hd] | ![smooth-arts] |
 | ![smooth-arts-hd] | ![spike] | ![spree-tv] | ![tlc] | ![tlc-plus-2] | ![tvsn] |
 | ![universal-tv] | ![universal-tv-hd] | ![universal-tv-plus-2] | ![west-tv] | ![win] | ![win-bold] |
-| ![win-hd] | ![win-peach] | ![90s-classics] | ![90s-classics-hd] |  |  |
+| ![win-hd] | ![win-peach] | ![90s-classics] | ![90s-classics-hd] | ![rom-coms] | ![rom-coms-hd] |
+| ![best-directors] | ![best-directors-hd] |  |  |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [10-bold]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/10-bold-au.png
@@ -383,5 +384,9 @@
 [win-peach]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/win-peach-au.png
 [90s-classics]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-90s-classics-au.png
 [90s-classics-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-90s-classics-hd-au.png
+[rom-coms]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-rom-coms-au.png
+[rom-coms-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-rom-coms-hd-au.png
+[best-directors]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-best-directors-au.png
+[best-directors-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-best-directors-hd-au.png
 
 [space]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/%CE%A9/space-1500.png
