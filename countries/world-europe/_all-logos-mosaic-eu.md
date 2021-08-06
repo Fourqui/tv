@@ -6,8 +6,8 @@
 📐 The logos have a max-width of 512px and have been optimized for smallest file size  
 🖤 The logos are created specifically to work on dark backgrounds  
    
-💾 Combined file size = 0,4mb  |  📅 Last update: July 7 2021  
-🎨 __33 Logos total__  |  ✨ __2 HD Logos__
+💾 Combined file size = 0,4mb  |  📅 Last update: August 6 2021  
+🎨 __34 Logos total__  |  ✨ __2 HD Logos__
    
    
 *This mosaic view is only updated periodically.*  
@@ -17,7 +17,7 @@
 | ![arena-sport/arena-sport-4] | ![arena-sport/arena-sport-4-icon] | ![arena-sport/arena-sport-5] | ![arena-sport/arena-sport-5-icon] | ![arena-sport/arena-sport-6] | ![arena-sport/arena-sport-6-icon] |
 | ![arena-sport/arena-sport-7] | ![arena-sport/arena-sport-7-icon] | ![arena-sport/arena-sport-8] | ![arena-sport/arena-sport-8-icon] | ![arena-sport/arena-sport-9] | ![arena-sport/arena-sport-9-icon] |
 | ![brazzers-tvrope] | ![cnbc] | ![duck-tv] | ![minimax] | ![private-hd] | ![redlight-hd] |
-| ![venus] | ![museum] | ![museum-4k] |  |  |  |
+| ![venus] | ![museum] | ![museum-4k] | ![mtv-00s] |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [arena-sport/arena-esport]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-europe/arena-sport/arena-esport-eu.png
@@ -53,5 +53,6 @@
 [venus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-europe/venus-eu.png
 [museum]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-europe/museum-eu.png
 [museum-4k]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-europe/museum-4k-eu.png
+[mtv-00s]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-europe/mtv-00s-eu.png
 
 [space]:https://github.com/Tapiosinn/tv-logos/blob/master/misc/%CE%A9/space-1500.png
