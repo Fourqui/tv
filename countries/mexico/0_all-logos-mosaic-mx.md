@@ -17,7 +17,7 @@
 | ![de-pelicula-clasico] | ![de-pelicula-plus] | ![distrito-comedia] | ![foro-tv] | ![golden] | ![golden-edge] |
 | ![golden-plus] | ![imagen-television] | ![imagen-television-hz] | ![las-estrellas] | ![multimedios] | ![nueve] |
 | ![telehit] | ![telehit-plus] | ![telehit-urbano] | ![tln] | ![tlnovelas] | ![tudn] |
-| ![unicable] | ![zzz-00032] | ![zzz-00033] | ![zzz-00034] | ![zzz-00035] | ![zzz-00036] |
+| ![unicable] |  |  |  |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [a-mas]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/mexico/a-mas-mx.png
