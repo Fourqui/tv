@@ -6,8 +6,8 @@ Contact: tapio.sinnertwin(at)gmail.com - I will try my best to reply within 24hr
 
 Here you will find free tv logos from around the world in good high-res quality and suitable for dark backgrounds.
   
-⭐️ *Update, August 4th 2021.*
-I'm now at ~5900 logos! ⭐️
+
+### ⭐️ I'm now at 6045 logos! *(August 7th 2021)*
 
 ## 💛 Support me to continue this project
 
