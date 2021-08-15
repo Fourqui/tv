@@ -27,7 +27,7 @@ Or support me by clicking the sponsor button here on Github.
 Click on a country to go to its directory. From there you can click the mosaic file at top to see the logos rendered.
    
 
-|  [Space] |  [Space] |  [Space] |  [Space] |  [Space] |  [Space] |
+|  ![Space] |  ![Space] |  ![Space] |  ![Space] |  ![Space] |  ![Space] |
 |---|---|---|---|---|---|
 | 🇦🇺 [Australia]  | 🇦🇹 [Austria]  | 🇧🇪 [Belgium]  | 🇨🇦 [Canada]  | 🌎 [Caribbean] | 🇭🇷 [Croatia]  |
 | 🇩🇰 [Denmark]  | 🇫🇮 [Finland]  | 🇫🇷 [France]  | 🇩🇪 [Germany]  | 🇭🇰 [Hong-Kong]  | 🇮🇸 [Iceland]  |
