@@ -6,28 +6,31 @@
 📐 The logos have a max-width of 512px and have been optimized for smallest file size  
 🖤 The logos are created specifically to work on dark backgrounds  
    
-💾 Combined file size = 1,0mb  |  📅 Last update: August 15 2021  
-🎨 __91 Logos total__
+💾 Combined file size = 1,4mb  |  📅 Last update: August 17 2021  
+🎨 __112 Logos total__  |  ✨ __6 HD Logos__
    
    
 *This mosaic view is only updated periodically.*  
 | ![animal-planet] | ![animax] | ![asian-food-network] | ![axn] | ![bbc-lifestyle] | ![blue-ant-entertainment] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ![channel-adult] | ![channel-v-international] | ![cinemax] | ![cna-channel-news-asia] | ![cti-asia-channel] | ![da-vinci] |
+| ![blue-ant-extreme] | ![celestial-classic-movies] | ![celestial-movies] | ![channel-adult] | ![channel-v-international] | ![chk] |
+| ![chk-hd] | ![chtv] | ![cinemax] | ![cna-channel-news-asia] | ![cti-asia-channel] | ![da-vinci] |
 | ![discovery-asia] | ![dreamworks-channel] | ![ettv-asia-channel] | ![ettv-asia-news] | ![hbo] | ![hbo-family] |
-| ![hbo-hits] | ![hbo-signature] | ![hkibc-hong-kong-international-business-channel] | ![hks-tv] | ![hong-kong-open-tv] | ![i-cable-finance-info-channel] |
-| ![i-cable-live-news-channel] | ![i-cable-news-channel] | ![ice-fire] | ![mastv] | ![mmov-concert-mv] | ![movie-movie] |
-| ![now-668] | ![now-baogu-movies] | ![now-bnc] | ![now-chinese-drama-channel] | ![now-data] | ![now-direct] |
-| ![now-drama-channel] | ![now-golf] | ![now-golf-2] | ![now-golf-3] | ![now-jelli] | ![now-news] |
-| ![now-sports] | ![now-sports-1] | ![now-sports-2] | ![now-sports-3] | ![now-sports-4] | ![now-sports-4k] |
-| ![now-sports-5] | ![now-sports-6] | ![now-sports-7] | ![now-sports-plus] | ![now-sports-premier-league-1] | ![now-sports-premier-league-2] |
-| ![now-sports-premier-league-3] | ![now-sports-premier-league-4] | ![now-sports-premier-league-5] | ![now-sports-premier-league-6] | ![now-sports-premier-league-tv] | ![now-sports-prime] |
-| ![pearl-river-channel] | ![phoenix-channel] | ![phoenix-chinese-channel] | ![phoenix-infonews-channel] | ![phoenix-movies-channel] | ![rthk-tv-31] |
-| ![rthk-tv-32] | ![rthk-tv-33] | ![rugby-pass-tv] | ![sansha-tv] | ![shenzhen-tv] | ![southern-television] |
-| ![star-chinese-channel] | ![star-chinese-movies] | ![star-chinese-movies-legend] | ![thrill] | ![tvb-finance-and-information-channel] | ![tvb-j2] |
-| ![tvb-jade] | ![tvb-news-channel] | ![tvb-pearl] | ![tvb-xing-he] | ![tvbs-asia] | ![tvn] |
-| ![universal-television] | ![viu-tv] | ![viu-tv-six] | ![warner-tv] | ![watch-n-learn] | ![yicai-tv] |
-| ![zhejiang-television] |  |  |  |  |  |
+| ![hbo-hits] | ![hbo-signature] | ![hkibc-hong-kong-international-business-channel] | ![hks-tv] | ![hong-kong-open-tv] | ![i-cable-family-entertainment-channel] |
+| ![i-cable-family-entertainment-channel-hd] | ![i-cable-finance-info-channel] | ![i-cable-live-news-channel] | ![i-cable-movies] | ![i-cable-movies-hd] | ![i-cable-news-channel] |
+| ![i-cable-sports-plus-1] | ![i-cable-sports-plus-1-hd] | ![i-cable-sports-plus-2] | ![i-cable-sports-plus-2-hd] | ![i-cable-sports-plus-3] | ![i-cable-sports-plus-3-hd] |
+| ![ice-fire] | ![kix] | ![mastv] | ![matv-movie-channel] | ![mihk-tv] | ![mmov-concert-mv] |
+| ![movie-movie] | ![now-668] | ![now-baogu-movies] | ![now-bnc] | ![now-chinese-drama-channel] | ![now-data] |
+| ![now-direct] | ![now-drama-channel] | ![now-golf] | ![now-golf-2] | ![now-golf-3] | ![now-jelli] |
+| ![now-news] | ![now-sports] | ![now-sports-1] | ![now-sports-2] | ![now-sports-3] | ![now-sports-4] |
+| ![now-sports-4k] | ![now-sports-5] | ![now-sports-6] | ![now-sports-7] | ![now-sports-plus] | ![now-sports-premier-league-1] |
+| ![now-sports-premier-league-2] | ![now-sports-premier-league-3] | ![now-sports-premier-league-4] | ![now-sports-premier-league-5] | ![now-sports-premier-league-6] | ![now-sports-premier-league-tv] |
+| ![now-sports-prime] | ![one-tv] | ![pearl-river-channel] | ![phoenix-channel] | ![phoenix-chinese-channel] | ![phoenix-infonews-channel] |
+| ![phoenix-movies-channel] | ![rthk-tv-31] | ![rthk-tv-32] | ![rthk-tv-33] | ![rugby-pass-tv] | ![sansha-tv] |
+| ![shenzhen-tv] | ![southern-television] | ![star-chinese-channel] | ![star-chinese-movies] | ![star-chinese-movies-legend] | ![thrill] |
+| ![tvb-finance-and-information-channel] | ![tvb-j2] | ![tvb-jade] | ![tvb-mytv-super-18] | ![tvb-news-channel] | ![tvb-pearl] |
+| ![tvb-xing-he] | ![tvbs-asia] | ![tvn] | ![universal-television] | ![viu-tv] | ![viu-tv-six] |
+| ![warner-tv] | ![watch-n-learn] | ![yicai-tv] | ![zhejiang-television] |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [animal-planet]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/animal-planet-hk.png
@@ -36,8 +39,14 @@
 [axn]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/axn-hk.png
 [bbc-lifestyle]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/bbc-lifestyle-hk.png
 [blue-ant-entertainment]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/blue-ant-entertainment-hk.png
+[blue-ant-extreme]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/blue-ant-extreme-hk.png
+[celestial-classic-movies]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/celestial-classic-movies-hk.png
+[celestial-movies]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/celestial-movies-hk.png
 [channel-adult]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/channel-adult-hk.png
 [channel-v-international]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/channel-v-international-hk.png
+[chk]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/chk-hk.png
+[chk-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/chk-hd-hk.png
+[chtv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/chtv-hk.png
 [cinemax]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/cinemax-hk.png
 [cna-channel-news-asia]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/cna-channel-news-asia-hk.png
 [cti-asia-channel]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/cti-asia-channel-hk.png
@@ -53,11 +62,24 @@
 [hkibc-hong-kong-international-business-channel]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/hkibc-hong-kong-international-business-channel-hk.png
 [hks-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/hks-tv-hk.png
 [hong-kong-open-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/hong-kong-open-tv-hk.png
+[i-cable-family-entertainment-channel]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/i-cable-family-entertainment-channel-hk.png
+[i-cable-family-entertainment-channel-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/i-cable-family-entertainment-channel-hd-hk.png
 [i-cable-finance-info-channel]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/i-cable-finance-info-channel-hk.png
 [i-cable-live-news-channel]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/i-cable-live-news-channel-hk.png
+[i-cable-movies]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/i-cable-movies-hk.png
+[i-cable-movies-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/i-cable-movies-hd-hk.png
 [i-cable-news-channel]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/i-cable-news-channel-hk.png
+[i-cable-sports-plus-1]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/i-cable-sports-plus-1-hk.png
+[i-cable-sports-plus-1-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/i-cable-sports-plus-1-hd-hk.png
+[i-cable-sports-plus-2]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/i-cable-sports-plus-2-hk.png
+[i-cable-sports-plus-2-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/i-cable-sports-plus-2-hd-hk.png
+[i-cable-sports-plus-3]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/i-cable-sports-plus-3-hk.png
+[i-cable-sports-plus-3-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/i-cable-sports-plus-3-hd-hk.png
 [ice-fire]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/ice-fire-hk.png
+[kix]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/kix-hk.png
 [mastv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/mastv-hk.png
+[matv-movie-channel]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/matv-movie-channel-hk.png
+[mihk-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/mihk-tv-hk.png
 [mmov-concert-mv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/mmov-concert-mv-hk.png
 [movie-movie]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/movie-movie-hk.png
 [now-668]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/now-668-hk.png
@@ -90,6 +112,7 @@
 [now-sports-premier-league-6]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/now-sports-premier-league-6-hk.png
 [now-sports-premier-league-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/now-sports-premier-league-tv-hk.png
 [now-sports-prime]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/now-sports-prime-hk.png
+[one-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/one-tv-hk.png
 [pearl-river-channel]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/pearl-river-channel-hk.png
 [phoenix-channel]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/phoenix-hk-channel-hk.png
 [phoenix-chinese-channel]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/phoenix-chinese-channel-hk.png
@@ -109,6 +132,7 @@
 [tvb-finance-and-information-channel]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/tvb-finance-and-information-channel-hk.png
 [tvb-j2]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/tvb-j2-hk.png
 [tvb-jade]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/tvb-jade-hk.png
+[tvb-mytv-super-18]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/tvb-mytv-super-18-hk.png
 [tvb-news-channel]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/tvb-news-channel-hk.png
 [tvb-pearl]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/tvb-pearl-hk.png
 [tvb-xing-he]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/tvb-xing-he-hk.png
