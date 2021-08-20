@@ -6,8 +6,8 @@
 📐 The logos have a max-width of 512px and have been optimized for smallest file size  
 🖤 The logos are created specifically to work on dark backgrounds  
    
-💾 Combined file size = 5,0mb  |  📅 Last update: August 5 2021  
-🎨 __320 Logos total__  |  ✨ __94 HD Logos__
+💾 Combined file size = 5,0mb  |  📅 Last update: August 20 2021  
+🎨 __322 Logos total__  |  ✨ __95 HD Logos__
    
    
 *This mosaic view is only updated periodically.*  
@@ -65,7 +65,7 @@
 | ![smooth-arts-hd] | ![spike] | ![spree-tv] | ![tlc] | ![tlc-plus-2] | ![tvsn] |
 | ![universal-tv] | ![universal-tv-hd] | ![universal-tv-plus-2] | ![west-tv] | ![win] | ![win-bold] |
 | ![win-hd] | ![win-peach] | ![90s-classics] | ![90s-classics-hd] | ![rom-coms] | ![rom-coms-hd] |
-| ![best-directors] | ![best-directors-hd] |  |  |  |  |
+| ![best-directors] | ![best-directors-hd] | ![comedy-hits] | ![comedy-hits-hd] |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [10-bold]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/10-bold-au.png
@@ -388,5 +388,7 @@
 [rom-coms-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-rom-coms-hd-au.png
 [best-directors]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-best-directors-au.png
 [best-directors-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-best-directors-hd-au.png
+[comedy-hits]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-comedy-hits-au.png
+[comedy-hits-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-comedy-hits-hd-au.png
 
 [space]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/%CE%A9/space-1500.png
