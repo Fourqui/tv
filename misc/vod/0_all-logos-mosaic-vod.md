@@ -134,7 +134,7 @@
 | ![wild-at-heart] | ![wild-earth] | ![wildn-out] | ![wings] | ![wipeout-us] | ![wired-2-fish-tv] |
 | ![wonder] | ![wpt-world-poker-tour-us] | ![wu-tang-collection] | ![xive-tv-us] | ![xplore] | ![yahoo-finance] |
 | ![yg-tv] | ![yoga] | ![yu-gi-oh] | ![yu-gi-oh-en-espanol] |  |  |
-| ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
+| ![spacee] | ![spacee] | ![spacee] | ![spacee] | ![spacee] | ![spacee] |
 
 [10-years-younger]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/vod/10-years-younger-vod.png
 [21-jump-street]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/vod/21-jump-street-vod.png
@@ -866,4 +866,4 @@
 [yoga]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/vod/yoga-vod.png
 [yu-gi-oh]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/vod/yu-gi-oh-vod.png
 [yu-gi-oh-en-espanol]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/vod/yu-gi-oh-en-espanol-vod.png
-[space]:https://github.com/Tapiosinn/tv-logos/blob/master/misc/%CE%A9/space-1500.png
+[spacee]:https://github.com/Tapiosinn/tv-logos/blob/master/misc/%CE%A9/space-1500.png
