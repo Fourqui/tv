@@ -6,17 +6,23 @@
 📐 The logos have a max-width of 512px and have been optimized for smallest file size  
 🖤 The logos are created specifically to work on dark backgrounds  
    
-💾 Combined file size = 5,8mb  |  📅 Last update: July 11 2021  
-🎨 __212 Logos total__  |  ✨ __28 HD Logos__
+💾 Combined file size = 6,1mb  |  📅 Last update: August 27 2021  
+🎨 __249 Logos total__  |  ✨ __57 HD Logos__
    
    
 *This mosaic view is only updated periodically.*  
 | ![24] | ![360] | ![a-haber] | ![a-para] | ![a-spor] | ![a2] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | ![ada-tv] | ![agro-tv] | ![akit-tv] | ![altas-tv] | ![atv] | ![bahar-turk] |
-| ![bbn-turk] | ![bein-sports-haber] | ![bein-sports-haber-hz] | ![bengu-turk] | ![beyaz-tv] | ![beykent-tv] |
-| ![bloomberg-ht] | ![brt-1] | ![brt-1-hd] | ![brt-2] | ![brt-2-hd] | ![brt-3] |
-| ![brtv] | ![cay-tv] | ![cem-tv] | ![ciftci-tv] | ![cnn-turk] | ![cocuk-smart] |
+| ![bbn-turk] | ![bein-box-office-1] | ![bein-box-office-1-hz] | ![bein-box-office-2] | ![bein-box-office-2-hz] | ![bein-box-office-3] |
+| ![bein-box-office-3-hz] | ![bein-gurme-hd] | ![bein-gurme-hd-hz] | ![bein-h-and-e-hd] | ![bein-h-and-e-hd-hz] | ![bein-hd] |
+| ![bein-iz-hd] | ![bein-iz-hd-hz] | ![bein-movies-action-2-hd] | ![bein-movies-action-2-hd-hz] | ![bein-movies-action-hd] | ![bein-movies-action-hd-hz] |
+| ![bein-movies-family-hd] | ![bein-movies-family-hd-hz] | ![bein-movies-premiere-2-hd] | ![bein-movies-premiere-2-hd-hz] | ![bein-movies-premiere-hd] | ![bein-movies-premiere-hd-hz] |
+| ![bein-movies-stars-hd] | ![bein-movies-stars-hd-hz] | ![bein-movies-turk-hd] | ![bein-movies-turk-hd-hz] | ![bein-series-comedy-hd] | ![bein-series-comedy-hd-hz] |
+| ![bein-series-drama-hd] | ![bein-series-drama-hd-hz] | ![bein-series-sci-fi-hd] | ![bein-series-sci-fi-hd-hz] | ![bein-series-vice-hd] | ![bein-series-vice-hd-hz] |
+| ![bein-sports-haber] | ![bein-sports-haber-hz] | ![bengu-turk] | ![beyaz-tv] | ![beykent-tv] | ![bloomberg-ht] |
+| ![brt-1] | ![brt-1-hd] | ![brt-2] | ![brt-2-hd] | ![brt-3] | ![brtv] |
+| ![bursaspor-tv] | ![cay-tv] | ![cem-tv] | ![ciftci-tv] | ![cnn-turk] | ![cocuk-smart] |
 | ![cocuk-smart-hd] | ![diyanet-tv] | ![dizi-smart-max] | ![dizi-smart-max-hd] | ![dizi-smart-premium] | ![dizi-smart-premium-hd] |
 | ![dream-turk] | ![eba-tv-ilkokul] | ![eba-tv-lise] | ![eba-tv-ortaokul] | ![ege-tv] | ![ekoturk] |
 | ![es-tv] | ![euro-d] | ![euro-star] | ![fashion-one-tv] | ![fenerbahce-tv] | ![filmbox] |
@@ -47,7 +53,7 @@
 | ![tv-35] | ![tv-den] | ![tv100] | ![tv4] | ![tv5] | ![tv52] |
 | ![tv8] | ![tv85] | ![tvnet] | ![ucankus] | ![ulke-tv] | ![ulusal-tv] |
 | ![uzay-haber] | ![uzay-tv] | ![vatan-tv] | ![vav-tv] | ![vizyon-58] | ![vizyon-turk] |
-| ![yildiz-en-tv] | ![zarok-tv] |  |  |  |  |
+| ![yaban] | ![yildiz-en-tv] | ![zarok-tv] |  |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [24]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/24-tr.png
@@ -63,6 +69,41 @@
 [atv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/atv-tr.png
 [bahar-turk]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bahar-turk-tr.png
 [bbn-turk]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bbn-turk-tr.png
+[bein-box-office-1]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-box-office-1-tr.png
+[bein-box-office-1-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-box-office-1-hz-tr.png
+[bein-box-office-2]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-box-office-2-tr.png
+[bein-box-office-2-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-box-office-2-hz-tr.png
+[bein-box-office-3]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-box-office-3-tr.png
+[bein-box-office-3-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-box-office-3-hz-tr.png
+[bein-gurme-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-gurme-hd-tr.png
+[bein-gurme-hd-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-gurme-hd-hz-tr.png
+[bein-h-and-e-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-h-and-e-hd-tr.png
+[bein-h-and-e-hd-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-h-and-e-hd-hz-tr.png
+[bein-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-hd-tr.png
+[bein-iz-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-iz-hd-tr.png
+[bein-iz-hd-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-iz-hd-hz-tr.png
+[bein-movies-action-2-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-movies-action-2-hd-tr.png
+[bein-movies-action-2-hd-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-movies-action-2-hd-hz-tr.png
+[bein-movies-action-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-movies-action-hd-tr.png
+[bein-movies-action-hd-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-movies-action-hd-hz-tr.png
+[bein-movies-family-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-movies-family-hd-tr.png
+[bein-movies-family-hd-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-movies-family-hd-hz-tr.png
+[bein-movies-premiere-2-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-movies-premiere-2-hd-tr.png
+[bein-movies-premiere-2-hd-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-movies-premiere-2-hd-hz-tr.png
+[bein-movies-premiere-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-movies-premiere-hd-tr.png
+[bein-movies-premiere-hd-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-movies-premiere-hd-hz-tr.png
+[bein-movies-stars-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-movies-stars-hd-tr.png
+[bein-movies-stars-hd-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-movies-stars-hd-hz-tr.png
+[bein-movies-turk-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-movies-turk-hd-tr.png
+[bein-movies-turk-hd-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-movies-turk-hd-hz-tr.png
+[bein-series-comedy-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-series-comedy-hd-tr.png
+[bein-series-comedy-hd-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-series-comedy-hd-hz-tr.png
+[bein-series-drama-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-series-drama-hd-tr.png
+[bein-series-drama-hd-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-series-drama-hd-hz-tr.png
+[bein-series-sci-fi-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-series-sci-fi-hd-tr.png
+[bein-series-sci-fi-hd-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-series-sci-fi-hd-hz-tr.png
+[bein-series-vice-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-series-vice-hd-tr.png
+[bein-series-vice-hd-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-series-vice-hd-hz-tr.png
 [bein-sports-haber]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-sports-haber-tr.png
 [bein-sports-haber-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bein-sports-haber-hz-tr.png
 [bengu-turk]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bengu-turk-tr.png
@@ -75,6 +116,7 @@
 [brt-2-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/brt-2-hd-tr.png
 [brt-3]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/brt-3-tr.png
 [brtv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/brtv-tr.png
+[bursaspor-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/bursaspor-tv-tr.png
 [cay-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/cay-tv-tr.png
 [cem-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/cem-tv-tr.png
 [ciftci-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/ciftci-tv-tr.png
@@ -260,6 +302,7 @@
 [vav-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/vav-tv-tr.png
 [vizyon-58]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/vizyon-58-tr.png
 [vizyon-turk]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/vizyon-turk-tr.png
+[yaban]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/yaban-tr.png
 [yildiz-en-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/yildiz-en-tv-tr.png
 [zarok-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/turkey/zarok-tv-tr.png
 
