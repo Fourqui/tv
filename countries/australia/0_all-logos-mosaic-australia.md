@@ -6,8 +6,8 @@
 📐 The logos have a max-width of 512px and have been optimized for smallest file size  
 🖤 The logos are created specifically to work on dark backgrounds  
    
-💾 Combined file size = 5,0mb  |  📅 Last update: August 20 2021  
-🎨 __322 Logos total__  |  ✨ __95 HD Logos__
+💾 Combined file size = 5,0mb  |  📅 Last update: September 2 2021  
+🎨 __324 Logos total__  |  ✨ __96 HD Logos__
    
    
 *This mosaic view is only updated periodically.*  
