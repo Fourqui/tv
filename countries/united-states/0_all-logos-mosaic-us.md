@@ -121,7 +121,7 @@
 | ![starz-comedy] | ![starz-edge] | ![starz-encore] | ![starz-encore-action] | ![starz-encore-black] | ![starz-encore-classic] |
 | ![starz-encore-espanol] | ![starz-encore-family] | ![starz-encore-on-demand] | ![starz-encore-suspense] | ![starz-encore-westerns] | ![starz-in-black] |
 | ![starz-kids-and-family] | ![starz-on-demand] | ![sundance-tv] | ![syfy] | ![syfy-hd] | ![syfy-hd-hz] |
-| ![syfy-hz] | ![tastemade] | ![tbd] | ![tbn] | ![tbs] | ![tcm-movies] |
+| ![syfy-hz] | ![tastemade] | ![tbd] | ![tbn] | ![tbs] | ![tcm] |
 | ![teen-nick] | ![telemundo] | ![telemundo-deportes] | ![telemundo-deportes-hz] | ![telexitos] | ![tennis-channel] |
 | ![tennis-channel-hz] | ![the-country-network] | ![the-cw] | ![the-first] | ![the-movie-channel] | ![the-movie-channel-icon] |
 | ![the-movie-channel-xtra] | ![the-u] | ![the-walk] | ![this-tv-network] | ![tlc] | ![tmz] |
@@ -788,7 +788,7 @@
 [tbd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/tbd-us.png
 [tbn]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/tbn-us.png
 [tbs]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/tbs-us.png
-[tcm-movies]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/tcm-movies-us.png
+[tcm]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/tcm-us.png
 [teen-nick]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/teen-nick-us.png
 [telemundo]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/telemundo-us.png
 [telemundo-deportes]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/telemundo-deportes-us.png
