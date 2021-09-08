@@ -30,12 +30,12 @@ Click on a country to go to its directory. From there you can click the mosaic f
 |  ![Space] |  ![Space] |  ![Space] |  ![Space] |  ![Space] |  ![Space] |
 |---|---|---|---|---|---|
 | 🇦🇺 [Australia]  | 🇦🇹 [Austria]  | 🇧🇪 [Belgium]  | 🇨🇦 [Canada]  | 🌎 [Caribbean] | 🇭🇷 [Croatia]  |
-| 🇩🇰 [Denmark]  | 🇫🇮 [Finland]  | 🇫🇷 [France]  | 🇩🇪 [Germany]  | 🇭🇰 [Hong-Kong]  | 🇮🇸 [Iceland]  |
-| 🌍 [International] | 🇮🇹 [Italy]  | 🇲🇾 [Malaysia]  | 🇲🇹 [Malta]  | 🇲🇽 [Mexico]  | 🇳🇱 [Netherlands]  |
-| 🇳🇿 [New-Zealand]  | 🌍 [Nordic] | 🇳🇴 [Norway]  | 🇵🇱 [Poland]  | 🇵🇹 [Portugal]  | 🇷🇺 [Russia]  |
-| 🇿🇦 [South-Africa]  | 🇪🇸 [Spain]  | 🇸🇪 [Sweden]  | 🇨🇭 [Switzerland]  | 🇹🇷 [Turkey]  | 🇬🇧 [United-Kingdom]  |
-| 🇺🇸 [United-States]  | 🌍 [World-Africa] | 🌏 [World-Asia] | 🌍 [World-Europe] | 🌎 [World-Latin-America] | 🌏 [World-Middle-East] |
-| 🌏 [World-Oceania] |   |   |   |   |   |
+| 🇫🇷 [France]  | 🇩🇪 [Germany]  | 🇭🇰 [Hong-Kong]  | 🇮🇳 [India]  | 🌍 [International] | 🇮🇹 [Italy]  |
+| 🇲🇾 [Malaysia]  | 🇲🇹 [Malta]  | 🇲🇽 [Mexico]  | 🇳🇱 [Netherlands]  | 🇳🇿 [New-Zealand]  | 🌍 [Nordic] |
+| 🇩🇰 [Denmark]  | 🇫🇮 [Finland]  | 🇮🇸 [Iceland]  | 🇳🇴 [Norway]  | 🇸🇪 [Sweden]  | 🇵🇱 [Poland]  |
+| 🇵🇹 [Portugal]  | 🇷🇺 [Russia]  | 🇿🇦 [South-Africa]  | 🇪🇸 [Spain]  | 🇨🇭 [Switzerland]  | 🇹🇷 [Turkey]  |
+| 🇬🇧 [United-Kingdom]  | 🇺🇸 [United-States]  | 🌍 [World-Africa] | 🌏 [World-Asia] | 🌍 [World-Europe] | 🌎 [World-Latin-America] |
+| 🌏 [World-Middle-East] | 🌏 [World-Oceania] |   |   |   |   |
 
 [Australia]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/australia "Australia"
 [Austria]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/austria "Austria"
@@ -43,12 +43,10 @@ Click on a country to go to its directory. From there you can click the mosaic f
 [Canada]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/canada "Canada"
 [Caribbean]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/caribbean "Caribbean"
 [Croatia]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/croatia "Croatia"
-[Denmark]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/nordic/denmark "Denmark"
-[Finland]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/nordic/finland "Finland"
 [France]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/france "France"
 [Germany]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany "Germany"
-[Hong-Kong]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/hong-kong "Hong Kong"
-[Iceland]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/nordic/iceland "Iceland"
+[Hong-Kong]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/hong-kong "Hong-Kong"
+[India]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/india "India"
 [International]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/international "International"
 [Italy]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/italy "Italy"
 [Malaysia]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/malaysia "Malaysia"
@@ -57,17 +55,20 @@ Click on a country to go to its directory. From there you can click the mosaic f
 [Netherlands]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/netherlands "Netherlands"
 [New-Zealand]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/new-zealand "New-Zealand"
 [Nordic]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/nordic "Nordic"
+[Denmark]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/nordic/denmark "Denmark"
+[Finland]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/nordic/finland "Finland"
+[Iceland]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/nordic/iceland "Iceland"
 [Norway]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/nordic/norway "Norway"
+[Sweden]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/nordic/sweden "Sweden"
 [Poland]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/poland "Poland"
 [Portugal]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/portugal "Portugal"
 [Russia]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/russia "Russia"
 [South-Africa]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/south-africa "South-Africa"
 [Spain]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain "Spain"
-[Sweden]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/nordic/sweden "Sweden"
 [Switzerland]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/switzerland "Switzerland"
 [Turkey]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/turkey "Turkey"
 [United-Kingdom]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom "United-Kingdom"
-[United-States]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states "United-States"
+[United-States]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/United-states "United-States"
 [World-Africa]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/world-africa "World-Africa"
 [World-Asia]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/world-asia "World-Asia"
 [World-Europe]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/world-europe "World-Europe"
