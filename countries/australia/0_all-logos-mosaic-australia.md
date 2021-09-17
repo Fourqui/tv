@@ -66,6 +66,7 @@
 | ![universal-tv] | ![universal-tv-hd] | ![universal-tv-plus-2] | ![west-tv] | ![win] | ![win-bold] |
 | ![win-hd] | ![win-peach] | ![90s-classics] | ![90s-classics-hd] | ![rom-coms] | ![rom-coms-hd] |
 | ![best-directors] | ![best-directors-hd] | ![comedy-hits] | ![comedy-hits-hd] | ![action-men] | ![action-men-hd] |
+| ![animation-nation] | ![animation-nation-hd] |  |  |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [10-bold]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/10-bold-au.png
@@ -392,5 +393,7 @@
 [comedy-hits-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-comedy-hits-hd-au.png
 [action-men]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-action-men-au.png
 [action-men-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-action-men-hd-au.png
+[animation-nation]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-animation-nation-au.png
+[animation-nation-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-animation-nation-hd-au.png
 
 [space]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/%CE%A9/space-1500.png
