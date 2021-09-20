@@ -68,7 +68,7 @@ Click on a country to go to its directory. From there you can click the mosaic f
 [Switzerland]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/switzerland "Switzerland"
 [Turkey]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/turkey "Turkey"
 [United-Kingdom]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom "United-Kingdom"
-[United-States]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/United-states "United-States"
+[United-States]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states "United-States"
 [World-Africa]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/world-africa "World-Africa"
 [World-Asia]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/world-asia "World-Asia"
 [World-Europe]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/world-europe "World-Europe"
