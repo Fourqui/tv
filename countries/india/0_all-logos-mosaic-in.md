@@ -25,43 +25,43 @@
 | ![colors-cineplex-hd] | ![colors-hd] | ![colors-rishtey] | ![colorsfinity] | ![colorsfinity-hd] | ![dangal] |
 | ![dd-bharati] | ![dd-bihar] | ![dd-kisan] | ![dd-madhya-pradesh] | ![dd-national] | ![dd-news] |
 | ![dd-news-hd] | ![dd-rajasthan] | ![dd-retro] | ![dd-sports] | ![dd-uttar-pradesh] | ![dddia] |
-| ![dddia_1] | ![dddia-hd] | ![dhinchaak] | ![discovery-kids] | ![disha-tv] | ![dishum] |
-| ![divya] | ![e24] | ![enterr10-movies] | ![enterr10-rangeela] | ![epic] | ![et-now] |
-| ![etv-bal-bharat] | ![filamchi-bhojpuri] | ![firstdia-news-rajasthan] | ![food-food] | ![gnt] | ![goodtimes] |
-| ![gubbare] | ![haryana-beats] | ![hindi-khabar] | ![history-tv18] | ![history-tv18-hd] | ![ibc-24] |
-| ![india-ahead] | ![india-news] | ![india-news-madhya-pradesh-chhattisgarh] | ![india-news-rajasthan] | ![india-news-uttar-pradesh] | ![india-today] |
-| ![india-tv] | ![india-voice] | ![inh-24x7] | ![insync] | ![ishwar-tv] | ![jalsha-movies] |
-| ![jalsha-movies-hd] | ![jan-tv] | ![jantantra-tv] | ![jinvani-channel] | ![kashish-news] | ![lok-sabha-tv] |
-| ![manoranjan] | ![mastiii] | ![mh-one] | ![mh-one-prime] | ![mh-one-shraddha] | ![mirror-now] |
-| ![mn-plus-hd] | ![mnx] | ![mnx-hd] | ![movies-now] | ![movies-now-hd] | ![mtv] |
-| ![mtv-beats] | ![mtv-beats-hd] | ![mtv-hd-plus] | ![naaptol] | ![ndtv-24x7] | ![ndtv-prime] |
-| ![ndtv-profit] | ![ndtvdia] | ![network-10] | ![news-11-bharat] | ![news-18-bihar-jharkhand] | ![news-18-madhya-pradesh-chhattisgarh] |
-| ![news-18-rajasthan] | ![news-18-urdu] | ![news-18-uttar-pradesh-uttarakhand] | ![news-18dia] | ![news-1dia] | ![news-24] |
-| ![news-24-madhya-pradesh-chhattisgarh] | ![news-nation] | ![news-state] | ![news-state-madhya-pradesh-chhattisgarh] | ![news-x] | ![newsdia-24x7] |
-| ![nick] | ![nick-hd-plus] | ![nickelodeon-sonic] | ![oscar-movies] | ![paras-tv] | ![patrika-rajasthan] |
-| ![peace-of-mind] | ![pogo] | ![prime-news] | ![rajya-sabha-tv] | ![republic-bharat-tv] | ![republic-tv] |
-| ![romedy-now] | ![sadhna-bangla] | ![sadhna-news-madhya-pradesh-chhattisgarh] | ![sadhna-plus-news] | ![samay] | ![sansad-tv] |
-| ![sanskar] | ![santwani] | ![satsang-tv] | ![sharnam-tv] | ![shemaroo] | ![showbox] |
-| ![shubh-tv] | ![sony-bbc-earth] | ![sony-bbc-earth-hd] | ![sony-entertainment-television] | ![sony-entertainment-television-hd] | ![sony-max] |
-| ![sony-max-2] | ![sony-max-hd] | ![sony-pix] | ![sony-pix-hd] | ![sony-sab] | ![sony-sab-hd] |
-| ![sony-six] | ![sony-six-hd] | ![sony-ten-1] | ![sony-ten-1-hd] | ![sony-ten-2] | ![sony-ten-2-hd] |
-| ![sony-ten-3] | ![sony-ten-3-hd] | ![sony-wah] | ![sony-yay] | ![star-bharat] | ![star-bharat-hd] |
-| ![star-gold] | ![star-gold-2] | ![star-gold-hd] | ![star-gold-select] | ![star-gold-select-hd] | ![star-jalsha] |
-| ![star-jalsha-hd] | ![star-maa] | ![star-maa-gold] | ![star-maa-hd] | ![star-maa-movies-hd] | ![star-maa-music] |
-| ![star-movies] | ![star-movies-hd] | ![star-movies-select-hd] | ![star-plus] | ![star-plus-hd] | ![star-pravah] |
-| ![star-pravah-hd] | ![star-sports-1] | ![star-sports-1-bangla] | ![star-sports-1-hindi] | ![star-sports-1-kannada] | ![star-sports-1-marathi] |
-| ![star-sports-1-tamil] | ![star-sports-1-telugu] | ![star-sports-2] | ![star-sports-3] | ![star-sports-first] | ![star-sports-select-1] |
-| ![star-sports-select-2] | ![star-suvarna] | ![star-suvarna-hd_1] | ![star-suvarna-plus] | ![star-utsav] | ![star-utsav-movies] |
-| ![star-world] | ![star-world-hd] | ![star-world-premiere-hd] | ![subharti.tv] | ![sudarshan-news] | ![swaraj-express-smbc] |
-| ![tata-sky-aradhana] | ![tata-sky-astro-duniya] | ![tata-sky-beauty] | ![tata-sky-cooking] | ![tata-sky-curiosity-channel] | ![tata-sky-english-hindi] |
-| ![tata-sky-family-health] | ![tata-sky-fitness] | ![tata-sky-fun-learn] | ![tata-sky-hits] | ![tata-sky-hollywood-local] | ![tata-sky-javed-akhtar] |
-| ![tata-sky-jee-prep] | ![tata-sky-neet-prep] | ![tata-sky-seniors] | ![tata-sky-shortstv] | ![tata-sky-smart-manager] | ![tata-sky-theatre] |
-| ![tata-sky-vedic-maths] | ![the-q] | ![times-now] | ![times-now-navbharat] | ![times-now-world] | ![total-tv] |
-| ![travelxp] | ![travelxp-4k] | ![travelxp-4k-hdr] | ![travelxp-hd] | ![tv9-bharatvarsh] | ![vedic] |
-| ![vijay-super] | ![vijay-tv] | ![vijay-tv-hd] | ![wion] | ![zee-24-ghanta] | ![zee-action] |
-| ![zee-anmol-cinema] | ![zee-bihar-jharkhand] | ![zee-biskope] | ![zee-bollywood] | ![zee-business] | ![zee-cinema] |
-| ![zee-cinema-hd] | ![zee-classic] | ![zee-ganga] | ![zee-hindustan] | ![zee-madhya-pradesh-chattisgarh] | ![zee-news] |
-| ![zee-rajasthan-news] | ![zee-tv] | ![zee-tv-hd] | ![zee-uttar-pradesh-uttarakhand] | ![zing] | ![zoom] |
+| ![dddia-hd] | ![dhinchaak] | ![discovery-kids] | ![disha-tv] | ![dishum] | ![divya] |
+| ![e24] | ![enterr10-movies] | ![enterr10-rangeela] | ![epic] | ![et-now] | ![etv-bal-bharat] |
+| ![filamchi-bhojpuri] | ![firstdia-news-rajasthan] | ![food-food] | ![gnt] | ![goodtimes] | ![gubbare] |
+| ![haryana-beats] | ![hindi-khabar] | ![history-tv18] | ![history-tv18-hd] | ![ibc-24] | ![india-ahead] |
+| ![india-news] | ![india-news-madhya-pradesh-chhattisgarh] | ![india-news-rajasthan] | ![india-news-uttar-pradesh] | ![india-today] | ![india-tv] |
+| ![india-voice] | ![inh-24x7] | ![insync] | ![ishwar-tv] | ![jalsha-movies] | ![jalsha-movies-hd] |
+| ![jan-tv] | ![jantantra-tv] | ![jinvani-channel] | ![kashish-news] | ![lok-sabha-tv] | ![manoranjan] |
+| ![mastiii] | ![mh-one] | ![mh-one-prime] | ![mh-one-shraddha] | ![mirror-now] | ![mn-plus-hd] |
+| ![mnx] | ![mnx-hd] | ![movies-now] | ![movies-now-hd] | ![mtv] | ![mtv-beats] |
+| ![mtv-beats-hd] | ![mtv-hd-plus] | ![naaptol] | ![ndtv-24x7] | ![ndtv-prime] | ![ndtv-profit] |
+| ![ndtvdia] | ![network-10] | ![news-11-bharat] | ![news-18-bihar-jharkhand] | ![news-18-madhya-pradesh-chhattisgarh] | ![news-18-rajasthan] |
+| ![news-18-urdu] | ![news-18-uttar-pradesh-uttarakhand] | ![news-18dia] | ![news-1dia] | ![news-24] | ![news-24-madhya-pradesh-chhattisgarh] |
+| ![news-nation] | ![news-state] | ![news-state-madhya-pradesh-chhattisgarh] | ![news-x] | ![newsdia-24x7] | ![nick] |
+| ![nick-hd-plus] | ![nickelodeon-sonic] | ![oscar-movies] | ![paras-tv] | ![patrika-rajasthan] | ![peace-of-mind] |
+| ![pogo] | ![prime-news] | ![rajya-sabha-tv] | ![republic-bharat-tv] | ![republic-tv] | ![romedy-now] |
+| ![sadhna-bangla] | ![sadhna-news-madhya-pradesh-chhattisgarh] | ![sadhna-plus-news] | ![samay] | ![sansad-tv] | ![sanskar] |
+| ![santwani] | ![satsang-tv] | ![sharnam-tv] | ![shemaroo] | ![showbox] | ![shubh-tv] |
+| ![sony-bbc-earth] | ![sony-bbc-earth-hd] | ![sony-entertainment-television] | ![sony-entertainment-television-hd] | ![sony-max] | ![sony-max-2] |
+| ![sony-max-hd] | ![sony-pix] | ![sony-pix-hd] | ![sony-sab] | ![sony-sab-hd] | ![sony-six] |
+| ![sony-six-hd] | ![sony-ten-1] | ![sony-ten-1-hd] | ![sony-ten-2] | ![sony-ten-2-hd] | ![sony-ten-3] |
+| ![sony-ten-3-hd] | ![sony-wah] | ![sony-yay] | ![star-bharat] | ![star-bharat-hd] | ![star-gold] |
+| ![star-gold-2] | ![star-gold-hd] | ![star-gold-select] | ![star-gold-select-hd] | ![star-jalsha] | ![star-jalsha-hd] |
+| ![star-maa] | ![star-maa-gold] | ![star-maa-hd] | ![star-maa-movies-hd] | ![star-maa-music] | ![star-movies] |
+| ![star-movies-hd] | ![star-movies-select-hd] | ![star-plus] | ![star-plus-hd] | ![star-pravah] | ![star-pravah-hd] |
+| ![star-sports-1] | ![star-sports-1-bangla] | ![star-sports-1-hindi] | ![star-sports-1-kannada] | ![star-sports-1-marathi] | ![star-sports-1-tamil] |
+| ![star-sports-1-telugu] | ![star-sports-2] | ![star-sports-3] | ![star-sports-first] | ![star-sports-select-1] | ![star-sports-select-2] |
+| ![star-suvarna] | ![star-suvarna-hd] | ![star-suvarna-plus] | ![star-utsav] | ![star-utsav-movies] | ![star-world] |
+| ![star-world-hd] | ![star-world-premiere-hd] | ![subharti.tv] | ![sudarshan-news] | ![swaraj-express-smbc] | ![tata-sky-aradhana] |
+| ![tata-sky-astro-duniya] | ![tata-sky-beauty] | ![tata-sky-cooking] | ![tata-sky-curiosity-channel] | ![tata-sky-english-hindi] | ![tata-sky-family-health] |
+| ![tata-sky-fitness] | ![tata-sky-fun-learn] | ![tata-sky-hits] | ![tata-sky-hollywood-local] | ![tata-sky-javed-akhtar] | ![tata-sky-jee-prep] |
+| ![tata-sky-neet-prep] | ![tata-sky-seniors] | ![tata-sky-shortstv] | ![tata-sky-smart-manager] | ![tata-sky-theatre] | ![tata-sky-vedic-maths] |
+| ![the-q] | ![times-now] | ![times-now-navbharat] | ![times-now-world] | ![total-tv] | ![travelxp] |
+| ![travelxp-4k] | ![travelxp-4k-hdr] | ![travelxp-hd] | ![tv9-bharatvarsh] | ![vedic] | ![vijay-super] |
+| ![vijay-tv] | ![vijay-tv-hd] | ![wion] | ![zee-24-ghanta] | ![zee-action] | ![zee-anmol-cinema] |
+| ![zee-bihar-jharkhand] | ![zee-biskope] | ![zee-bollywood] | ![zee-business] | ![zee-cinema] | ![zee-cinema-hd] |
+| ![zee-classic] | ![zee-ganga] | ![zee-hindustan] | ![zee-madhya-pradesh-chattisgarh] | ![zee-news] | ![zee-rajasthan-news] |
+| ![zee-salaam] | ![zee-tv] | ![zee-tv-hd] | ![zee-uttar-pradesh-uttarakhand] | ![zing] | ![zoom] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [1sports]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/1sports-in.png
@@ -142,7 +142,6 @@
 [dd-sports]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/dd-sports-in.png
 [dd-uttar-pradesh]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/dd-uttar-pradesh-in.png
 [dddia]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/dd-india-in.png
-[dddia_1]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/dd-india_1-in.png
 [dddia-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/dd-india-hd-in.png
 [dhinchaak]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/dhinchaak-in.png
 [discovery-kids]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/discovery-kids-in.png
@@ -300,7 +299,7 @@
 [star-sports-select-1]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/star-sports-select-1-in.png
 [star-sports-select-2]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/star-sports-select-2-in.png
 [star-suvarna]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/star-suvarna-in.png
-[star-suvarna-hd_1]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/star-suvarna-hd_1-in.png
+[star-suvarna-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/star-suvarna-hd-in.png
 [star-suvarna-plus]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/star-suvarna-plus-in.png
 [star-utsav]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/star-utsav-in.png
 [star-utsav-movies]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/star-utsav-movies-in.png
@@ -359,6 +358,7 @@
 [zee-madhya-pradesh-chattisgarh]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/zee-madhya-pradesh-chattisgarh-in.png
 [zee-news]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/zee-news-in.png
 [zee-rajasthan-news]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/zee-rajasthan-news-in.png
+[zee-salaam]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/zee-salaam-in.png
 [zee-tv]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/zee-tv-in.png
 [zee-tv-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/zee-tv-hd-in.png
 [zee-uttar-pradesh-uttarakhand]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/zee-uttar-pradesh-uttarakhand-in.png
