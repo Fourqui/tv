@@ -6,8 +6,8 @@
 📐 The logos have a max-width of 512px and have been optimized for smallest file size  
 🖤 The logos are created specifically to work on dark backgrounds  
    
-💾 Combined file size = 5,3mb  |  📅 Last update: September 19 2021  
-🎨 __331 Logos total__  |  ✨ __98 HD Logos__
+💾 Combined file size = 5,3mb  |  📅 Last update: September 30 2021  
+🎨 __333 Logos total__  |  ✨ __99 HD Logos__
    
    
 *This mosaic view is only updated periodically.*  
@@ -67,7 +67,7 @@
 | ![sky-racing-1] | ![sky-racing-2] | ![sky-thoroughbred-central] | ![sky-thoroughbred-central-hd] | ![smooth-arts] | ![smooth-arts-hd] |
 | ![spike] | ![spree-tv] | ![tlc] | ![tlc-plus-2] | ![tvsn] | ![universal-tv] |
 | ![universal-tv-hd] | ![universal-tv-plus-2] | ![west-tv] | ![win] | ![win-bold] | ![win-hd] |
-| ![win-peach] |  |  |  |  |  |
+| ![win-peach] | ![blockbusters2-hd] | ![blockbusters2] |  |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [10-bold]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/10-bold-au.png
@@ -401,5 +401,7 @@
 [win-bold]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/win-bold-au.png
 [win-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/win-hd-au.png
 [win-peach]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/win-peach-au.png
+[blockbusters2-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-blockbusters2-hd-au.png
+[blockbusters2]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/foxtel-movies/foxtel-movies-blockbusters2-au.png
 
 [space]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/%CE%A9/space-1500.png
