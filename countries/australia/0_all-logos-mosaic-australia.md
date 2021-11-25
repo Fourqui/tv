@@ -69,7 +69,7 @@
 | ![sky-news-on-win] | ![sky-news-uk] | ![sky-news-weather] | ![sky-racing] | ![sky-racing-1] | ![sky-racing-2] |
 | ![sky-thoroughbred-central] | ![sky-thoroughbred-central-hd] | ![smooth-arts] | ![smooth-arts-hd] | ![spike] | ![spree-tv] |
 | ![tlc] | ![tlc-plus-2] | ![tvsn] | ![universal-tv] | ![universal-tv-hd] | ![universal-tv-plus-2] |
-| ![west-tv] | ![win] | ![win-bold] | ![win-hd] | ![win-peach] | ![zzz-00348] |
+| ![west-tv] | ![win] | ![win-bold] | ![win-hd] | ![win-peach] |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [10-bold]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/australia/10-bold-au.png
