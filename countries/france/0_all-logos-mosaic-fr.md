@@ -11,7 +11,7 @@
    
    
 *This mosaic view is only updated periodically.*  
-| ![6ter] | ![ab1] | ![action] | ![altice-studio] | ![animaux] | ![arte] |
+| ![6ter] | ![ab1] | ![action] | ![altice-studio] | ![animaux] | <img src=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/arte-fr.png height="130px"> |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | ![automoto-la-chaine] | ![bein-sports] | ![bein-sports-1ench] | ![bein-sports-2ench] | ![bein-sports-3ench] | ![bet] |
 | ![bfm-business] | ![bfm-grand-lille] | ![bfm-grand-littoral] | ![bfm-lyon] | ![bfm-paris] | ![bfm-tv] |
