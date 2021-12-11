@@ -138,8 +138,8 @@
 | ![viceland] | ![viendo-movies] | ![viendo-movies-light] | ![vme-kids] | ![vsin] | ![we-tv] |
 | ![weather-channel] | ![weathernation] | ![wgn-america] | ![willow] | ![willow-xtra] | ![world-fishing-network] |
 | ![world-pbs] | ![wwe] | ![xcorps-tv] | ![yes-network] | ![you-too-america] | ![you-too-america-icon] |
-| ![z-living] | ![zzz-00752] | ![zzz-00753] | ![zzz-00754] | ![zzz-00755] | ![zzz-00756] |
-| ![space] |  |  |  |  |  |
+| ![z-living] |  |  |  |  |  |
+| ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [3abn]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/3abn-us.png
 [3abn-dare-to-dream-network]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/3abn-dare-to-dream-network-us.png
