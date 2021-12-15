@@ -7,18 +7,18 @@ Contact: tapio.sinnertwin(at)gmail.com - I will try my best to reply within 24hr
 Here you will find free tv logos from around the world in good high-res quality and suitable for dark backgrounds.
   
 
-### ⭐️ I'm now at 7344 logos! *(November 25th 2021)*
+### ⭐️ I'm now at 7589 logos! *(December 15th 2021)*
 
 ## 💛 Support me to continue this project
 
 If you want to support me continuing the work, you can donate by clicking the donate button.
 Creating the logos and maintaining them and the github takes quite the time and I would like to put in more work on this project so any donation helps!
 
-<a href="https://www.paypal.me/9000hobbs"><img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/paypal-donate.png" width="150px"></a>
+<a href="https://www.paypal.me/9000hobbs"><img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/paypal-donate.png" width="200px"></a>
 
 Or support me by clicking the sponsor button here on Github.
 
-<a href="https://flattr.com/@Tapiosi"><img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/sponsor-button.png" width="150px"></a>
+<a href="https://flattr.com/@Tapiosi"><img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/sponsor-button.png" width="200px"></a>
   
 
 
@@ -29,14 +29,15 @@ Click on a country to go to its directory. From there you can click the mosaic f
 
 |  ![Space] |  ![Space] |  ![Space] |  ![Space] |  ![Space] |  ![Space] |
 |---|---|---|---|---|---|
-| 🇦🇺 [Australia]  | 🇦🇹 [Austria]  | 🇧🇪 [Belgium]  | 🇨🇦 [Canada]  | 🌎 [Caribbean] | 🇭🇷 [Croatia]  |
-| 🇩🇰 [Denmark]  | 🇫🇮 [Finland]  | 🇫🇷 [France]  | 🇩🇪 [Germany]  | 🇬🇷 [Greece]  | 🇭🇰 [Hong-Kong]  |
-| 🇮🇸 [Iceland]  | 🇮🇳 [India]  | 🌍 [International] | 🇮🇹 [Italy]  | 🇲🇾 [Malaysia]  | 🇲🇹 [Malta]  |
-| 🇲🇽 [Mexico]  | 🇳🇱 [Netherlands]  | 🇳🇿 [New-Zealand]  | 🌍 [Nordic] | 🇳🇴 [Norway]  | 🇵🇱 [Poland]  |
-| 🇵🇹 [Portugal]  | 🇷🇺 [Russia]  | 🇿🇦 [South-Africa]  | 🇪🇸 [Spain]  | 🇸🇪 [Sweden]  | 🇨🇭 [Switzerland]  |
-| 🇹🇷 [Turkey]  | 🇬🇧 [United-Kingdom]  | 🇺🇸 [United-States]  | 🌍 [World-Africa] | 🌏 [World-Asia] | 🌍 [World-Europe] |
-| 🌎 [World-Latin-America] | 🌏 [World-Middle-East] | 🌏 [World-Oceania] | ⭐️ [Misc] | 📼 [Vod] |   |
+| 🇦🇷 [Argentina]  | 🇦🇺 [Australia]  | 🇦🇹 [Austria]  | 🇧🇪 [Belgium]  | 🇨🇦 [Canada]  | 🌎 [Caribbean] |
+| 🇭🇷 [Croatia]  | 🇩🇰 [Denmark]  | 🇫🇮 [Finland]  | 🇫🇷 [France]  | 🇩🇪 [Germany]  | 🇬🇷 [Greece]  |
+| 🇭🇰 [Hong-Kong]  | 🇮🇸 [Iceland]  | 🇮🇳 [India]  | 🌍 [International] | 🇮🇹 [Italy]  | 🇲🇾 [Malaysia]  |
+| 🇲🇹 [Malta]  | 🇲🇽 [Mexico]  | 🇳🇱 [Netherlands]  | 🇳🇿 [New-Zealand]  | 🌍 [Nordic] | 🇳🇴 [Norway]  |
+| 🇵🇱 [Poland]  | 🇵🇹 [Portugal]  | 🇷🇺 [Russia]  | 🇿🇦 [South-Africa]  | 🇪🇸 [Spain]  | 🇸🇪 [Sweden]  |
+| 🇨🇭 [Switzerland]  | 🇹🇷 [Turkey]  | 🇬🇧 [United-Kingdom]  | 🇺🇸 [United-States]  | 🌍 [World-Africa] | 🌏 [World-Asia] |
+| 🌍 [World-Europe] | 🌎 [World-Latin-America] | 🌏 [World-Middle-East] | 🌏 [World-Oceania] | ⭐️ [Misc] | 📼 [Vod] |
 
+[Argentina]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/argentina "Argentina"
 [Australia]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/australia "Australia"
 [Austria]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/austria "Austria"
 [Belgium]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/belgium "Belgium"
