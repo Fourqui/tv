@@ -11,7 +11,7 @@
    
    
 *This mosaic view is only updated periodically.*  
-| ![24h] | ![3-24] | ![7-television-region-de-murcia] | <img src=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/8tv-es.png height="150px"> | ![a-punt] | ![all-flamenco-4k] |
+| ![24h] | ![3-24] | ![7-television-region-de-murcia] | <img src=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/8tv-es.png height="150px"> | ![a-punt] | <img src=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/all-flamenco-4k-es.png height="150px"> |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | ![amc] | ![andalucia-tv] | ![antena-3] | ![antena-3-hd] | ![aragon-tv] | ![atreseries] |
 | ![axn] | ![axn-hd] | ![axn-white] | ![axn-white-hd] | ![baby-tv] | ![barca-tv] |
