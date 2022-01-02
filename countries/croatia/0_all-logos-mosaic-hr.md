@@ -6,35 +6,36 @@
 📐 The logos have a max-width of 512px and have been optimized for smallest file size  
 🖤 The logos are created specifically to work on dark backgrounds  
    
-💾 Combined file size = 1,6mb  |  📅 Last update: June 23 2021  
-🎨 __137 Logos total__  |  ✨ __34 HD Logos__
+💾 Combined file size = 1,6mb  |  📅 Last update: January 2 2022  
+🎨 __141 Logos total__  |  ✨ __34 HD Logos__
    
    
 *This mosaic view is only updated periodically.*  
 | ![aurora-tv-hr] | ![bbc-earth-hr] | ![cinemax-hd-hr] | ![cinemax-hr] | ![cinemax2-hd-hr] | ![cinemax2-hr] |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | ![cinestar-tv-1-hr] | ![cinestar-tv-2-hd-hr] | ![cinestar-tv-2-hr] | ![cinestar-tv-action-hr] | ![cinestar-tv-comedy-hr] | ![cinestar-tv-fantasy-hd-hr] |
 | ![cinestar-tv-fantasy-hr] | ![cinestar-tv-premiere1-hd-hr] | ![cinestar-tv-premiere1-hr] | ![cinestar-tv-premiere2-hd-hr] | ![cinestar-tv-premiere2-hr] | ![cmc-tv-hr] |
-| ![diadora-tv-hr] | ![dizi-hr] | ![dmc-tv-hr] | ![doma-hd-hr] | ![doma-hr] | ![dutv-hr] |
-| ![epic-drama-hd-hr] | ![epic-drama-hr] | ![fight-channel-hr] | ![filmbox-arthouse-hd-hr] | ![filmbox-arthouse-hr] | ![filmbox-extra-hd-hr] |
-| ![filmbox-extra-hr] | ![filmbox-premium-hd-hr] | ![filmbox-premium-hr] | ![filmbox-stars-hr] | ![fox-crime-hd-hr] | ![fox-crime-hr] |
-| ![fox-hd-hr] | ![fox-hr] | ![fox-life-hd-hr] | ![fox-life-hr] | ![fox-movies-hd-hr] | ![fox-movies-hd-hz-hr] |
-| ![fox-movies-hr] | ![hbo-hd-hr] | ![hbo-hr] | ![hbo2-hd-hr] | ![hbo2-hr] | ![hbo3-hd-hr] |
-| ![hbo3-hr] | ![hntv-hd-hr] | ![hntv-hr] | ![hrt-1-hd-hr] | ![hrt-1-hr] | ![hrt-2-hd-hr] |
-| ![hrt-2-hr] | ![hrt-3-hd-hr] | ![hrt-3-hr] | ![hrt-4-hd-hr] | ![hrt-4-hr] | ![hrt-int-hr] |
-| ![jugoton-tv-hr] | ![kanal-ri-hr] | ![kino-tv-hd-hr] | ![kino-tv-hr] | ![klape-i-tambure-tv-hr] | ![klasiktv-hr] |
-| ![kreator-tv-hr] | ![laudato-tv-hr] | ![libertas-tv-hr] | ![lov-i-ribolov-hr] | ![m1-film-family-hr] | ![m1-film-gold-hr] |
-| ![m1-film-hr] | ![mini-tv-hr] | ![mreza-tv-hr] | ![mreza-tv-split-hr] | ![mreza-tv-zagreb-hr] | ![n1-hr] |
-| ![narodni-hr] | ![nova-hd-hr] | ![nova-hr] | ![osjecka-hr] | ![otv-hr] | ![pickbox-tv-hd-hr] |
-| ![pickbox-tv-hr] | ![planet-sport-1-hr] | ![planet-sport-2-hr] | ![planet-sport-3-hr] | ![planet-sport-4-hr] | ![planet-sport-5-hr] |
-| ![plava-vinkovacka-hr] | ![poljoprivredna-tv-hr] | ![rtl-adria-hr] | ![rtl-crime-hr] | ![rtl-hr] | ![rtl-kockica-hr] |
-| ![rtl-kockica-hz-hr] | ![rtl-living-hr] | ![rtl-passion-hr] | ![rtl2-hr] | ![rtl2-hz-hr] | ![sbtv-hr] |
-| ![slavonska-televizija-hr] | ![sportklub-1-hd-hr] | ![sportklub-1-hr] | ![sportklub-10-hr] | ![sportklub-2-hd-hr] | ![sportklub-2-hr] |
-| ![sportklub-3-hd-hr] | ![sportklub-3-hr] | ![sportklub-4-hr] | ![sportklub-5-hr] | ![sportklub-6-hr] | ![sportklub-7-hr] |
-| ![sportklub-8-hr] | ![sportklub-9-hr] | ![sportklub-esports-hr] | ![sportklub-golf-hr] | ![sportklub-hd-hr] | ![sportklub-hr] |
-| ![sportskatv-hr] | ![televizija-dalmacija-hr] | ![televizija-jadran-hr] | ![televizija-student-hr] | ![televizija-zapad-hr] | ![trend-tv-hr] |
-| ![tv-sibenik-hr] | ![tv1000-hr] | ![varazdinska-televizija-hr] | ![viasat-explore-hd-hr] | ![viasat-explore-hr] | ![viasat-history-hd-hr] |
-| ![viasat-history-hr] | ![viasat-nature-hd-hr] | ![viasat-nature-hr] | ![z1-hr] | ![zdrava-televizija-hr] |  |
+| ![diadora-tv-hr] | ![diva-hr] | ![dizi-hr] | ![dmc-tv-hr] | ![doku-tv-hr] | ![doma-hd-hr] |
+| ![doma-hr] | ![dtx-hr] | ![dutv-hr] | ![epic-drama-hd-hr] | ![epic-drama-hr] | ![fight-channel-hr] |
+| ![filmbox-arthouse-hd-hr] | ![filmbox-arthouse-hr] | ![filmbox-extra-hd-hr] | ![filmbox-extra-hr] | ![filmbox-plus-hr] | ![filmbox-premium-hd-hr] |
+| ![filmbox-premium-hr] | ![filmbox-stars-hr] | ![fox-crime-hd-hr] | ![fox-crime-hr] | ![fox-hd-hr] | ![fox-hr] |
+| ![fox-life-hd-hr] | ![fox-life-hr] | ![fox-movies-hd-hr] | ![fox-movies-hd-hz-hr] | ![fox-movies-hr] | ![hbo-hd-hr] |
+| ![hbo-hr] | ![hbo2-hd-hr] | ![hbo2-hr] | ![hbo3-hd-hr] | ![hbo3-hr] | ![hntv-hd-hr] |
+| ![hntv-hr] | ![hrt-1-hd-hr] | ![hrt-1-hr] | ![hrt-2-hd-hr] | ![hrt-2-hr] | ![hrt-3-hd-hr] |
+| ![hrt-3-hr] | ![hrt-4-hd-hr] | ![hrt-4-hr] | ![hrt-int-hr] | ![jugoton-tv-hr] | ![kanal-ri-hr] |
+| ![kino-tv-hd-hr] | ![kino-tv-hr] | ![klape-i-tambure-tv-hr] | ![klasiktv-hr] | ![kreator-tv-hr] | ![laudato-tv-hr] |
+| ![libertas-tv-hr] | ![lov-i-ribolov-hr] | ![m1-film-family-hr] | ![m1-film-gold-hr] | ![m1-film-hr] | ![mini-tv-hr] |
+| ![mreza-tv-hr] | ![mreza-tv-split-hr] | ![mreza-tv-zagreb-hr] | ![n1-hr] | ![narodni-hr] | ![nova-hd-hr] |
+| ![nova-hr] | ![osjecka-hr] | ![otv-hr] | ![pickbox-tv-hd-hr] | ![pickbox-tv-hr] | ![planet-sport-1-hr] |
+| ![planet-sport-2-hr] | ![planet-sport-3-hr] | ![planet-sport-4-hr] | ![planet-sport-5-hr] | ![plava-vinkovacka-hr] | ![poljoprivredna-tv-hr] |
+| ![rtl-adria-hr] | ![rtl-crime-hr] | ![rtl-hr] | ![rtl-kockica-hr] | ![rtl-kockica-hz-hr] | ![rtl-living-hr] |
+| ![rtl-passion-hr] | ![rtl2-hr] | ![rtl2-hz-hr] | ![sbtv-hr] | ![slavonska-televizija-hr] | ![sportklub-1-hd-hr] |
+| ![sportklub-1-hr] | ![sportklub-10-hr] | ![sportklub-2-hd-hr] | ![sportklub-2-hr] | ![sportklub-3-hd-hr] | ![sportklub-3-hr] |
+| ![sportklub-4-hr] | ![sportklub-5-hr] | ![sportklub-6-hr] | ![sportklub-7-hr] | ![sportklub-8-hr] | ![sportklub-9-hr] |
+| ![sportklub-esports-hr] | ![sportklub-golf-hr] | ![sportklub-hd-hr] | ![sportklub-hr] | ![sportskatv-hr] | ![televizija-dalmacija-hr] |
+| ![televizija-jadran-hr] | ![televizija-student-hr] | ![televizija-zapad-hr] | ![trend-tv-hr] | ![tv-sibenik-hr] | ![tv1000-hr] |
+| ![varazdinska-televizija-hr] | ![viasat-explore-hd-hr] | ![viasat-explore-hr] | ![viasat-history-hd-hr] | ![viasat-history-hr] | ![viasat-nature-hd-hr] |
+| ![viasat-nature-hr] | ![z1-hr] | ![zdrava-televizija-hr] |  |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [aurora-tv-hr]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/croatia/aurora-tv-hr.png
@@ -56,10 +57,13 @@
 [cinestar-tv-premiere2-hr]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/croatia/cinestar-tv-premiere2-hr.png
 [cmc-tv-hr]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/croatia/cmc-tv-hr.png
 [diadora-tv-hr]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/croatia/diadora-tv-hr.png
+[diva-hr]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/croatia/diva-hr.png
 [dizi-hr]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/croatia/dizi-hr.png
 [dmc-tv-hr]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/croatia/dmc-tv-hr.png
+[doku-tv-hr]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/croatia/doku-tv-hr.png
 [doma-hd-hr]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/croatia/hd/doma-hd-hr.png
 [doma-hr]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/croatia/doma-hr.png
+[dtx-hr]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/croatia/dtx-hr.png
 [dutv-hr]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/croatia/dutv-hr.png
 [epic-drama-hd-hr]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/croatia/hd/epic-drama-hd-hr.png
 [epic-drama-hr]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/croatia/epic-drama-hr.png
@@ -68,6 +72,7 @@
 [filmbox-arthouse-hr]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/croatia/filmbox-arthouse-hr.png
 [filmbox-extra-hd-hr]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/croatia/hd/filmbox-extra-hd-hr.png
 [filmbox-extra-hr]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/croatia/filmbox-extra-hr.png
+[filmbox-plus-hr]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/croatia/filmbox-plus-hr.png
 [filmbox-premium-hd-hr]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/croatia/hd/filmbox-premium-hd-hr.png
 [filmbox-premium-hr]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/croatia/filmbox-premium-hr.png
 [filmbox-stars-hr]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/croatia/filmbox-stars-hr.png
