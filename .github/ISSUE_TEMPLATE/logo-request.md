@@ -7,14 +7,14 @@ assignees: Tapiosinn
 
 ---
 
-**What logo would you like to see? Why?**
-A clear and concise description of what the problem is.
+**What logo would you like to see?**
+Channel name: 
 
-**What country is the channel shown?**
-A clear and concise description of what you want to happen.
+**In what country is the channel shown?**
+Country: 
 
-**Links(optional)**
-Links to the logo or website of channel.
+**Links to some version of the logo or the website for the channel(optional)**
+Link: 
 
-**Additional context(optional)**
-Add any other context or screenshots about the logo request here.
+**Additional information(optional)**
+Info:
