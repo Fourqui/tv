@@ -21,6 +21,9 @@ Or support me by clicking the sponsor button here on Github.
 <a href="https://flattr.com/@Tapiosi"><img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/sponsor-button.png" width="200px"></a>
   
 
+## 📝 Logo request
+
+<a href="https://forms.gle/BVjAKFXwSCuWhpYi7">CLICK HERE</a> to go to a form request page where you can request a logo.
 
 🌍 Countries
 ===============
