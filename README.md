@@ -7,7 +7,7 @@ Contact: tapio.sinnertwin(at)gmail.com - I will try my best to reply within 24hr
 Here you will find free tv logos from around the world in good high-res quality and suitable for dark backgrounds.
   
 
-### ⭐️ I'm now at 7589 logos! *(December 15th 2021)*
+### ⭐️ I'm now at 7971 logos! *(March 4th 2022)*
 
 ## 💛 Support me to continue this project
 
@@ -34,12 +34,12 @@ Click on a country to go to its directory. From there you can click the mosaic f
 |---|---|---|---|---|---|
 | 🇦🇷 [Argentina]  | 🇦🇺 [Australia]  | 🇦🇹 [Austria]  | 🇧🇪 [Belgium]  | 🇨🇦 [Canada]  | 🌎 [Caribbean] |
 | 🇭🇷 [Croatia]  | 🇩🇰 [Denmark]  | 🇫🇮 [Finland]  | 🇫🇷 [France]  | 🇩🇪 [Germany]  | 🇬🇷 [Greece]  |
-| 🇭🇰 [Hong-Kong]  | 🇮🇸 [Iceland]  | 🇮🇳 [India]  | 🌍 [International] | 🇮🇹 [Italy]  | 🇲🇾 [Malaysia]  |
-| 🇲🇹 [Malta]  | 🇲🇽 [Mexico]  | 🇳🇱 [Netherlands]  | 🇳🇿 [New-Zealand]  | 🌍 [Nordic] | 🇳🇴 [Norway]  |
-| 🇵🇱 [Poland]  | 🇵🇹 [Portugal]  | 🇷🇺 [Russia]  | 🇷🇸 [Serbia]  | 🇿🇦 [South-Africa]  | 🇪🇸 [Spain]  |
-| 🇸🇪 [Sweden]  | 🇨🇭 [Switzerland]  | 🇹🇷 [Turkey]  | 🇬🇧 [United-Kingdom]  | 🇺🇸 [United-States]  | 🌍 [World-Africa] |
-| 🌏 [World-Asia] | 🌍 [World-Europe] | 🌎 [World-Latin-America] | 🌏 [World-Middle-East] | 🌏 [World-Oceania] | ⭐️ [Misc] |
-| 📼 [Vod] |   |   |   |  |   |
+| 🇭🇰 [Hong-Kong]  | 🇮🇸 [Iceland]  | 🇮🇳 [India]  | 🌍 [International] | 🇮🇹 [Italy]  | 🇱🇧 [Lebanon]  |
+| 🇲🇾 [Malaysia]  | 🇲🇹 [Malta]  | 🇲🇽 [Mexico]  | 🇳🇱 [Netherlands]  | 🇳🇿 [New-Zealand]  | 🌍 [Nordic] |
+| 🇳🇴 [Norway]  | 🇵🇱 [Poland]  | 🇵🇹 [Portugal]  | 🇷🇺 [Russia]  | 🇷🇸 [Serbia]  | 🇿🇦 [South-Africa]  |
+| 🇪🇸 [Spain]  | 🇸🇪 [Sweden]  | 🇨🇭 [Switzerland]  | 🇹🇷 [Turkey]  | 🇬🇧 [United-Kingdom]  | 🇺🇸 [United-States]  |
+| 🌍 [World-Africa] | 🌏 [World-Asia] | 🌍 [World-Europe] | 🌎 [World-Latin-America] | 🌏 [World-Middle-East] | 🌏 [World-Oceania] |
+| ⭐️ [Misc] | 📼 [Vod] |   |   |   |   |
 
 [Argentina]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/argentina "Argentina"
 [Australia]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/australia "Australia"
@@ -56,6 +56,7 @@ Click on a country to go to its directory. From there you can click the mosaic f
 [International]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/international "International"
 [Italy]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/italy "Italy"
 [Malaysia]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/malaysia "Malaysia"
+[Lebanon]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/lebanon "Lebanon"
 [Malta]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/malta "Malta"
 [Mexico]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/mexico "Mexico"
 [Netherlands]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/netherlands "Netherlands"
