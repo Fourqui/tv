@@ -24,7 +24,7 @@
 | ![cinemax] | ![cinemax2] | ![cinestar-tv-1] | ![cinestar-tv-action] | ![cinestar-tv-comedy] | ![cinestar-tv-fantasy] |
 | ![city-play] | ![crime-and-investigation] | ![da-vinci] | ![decija-tv] | ![dexy-tv] | ![discovery-science] |
 | ![disney-channel] | ![disney-junior] | ![diva] | ![dm-sat] | ![docubox] | ![dorcel-tv] |
-| ![dorcel-xxx] | ![dox-tv] | ![dtx] | ![duck-tv] | ![dunav-televizija] | ![e-entertainment] |
+| ![dorcel-xxx] | ![dox-tv] | ![dtx] | ![duck-tv] | ![dunav-televizija] | <img src=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/serbia/e-entertainment-rs.png height="130px"> |
 | ![english-club-tv] | ![epic-drama] | ![erotic] | ![erotic-2] | ![erotic-3] | ![erotic-4] |
 | ![erotic-5] | ![erotic-6] | ![erotic-7] | ![erotic-8] | ![euronews-serbia] | ![eurosport-1] |
 | ![eurosport-2] | ![extreme-sports-channel] | ![face-tv] | ![fashion-tv] | ![fashionbox] | ![fast-and-fun-box] |
