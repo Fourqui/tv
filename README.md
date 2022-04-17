@@ -7,7 +7,7 @@ Contact: tapio.sinnertwin(at)gmail.com - I will try my best to reply within 24hr
 Here you will find free tv logos from around the world in good high-res quality and suitable for dark backgrounds.
   
 
-### ⭐️ I'm now at 7971 logos! *(March 4th 2022)*
+### ⭐️ I'm now at 8107 logos! *(April 17th 2022)*
 
 ## 💛 Support me to continue this project
 
@@ -33,13 +33,13 @@ Click on a country to go to its directory. From there you can click the mosaic f
 |  ![Space] |  ![Space] |  ![Space] |  ![Space] |  ![Space] |  ![Space] |
 |---|---|---|---|---|---|
 | 🇦🇷 [Argentina]  | 🇦🇺 [Australia]  | 🇦🇹 [Austria]  | 🇧🇪 [Belgium]  | 🇨🇦 [Canada]  | 🌎 [Caribbean] |
-| 🇭🇷 [Croatia]  | 🇩🇰 [Denmark]  | 🇫🇮 [Finland]  | 🇫🇷 [France]  | 🇩🇪 [Germany]  | 🇬🇷 [Greece]  |
-| 🇭🇰 [Hong-Kong]  | 🇮🇸 [Iceland]  | 🇮🇳 [India]  | 🌍 [International] | 🇮🇹 [Italy]  | 🇱🇧 [Lebanon]  |
-| 🇲🇾 [Malaysia]  | 🇲🇹 [Malta]  | 🇲🇽 [Mexico]  | 🇳🇱 [Netherlands]  | 🇳🇿 [New-Zealand]  | 🌍 [Nordic] |
-| 🇳🇴 [Norway]  | 🇵🇱 [Poland]  | 🇵🇹 [Portugal]  | 🇷🇺 [Russia]  | 🇷🇸 [Serbia]  | 🇿🇦 [South-Africa]  |
-| 🇪🇸 [Spain]  | 🇸🇪 [Sweden]  | 🇨🇭 [Switzerland]  | 🇹🇷 [Turkey]  | 🇬🇧 [United-Kingdom]  | 🇺🇸 [United-States]  |
-| 🌍 [World-Africa] | 🌏 [World-Asia] | 🌍 [World-Europe] | 🌎 [World-Latin-America] | 🌏 [World-Middle-East] | 🌏 [World-Oceania] |
-| ⭐️ [Misc] | 📼 [Vod] |   |   |   |   |
+| 🇨🇷 [Costa-Rica]  | 🇭🇷 [Croatia]  | 🇩🇰 [Denmark]  | 🇫🇮 [Finland]  | 🇫🇷 [France]  | 🇩🇪 [Germany]  |
+| 🇬🇷 [Greece]  | 🇭🇰 [Hong-Kong]  | 🇮🇸 [Iceland]  | 🇮🇳 [India]  | 🇮🇩 [Indonesia]  | 🌍 [International] |
+| 🇮🇹 [Italy]  | 🇱🇧 [Lebanon]  | 🇲🇾 [Malaysia]  | 🇲🇹 [Malta]  | 🇲🇽 [Mexico]  | 🇳🇱 [Netherlands]  |
+| 🇳🇿 [New-Zealand]  | 🌍 [Nordic] | 🇳🇴 [Norway]  | 🇵🇱 [Poland]  | 🇵🇹 [Portugal]  | 🇷🇺 [Russia]  |
+| 🇷🇸 [Serbia]  | 🇸🇬 [Singapore]  | 🇿🇦 [South-Africa]  | 🇪🇸 [Spain]  | 🇸🇪 [Sweden]  | 🇨🇭 [Switzerland]  |
+| 🇹🇷 [Turkey]  | 🇬🇧 [United-Kingdom]  | 🇺🇸 [United-States]  | 🌍 [World-Africa] | 🌏 [World-Asia] | 🌍 [World-Europe] |
+| 🌎 [World-Latin-America] | 🌏 [World-Middle-East] | 🌏 [World-Oceania] | ⭐️ [Misc] | 📼 [Vod] |   |
 
 [Argentina]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/argentina "Argentina"
 [Australia]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/australia "Australia"
@@ -48,6 +48,7 @@ Click on a country to go to its directory. From there you can click the mosaic f
 [Canada]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/canada "Canada"
 [Caribbean]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/caribbean "Caribbean"
 [Croatia]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/croatia "Croatia"
+[Costa-Rica]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/costa-rica "Costa-Rica"
 [France]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/france "France"
 [Germany]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany "Germany"
 [Greece]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/greece "Greece"
@@ -65,12 +66,14 @@ Click on a country to go to its directory. From there you can click the mosaic f
 [Denmark]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/nordic/denmark "Denmark"
 [Finland]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/nordic/finland "Finland"
 [Iceland]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/nordic/iceland "Iceland"
+[Indonesia]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/indonesia "Indonesia"
 [Norway]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/nordic/norway "Norway"
 [Sweden]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/nordic/sweden "Sweden"
 [Poland]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/poland "Poland"
 [Portugal]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/portugal "Portugal"
 [Russia]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/russia "Russia"
 [Serbia]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/serbia "Serbia"
+[Singapore]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/singapore "Singapore"
 [South-Africa]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/south-africa "South-Africa"
 [Spain]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain "Spain"
 [Switzerland]:https://github.com/Tapiosinn/tv-logos/blob/master/countries/switzerland "Switzerland"
