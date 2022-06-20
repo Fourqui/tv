@@ -66,12 +66,8 @@ Click on a country to go to its directory. From there you can click the mosaic f
 [Misc]:https://github.com/Tapiosinn/tv-logos/tree/master/misc "Misc"
 [VOD]:https://github.com/Tapiosinn/tv-logos/tree/master/misc/vod "VOD"
 
-[space]:https://github.com/Tapiosinn/tv-logos/blob/master/misc/%CE%A9/space-1500.png
-
-  
- 
 ## VOD logos moved
-I have moved the VOD logos to <a href="https://github.com/Tapiosinn/tv-logos/tree/master/misc">/misc</a>
+I have moved the VOD logos to <a href="https://github.com/Fourqui/tv/tree/master/misc">/misc</a>
 
 If you were directly linking to them, all you have to do is replace this string -> '.../countries/united-states/vod/' with this one -> '.../misc/vod/'
 
@@ -80,7 +76,7 @@ I've started the work on resizing all the logos down to 512px and optimizing the
   
 
 Important note: Most of my logos only work on dark background! Most tv apps and guides have a dark user interface.
-<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/logoset_demo-2.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/Fourqui/tv/master/misc/logoset_demo-2.jpg" width="100%">
 
 ## About the project
 The logos are adjusted to work on a dark background. Some of them are not suitable for light backgrounds. Since the Git interface is white you might think the logo is not loading but it is, just copy the **RAW** link by clicking the download button and use that URL <a href="https://github.com/Tapiosinn/tv-logos/blob/master/how-to.md">CLICK HERE for logo url help-guide.</a> I recommend getting a browser extension that changes Git to dark. ***Update: Git has now implemented dark mode.***
@@ -88,9 +84,9 @@ The logos are adjusted to work on a dark background. Some of them are not suitab
 Get GitHub Dark Theme for <a href="https://chrome.google.com/webstore/detail/github-dark-theme/odkdlljoangmamjilkamahebpkgpeacp">CHROME</a> or <a href="https://addons.mozilla.org/en-US/firefox/addon/github-dark-theme/">FIREFOX</a>
 
 Here's a preview of some of the logos on a dark background(not a real software):
-<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/contrastDemo2.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/Fourqui/tv/master/misc/contrastDemo2.jpg" width="100%">
  
-<a href="https://github.com/Tapiosinn/tv-logos/blob/master/how-to.md">CLICK HERE for guide on how to use the logos</a>
+<a href="https://github.com/Fourqui/tv/blob/master/how-to.md">CLICK HERE for guide on how to use the logos</a>
 
 ## I will regularly add new channel logos, you can also message me and request logos.
 
