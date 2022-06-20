@@ -94,17 +94,6 @@ Here's a preview of some of the logos on a dark background(not a real software):
 
 ## I will regularly add new channel logos, you can also message me and request logos.
 
-If you want to support me continuing the work, you can donate by clicking the donate button:
-Donaters can jump in line and request missing logos for me to do as soon as I can.
-
-<a href="https://www.paypal.me/9000hobbs"><img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/paypal-donate.png" width="150px"></a>
-
-Or support me by clicking the sponsor button here on Github.
-
-<a href="https://flattr.com/@Tapiosi"><img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/sponsor-button.png" width="150px"></a>
-
-- Donators get a channel logo request. I also take requests for custom logos or logos for a light background.
-
 - The goal of this project is to give people better access to logos in good quality and to meet the design requirements of the designers/owners of the logos and supply the increasing demand for better quality experience.
 
 - All the logos come in PNG format and work perfectly on dark backgrounds.
