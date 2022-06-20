@@ -2,29 +2,6 @@
 
 <h1>Free high quality TV Logos for dark backgrounds</h1>
 
-Contact: tapio.sinnertwin(at)gmail.com - I will try my best to reply within 24hr.
-
-Here you will find free tv logos from around the world in good high-res quality and suitable for dark backgrounds.
-  
-
-### ⭐️ I'm now at 8107 logos! *(April 17th 2022)*
-
-## 💛 Support me to continue this project
-
-If you want to support me continuing the work, you can donate by clicking the donate button.
-Creating the logos and maintaining them and the github takes quite the time and I would like to put in more work on this project so any donation helps!
-
-<a href="https://www.paypal.me/9000hobbs"><img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/paypal-donate.png" width="200px"></a>
-
-Or support me by clicking the sponsor button here on Github.
-
-<a href="https://flattr.com/@Tapiosi"><img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/sponsor-button.png" width="200px"></a>
-  
-
-## 📝 Logo request
-
-<a href="https://forms.gle/BVjAKFXwSCuWhpYi7">CLICK HERE</a> to go to a form request page where you can request a logo.
-
 🌍 Countries
 ===============
 Click on a country to go to its directory. From there you can click the mosaic file at top to see the logos rendered.
